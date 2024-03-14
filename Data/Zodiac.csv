@@ -1,367 +1,367 @@
-Date_ID,Month,Day,Zodiac
-1,1,1,Capricorn
-2,1,2,Capricorn
-3,1,3,Capricorn
-4,1,4,Capricorn
-5,1,5,Capricorn
-6,1,6,Capricorn
-7,1,7,Capricorn
-8,1,8,Capricorn
-9,1,9,Capricorn
-10,1,10,Capricorn
-11,1,11,Capricorn
-12,1,12,Capricorn
-13,1,13,Capricorn
-14,1,14,Capricorn
-15,1,15,Capricorn
-16,1,16,Capricorn
-17,1,17,Capricorn
-18,1,18,Capricorn
-19,1,19,Capricorn
-20,1,20,Aquarius
-21,1,21,Aquarius
-22,1,22,Aquarius
-23,1,23,Aquarius
-24,1,24,Aquarius
-25,1,25,Aquarius
-26,1,26,Aquarius
-27,1,27,Aquarius
-28,1,28,Aquarius
-29,1,29,Aquarius
-30,1,30,Aquarius
-31,1,31,Aquarius
-32,2,1,Aquarius
-33,2,2,Aquarius
-34,2,3,Aquarius
-35,2,4,Aquarius
-36,2,5,Aquarius
-37,2,6,Aquarius
-38,2,7,Aquarius
-39,2,8,Aquarius
-40,2,9,Aquarius
-41,2,10,Aquarius
-42,2,11,Aquarius
-43,2,12,Aquarius
-44,2,13,Aquarius
-45,2,14,Aquarius
-46,2,15,Aquarius
-47,2,16,Aquarius
-48,2,17,Aquarius
-49,2,18,Aquarius
-50,2,19,Pisces
-51,2,20,Pisces
-52,2,21,Pisces
-53,2,22,Pisces
-54,2,23,Pisces
-55,2,24,Pisces
-56,2,25,Pisces
-57,2,26,Pisces
-58,2,27,Pisces
-59,2,28,Pisces
-60,2,29,Pisces
-61,3,1,Pisces
-62,3,2,Pisces
-63,3,3,Pisces
-64,3,4,Pisces
-65,3,5,Pisces
-66,3,6,Pisces
-67,3,7,Pisces
-68,3,8,Pisces
-69,3,9,Pisces
-70,3,10,Pisces
-71,3,11,Pisces
-72,3,12,Pisces
-73,3,13,Pisces
-74,3,14,Pisces
-75,3,15,Pisces
-76,3,16,Pisces
-77,3,17,Pisces
-78,3,18,Pisces
-79,3,19,Pisces
-80,3,20,Pisces
-81,3,21,Aries
-82,3,22,Aries
-83,3,23,Aries
-84,3,24,Aries
-85,3,25,Aries
-86,3,26,Aries
-87,3,27,Aries
-88,3,28,Aries
-89,3,29,Aries
-90,3,30,Aries
-91,3,31,Aries
-92,4,1,Aries
-93,4,2,Aries
-94,4,3,Aries
-95,4,4,Aries
-96,4,5,Aries
-97,4,6,Aries
-98,4,7,Aries
-99,4,8,Aries
-100,4,9,Aries
-101,4,10,Aries
-102,4,11,Aries
-103,4,12,Aries
-104,4,13,Aries
-105,4,14,Aries
-106,4,15,Aries
-107,4,16,Aries
-108,4,17,Aries
-109,4,18,Aries
-110,4,19,Aries
-111,4,20,Taurus
-112,4,21,Taurus
-113,4,22,Taurus
-114,4,23,Taurus
-115,4,24,Taurus
-116,4,25,Taurus
-117,4,26,Taurus
-118,4,27,Taurus
-119,4,28,Taurus
-120,4,29,Taurus
-121,4,30,Taurus
-122,5,1,Taurus
-123,5,2,Taurus
-124,5,3,Taurus
-125,5,4,Taurus
-126,5,5,Taurus
-127,5,6,Taurus
-128,5,7,Taurus
-129,5,8,Taurus
-130,5,9,Taurus
-131,5,10,Taurus
-132,5,11,Taurus
-133,5,12,Taurus
-134,5,13,Taurus
-135,5,14,Taurus
-136,5,15,Taurus
-137,5,16,Taurus
-138,5,17,Taurus
-139,5,18,Taurus
-140,5,19,Taurus
-141,5,20,Taurus
-142,5,21,Gemini
-143,5,22,Gemini
-144,5,23,Gemini
-145,5,24,Gemini
-146,5,25,Gemini
-147,5,26,Gemini
-148,5,27,Gemini
-149,5,28,Gemini
-150,5,29,Gemini
-151,5,30,Gemini
-152,5,31,Gemini
-153,6,1,Gemini
-154,6,2,Gemini
-155,6,3,Gemini
-156,6,4,Gemini
-157,6,5,Gemini
-158,6,6,Gemini
-159,6,7,Gemini
-160,6,8,Gemini
-161,6,9,Gemini
-162,6,10,Gemini
-163,6,11,Gemini
-164,6,12,Gemini
-165,6,13,Gemini
-166,6,14,Gemini
-167,6,15,Gemini
-168,6,16,Gemini
-169,6,17,Gemini
-170,6,18,Gemini
-171,6,19,Gemini
-172,6,20,Gemini
-173,6,21,Cancer
-174,6,22,Cancer
-175,6,23,Cancer
-176,6,24,Cancer
-177,6,25,Cancer
-178,6,26,Cancer
-179,6,27,Cancer
-180,6,28,Cancer
-181,6,29,Cancer
-182,6,30,Cancer
-183,7,1,Cancer
-184,7,2,Cancer
-185,7,3,Cancer
-186,7,4,Cancer
-187,7,5,Cancer
-188,7,6,Cancer
-189,7,7,Cancer
-190,7,8,Cancer
-191,7,9,Cancer
-192,7,10,Cancer
-193,7,11,Cancer
-194,7,12,Cancer
-195,7,13,Cancer
-196,7,14,Cancer
-197,7,15,Cancer
-198,7,16,Cancer
-199,7,17,Cancer
-200,7,18,Cancer
-201,7,19,Cancer
-202,7,20,Cancer
-203,7,21,Cancer
-204,7,22,Cancer
-205,7,23,Leo
-206,7,24,Leo
-207,7,25,Leo
-208,7,26,Leo
-209,7,27,Leo
-210,7,28,Leo
-211,7,29,Leo
-212,7,30,Leo
-213,7,31,Leo
-214,8,1,Leo
-215,8,2,Leo
-216,8,3,Leo
-217,8,4,Leo
-218,8,5,Leo
-219,8,6,Leo
-220,8,7,Leo
-221,8,8,Leo
-222,8,9,Leo
-223,8,10,Leo
-224,8,11,Leo
-225,8,12,Leo
-226,8,13,Leo
-227,8,14,Leo
-228,8,15,Leo
-229,8,16,Leo
-230,8,17,Leo
-231,8,18,Leo
-232,8,19,Leo
-233,8,20,Leo
-234,8,21,Leo
-235,8,22,Leo
-236,8,23,Virgo
-237,8,24,Virgo
-238,8,25,Virgo
-239,8,26,Virgo
-240,8,27,Virgo
-241,8,28,Virgo
-242,8,29,Virgo
-243,8,30,Virgo
-244,8,31,Virgo
-245,9,1,Virgo
-246,9,2,Virgo
-247,9,3,Virgo
-248,9,4,Virgo
-249,9,5,Virgo
-250,9,6,Virgo
-251,9,7,Virgo
-252,9,8,Virgo
-253,9,9,Virgo
-254,9,10,Virgo
-255,9,11,Virgo
-256,9,12,Virgo
-257,9,13,Virgo
-258,9,14,Virgo
-259,9,15,Virgo
-260,9,16,Virgo
-261,9,17,Virgo
-262,9,18,Virgo
-263,9,19,Virgo
-264,9,20,Virgo
-265,9,21,Virgo
-266,9,22,Virgo
-267,9,23,Libra
-268,9,24,Libra
-269,9,25,Libra
-270,9,26,Libra
-271,9,27,Libra
-272,9,28,Libra
-273,9,29,Libra
-274,9,30,Libra
-275,10,1,Libra
-276,10,2,Libra
-277,10,3,Libra
-278,10,4,Libra
-279,10,5,Libra
-280,10,6,Libra
-281,10,7,Libra
-282,10,8,Libra
-283,10,9,Libra
-284,10,10,Libra
-285,10,11,Libra
-286,10,12,Libra
-287,10,13,Libra
-288,10,14,Libra
-289,10,15,Libra
-290,10,16,Libra
-291,10,17,Libra
-292,10,18,Libra
-293,10,19,Libra
-294,10,20,Libra
-295,10,21,Libra
-296,10,22,Libra
-297,10,23,Scorpio
-298,10,24,Scorpio
-299,10,25,Scorpio
-300,10,26,Scorpio
-301,10,27,Scorpio
-302,10,28,Scorpio
-303,10,29,Scorpio
-304,10,30,Scorpio
-305,10,31,Scorpio
-306,11,1,Scorpio
-307,11,2,Scorpio
-308,11,3,Scorpio
-309,11,4,Scorpio
-310,11,5,Scorpio
-311,11,6,Scorpio
-312,11,7,Scorpio
-313,11,8,Scorpio
-314,11,9,Scorpio
-315,11,10,Scorpio
-316,11,11,Scorpio
-317,11,12,Scorpio
-318,11,13,Scorpio
-319,11,14,Scorpio
-320,11,15,Scorpio
-321,11,16,Scorpio
-322,11,17,Scorpio
-323,11,18,Scorpio
-324,11,19,Scorpio
-325,11,20,Scorpio
-326,11,21,Scorpio
-327,11,22,Sagittarius
-328,11,23,Sagittarius
-329,11,24,Sagittarius
-330,11,25,Sagittarius
-331,11,26,Sagittarius
-332,11,27,Sagittarius
-333,11,28,Sagittarius
-334,11,29,Sagittarius
-335,11,30,Sagittarius
-336,12,1,Sagittarius
-337,12,2,Sagittarius
-338,12,3,Sagittarius
-339,12,4,Sagittarius
-340,12,5,Sagittarius
-341,12,6,Sagittarius
-342,12,7,Sagittarius
-343,12,8,Sagittarius
-344,12,9,Sagittarius
-345,12,10,Sagittarius
-346,12,11,Sagittarius
-347,12,12,Sagittarius
-348,12,13,Sagittarius
-349,12,14,Sagittarius
-350,12,15,Sagittarius
-351,12,16,Sagittarius
-352,12,17,Sagittarius
-353,12,18,Sagittarius
-354,12,19,Sagittarius
-355,12,20,Sagittarius
-356,12,21,Sagittarius
-357,12,22,Capricorn
-358,12,23,Capricorn
-359,12,24,Capricorn
-360,12,25,Capricorn
-361,12,26,Capricorn
-362,12,27,Capricorn
-363,12,28,Capricorn
-364,12,29,Capricorn
-365,12,30,Capricorn
-366,12,31,Capricorn
+Date_ID,Month,Day,Zodiac,Element,Career Strengths
+1,1,1,Capricorn,Earth,"High-Achieving, Driven"
+2,1,2,Capricorn,Earth,"High-Achieving, Driven"
+3,1,3,Capricorn,Earth,"High-Achieving, Driven"
+4,1,4,Capricorn,Earth,"High-Achieving, Driven"
+5,1,5,Capricorn,Earth,"High-Achieving, Driven"
+6,1,6,Capricorn,Earth,"High-Achieving, Driven"
+7,1,7,Capricorn,Earth,"High-Achieving, Driven"
+8,1,8,Capricorn,Earth,"High-Achieving, Driven"
+9,1,9,Capricorn,Earth,"High-Achieving, Driven"
+10,1,10,Capricorn,Earth,"High-Achieving, Driven"
+11,1,11,Capricorn,Earth,"High-Achieving, Driven"
+12,1,12,Capricorn,Earth,"High-Achieving, Driven"
+13,1,13,Capricorn,Earth,"High-Achieving, Driven"
+14,1,14,Capricorn,Earth,"High-Achieving, Driven"
+15,1,15,Capricorn,Earth,"High-Achieving, Driven"
+16,1,16,Capricorn,Earth,"High-Achieving, Driven"
+17,1,17,Capricorn,Earth,"High-Achieving, Driven"
+18,1,18,Capricorn,Earth,"High-Achieving, Driven"
+19,1,19,Capricorn,Earth,"High-Achieving, Driven"
+20,1,20,Aquarius,Air,"Well-Rounded, Flexible"
+21,1,21,Aquarius,Air,"Well-Rounded, Flexible"
+22,1,22,Aquarius,Air,"Well-Rounded, Flexible"
+23,1,23,Aquarius,Air,"Well-Rounded, Flexible"
+24,1,24,Aquarius,Air,"Well-Rounded, Flexible"
+25,1,25,Aquarius,Air,"Well-Rounded, Flexible"
+26,1,26,Aquarius,Air,"Well-Rounded, Flexible"
+27,1,27,Aquarius,Air,"Well-Rounded, Flexible"
+28,1,28,Aquarius,Air,"Well-Rounded, Flexible"
+29,1,29,Aquarius,Air,"Well-Rounded, Flexible"
+30,1,30,Aquarius,Air,"Well-Rounded, Flexible"
+31,1,31,Aquarius,Air,"Well-Rounded, Flexible"
+32,2,1,Aquarius,Air,"Well-Rounded, Flexible"
+33,2,2,Aquarius,Air,"Well-Rounded, Flexible"
+34,2,3,Aquarius,Air,"Well-Rounded, Flexible"
+35,2,4,Aquarius,Air,"Well-Rounded, Flexible"
+36,2,5,Aquarius,Air,"Well-Rounded, Flexible"
+37,2,6,Aquarius,Air,"Well-Rounded, Flexible"
+38,2,7,Aquarius,Air,"Well-Rounded, Flexible"
+39,2,8,Aquarius,Air,"Well-Rounded, Flexible"
+40,2,9,Aquarius,Air,"Well-Rounded, Flexible"
+41,2,10,Aquarius,Air,"Well-Rounded, Flexible"
+42,2,11,Aquarius,Air,"Well-Rounded, Flexible"
+43,2,12,Aquarius,Air,"Well-Rounded, Flexible"
+44,2,13,Aquarius,Air,"Well-Rounded, Flexible"
+45,2,14,Aquarius,Air,"Well-Rounded, Flexible"
+46,2,15,Aquarius,Air,"Well-Rounded, Flexible"
+47,2,16,Aquarius,Air,"Well-Rounded, Flexible"
+48,2,17,Aquarius,Air,"Well-Rounded, Flexible"
+49,2,18,Aquarius,Air,"Well-Rounded, Flexible"
+50,2,19,Pisces,Water,"Imaginative, Sensitive, Creative"
+51,2,20,Pisces,Water,"Imaginative, Sensitive, Creative"
+52,2,21,Pisces,Water,"Imaginative, Sensitive, Creative"
+53,2,22,Pisces,Water,"Imaginative, Sensitive, Creative"
+54,2,23,Pisces,Water,"Imaginative, Sensitive, Creative"
+55,2,24,Pisces,Water,"Imaginative, Sensitive, Creative"
+56,2,25,Pisces,Water,"Imaginative, Sensitive, Creative"
+57,2,26,Pisces,Water,"Imaginative, Sensitive, Creative"
+58,2,27,Pisces,Water,"Imaginative, Sensitive, Creative"
+59,2,28,Pisces,Water,"Imaginative, Sensitive, Creative"
+60,2,29,Pisces,Water,"Imaginative, Sensitive, Creative"
+61,3,1,Pisces,Water,"Imaginative, Sensitive, Creative"
+62,3,2,Pisces,Water,"Imaginative, Sensitive, Creative"
+63,3,3,Pisces,Water,"Imaginative, Sensitive, Creative"
+64,3,4,Pisces,Water,"Imaginative, Sensitive, Creative"
+65,3,5,Pisces,Water,"Imaginative, Sensitive, Creative"
+66,3,6,Pisces,Water,"Imaginative, Sensitive, Creative"
+67,3,7,Pisces,Water,"Imaginative, Sensitive, Creative"
+68,3,8,Pisces,Water,"Imaginative, Sensitive, Creative"
+69,3,9,Pisces,Water,"Imaginative, Sensitive, Creative"
+70,3,10,Pisces,Water,"Imaginative, Sensitive, Creative"
+71,3,11,Pisces,Water,"Imaginative, Sensitive, Creative"
+72,3,12,Pisces,Water,"Imaginative, Sensitive, Creative"
+73,3,13,Pisces,Water,"Imaginative, Sensitive, Creative"
+74,3,14,Pisces,Water,"Imaginative, Sensitive, Creative"
+75,3,15,Pisces,Water,"Imaginative, Sensitive, Creative"
+76,3,16,Pisces,Water,"Imaginative, Sensitive, Creative"
+77,3,17,Pisces,Water,"Imaginative, Sensitive, Creative"
+78,3,18,Pisces,Water,"Imaginative, Sensitive, Creative"
+79,3,19,Pisces,Water,"Imaginative, Sensitive, Creative"
+80,3,20,Pisces,Water,"Imaginative, Sensitive, Creative"
+81,3,21,Aries,Fire,"People-Oriented, Authoritative"
+82,3,22,Aries,Fire,"People-Oriented, Authoritative"
+83,3,23,Aries,Fire,"People-Oriented, Authoritative"
+84,3,24,Aries,Fire,"People-Oriented, Authoritative"
+85,3,25,Aries,Fire,"People-Oriented, Authoritative"
+86,3,26,Aries,Fire,"People-Oriented, Authoritative"
+87,3,27,Aries,Fire,"People-Oriented, Authoritative"
+88,3,28,Aries,Fire,"People-Oriented, Authoritative"
+89,3,29,Aries,Fire,"People-Oriented, Authoritative"
+90,3,30,Aries,Fire,"People-Oriented, Authoritative"
+91,3,31,Aries,Fire,"People-Oriented, Authoritative"
+92,4,1,Aries,Fire,"People-Oriented, Authoritative"
+93,4,2,Aries,Fire,"People-Oriented, Authoritative"
+94,4,3,Aries,Fire,"People-Oriented, Authoritative"
+95,4,4,Aries,Fire,"People-Oriented, Authoritative"
+96,4,5,Aries,Fire,"People-Oriented, Authoritative"
+97,4,6,Aries,Fire,"People-Oriented, Authoritative"
+98,4,7,Aries,Fire,"People-Oriented, Authoritative"
+99,4,8,Aries,Fire,"People-Oriented, Authoritative"
+100,4,9,Aries,Fire,"People-Oriented, Authoritative"
+101,4,10,Aries,Fire,"People-Oriented, Authoritative"
+102,4,11,Aries,Fire,"People-Oriented, Authoritative"
+103,4,12,Aries,Fire,"People-Oriented, Authoritative"
+104,4,13,Aries,Fire,"People-Oriented, Authoritative"
+105,4,14,Aries,Fire,"People-Oriented, Authoritative"
+106,4,15,Aries,Fire,"People-Oriented, Authoritative"
+107,4,16,Aries,Fire,"People-Oriented, Authoritative"
+108,4,17,Aries,Fire,"People-Oriented, Authoritative"
+109,4,18,Aries,Fire,"People-Oriented, Authoritative"
+110,4,19,Aries,Fire,"People-Oriented, Authoritative"
+111,4,20,Taurus,Earth,"Financially-Adept, Good with math"
+112,4,21,Taurus,Earth,"Financially-Adept, Good with math"
+113,4,22,Taurus,Earth,"Financially-Adept, Good with math"
+114,4,23,Taurus,Earth,"Financially-Adept, Good with math"
+115,4,24,Taurus,Earth,"Financially-Adept, Good with math"
+116,4,25,Taurus,Earth,"Financially-Adept, Good with math"
+117,4,26,Taurus,Earth,"Financially-Adept, Good with math"
+118,4,27,Taurus,Earth,"Financially-Adept, Good with math"
+119,4,28,Taurus,Earth,"Financially-Adept, Good with math"
+120,4,29,Taurus,Earth,"Financially-Adept, Good with math"
+121,4,30,Taurus,Earth,"Financially-Adept, Good with math"
+122,5,1,Taurus,Earth,"Financially-Adept, Good with math"
+123,5,2,Taurus,Earth,"Financially-Adept, Good with math"
+124,5,3,Taurus,Earth,"Financially-Adept, Good with math"
+125,5,4,Taurus,Earth,"Financially-Adept, Good with math"
+126,5,5,Taurus,Earth,"Financially-Adept, Good with math"
+127,5,6,Taurus,Earth,"Financially-Adept, Good with math"
+128,5,7,Taurus,Earth,"Financially-Adept, Good with math"
+129,5,8,Taurus,Earth,"Financially-Adept, Good with math"
+130,5,9,Taurus,Earth,"Financially-Adept, Good with math"
+131,5,10,Taurus,Earth,"Financially-Adept, Good with math"
+132,5,11,Taurus,Earth,"Financially-Adept, Good with math"
+133,5,12,Taurus,Earth,"Financially-Adept, Good with math"
+134,5,13,Taurus,Earth,"Financially-Adept, Good with math"
+135,5,14,Taurus,Earth,"Financially-Adept, Good with math"
+136,5,15,Taurus,Earth,"Financially-Adept, Good with math"
+137,5,16,Taurus,Earth,"Financially-Adept, Good with math"
+138,5,17,Taurus,Earth,"Financially-Adept, Good with math"
+139,5,18,Taurus,Earth,"Financially-Adept, Good with math"
+140,5,19,Taurus,Earth,"Financially-Adept, Good with math"
+141,5,20,Taurus,Earth,"Financially-Adept, Good with math"
+142,5,21,Gemini,Air,"Quick-witted, good at public speaking, debates"
+143,5,22,Gemini,Air,"Quick-witted, good at public speaking, debates"
+144,5,23,Gemini,Air,"Quick-witted, good at public speaking, debates"
+145,5,24,Gemini,Air,"Quick-witted, good at public speaking, debates"
+146,5,25,Gemini,Air,"Quick-witted, good at public speaking, debates"
+147,5,26,Gemini,Air,"Quick-witted, good at public speaking, debates"
+148,5,27,Gemini,Air,"Quick-witted, good at public speaking, debates"
+149,5,28,Gemini,Air,"Quick-witted, good at public speaking, debates"
+150,5,29,Gemini,Air,"Quick-witted, good at public speaking, debates"
+151,5,30,Gemini,Air,"Quick-witted, good at public speaking, debates"
+152,5,31,Gemini,Air,"Quick-witted, good at public speaking, debates"
+153,6,1,Gemini,Air,"Quick-witted, good at public speaking, debates"
+154,6,2,Gemini,Air,"Quick-witted, good at public speaking, debates"
+155,6,3,Gemini,Air,"Quick-witted, good at public speaking, debates"
+156,6,4,Gemini,Air,"Quick-witted, good at public speaking, debates"
+157,6,5,Gemini,Air,"Quick-witted, good at public speaking, debates"
+158,6,6,Gemini,Air,"Quick-witted, good at public speaking, debates"
+159,6,7,Gemini,Air,"Quick-witted, good at public speaking, debates"
+160,6,8,Gemini,Air,"Quick-witted, good at public speaking, debates"
+161,6,9,Gemini,Air,"Quick-witted, good at public speaking, debates"
+162,6,10,Gemini,Air,"Quick-witted, good at public speaking, debates"
+163,6,11,Gemini,Air,"Quick-witted, good at public speaking, debates"
+164,6,12,Gemini,Air,"Quick-witted, good at public speaking, debates"
+165,6,13,Gemini,Air,"Quick-witted, good at public speaking, debates"
+166,6,14,Gemini,Air,"Quick-witted, good at public speaking, debates"
+167,6,15,Gemini,Air,"Quick-witted, good at public speaking, debates"
+168,6,16,Gemini,Air,"Quick-witted, good at public speaking, debates"
+169,6,17,Gemini,Air,"Quick-witted, good at public speaking, debates"
+170,6,18,Gemini,Air,"Quick-witted, good at public speaking, debates"
+171,6,19,Gemini,Air,"Quick-witted, good at public speaking, debates"
+172,6,20,Gemini,Air,"Quick-witted, good at public speaking, debates"
+173,6,21,Cancer,Water,"Nurturing, Care-taking"
+174,6,22,Cancer,Water,"Nurturing, Care-taking"
+175,6,23,Cancer,Water,"Nurturing, Care-taking"
+176,6,24,Cancer,Water,"Nurturing, Care-taking"
+177,6,25,Cancer,Water,"Nurturing, Care-taking"
+178,6,26,Cancer,Water,"Nurturing, Care-taking"
+179,6,27,Cancer,Water,"Nurturing, Care-taking"
+180,6,28,Cancer,Water,"Nurturing, Care-taking"
+181,6,29,Cancer,Water,"Nurturing, Care-taking"
+182,6,30,Cancer,Water,"Nurturing, Care-taking"
+183,7,1,Cancer,Water,"Nurturing, Care-taking"
+184,7,2,Cancer,Water,"Nurturing, Care-taking"
+185,7,3,Cancer,Water,"Nurturing, Care-taking"
+186,7,4,Cancer,Water,"Nurturing, Care-taking"
+187,7,5,Cancer,Water,"Nurturing, Care-taking"
+188,7,6,Cancer,Water,"Nurturing, Care-taking"
+189,7,7,Cancer,Water,"Nurturing, Care-taking"
+190,7,8,Cancer,Water,"Nurturing, Care-taking"
+191,7,9,Cancer,Water,"Nurturing, Care-taking"
+192,7,10,Cancer,Water,"Nurturing, Care-taking"
+193,7,11,Cancer,Water,"Nurturing, Care-taking"
+194,7,12,Cancer,Water,"Nurturing, Care-taking"
+195,7,13,Cancer,Water,"Nurturing, Care-taking"
+196,7,14,Cancer,Water,"Nurturing, Care-taking"
+197,7,15,Cancer,Water,"Nurturing, Care-taking"
+198,7,16,Cancer,Water,"Nurturing, Care-taking"
+199,7,17,Cancer,Water,"Nurturing, Care-taking"
+200,7,18,Cancer,Water,"Nurturing, Care-taking"
+201,7,19,Cancer,Water,"Nurturing, Care-taking"
+202,7,20,Cancer,Water,"Nurturing, Care-taking"
+203,7,21,Cancer,Water,"Nurturing, Care-taking"
+204,7,22,Cancer,Water,"Nurturing, Care-taking"
+205,7,23,Leo,Fire,"Charisma, Leadership"
+206,7,24,Leo,Fire,"Charisma, Leadership"
+207,7,25,Leo,Fire,"Charisma, Leadership"
+208,7,26,Leo,Fire,"Charisma, Leadership"
+209,7,27,Leo,Fire,"Charisma, Leadership"
+210,7,28,Leo,Fire,"Charisma, Leadership"
+211,7,29,Leo,Fire,"Charisma, Leadership"
+212,7,30,Leo,Fire,"Charisma, Leadership"
+213,7,31,Leo,Fire,"Charisma, Leadership"
+214,8,1,Leo,Fire,"Charisma, Leadership"
+215,8,2,Leo,Fire,"Charisma, Leadership"
+216,8,3,Leo,Fire,"Charisma, Leadership"
+217,8,4,Leo,Fire,"Charisma, Leadership"
+218,8,5,Leo,Fire,"Charisma, Leadership"
+219,8,6,Leo,Fire,"Charisma, Leadership"
+220,8,7,Leo,Fire,"Charisma, Leadership"
+221,8,8,Leo,Fire,"Charisma, Leadership"
+222,8,9,Leo,Fire,"Charisma, Leadership"
+223,8,10,Leo,Fire,"Charisma, Leadership"
+224,8,11,Leo,Fire,"Charisma, Leadership"
+225,8,12,Leo,Fire,"Charisma, Leadership"
+226,8,13,Leo,Fire,"Charisma, Leadership"
+227,8,14,Leo,Fire,"Charisma, Leadership"
+228,8,15,Leo,Fire,"Charisma, Leadership"
+229,8,16,Leo,Fire,"Charisma, Leadership"
+230,8,17,Leo,Fire,"Charisma, Leadership"
+231,8,18,Leo,Fire,"Charisma, Leadership"
+232,8,19,Leo,Fire,"Charisma, Leadership"
+233,8,20,Leo,Fire,"Charisma, Leadership"
+234,8,21,Leo,Fire,"Charisma, Leadership"
+235,8,22,Leo,Fire,"Charisma, Leadership"
+236,8,23,Virgo,Earth,"Career-Driven, Detail-Oriented"
+237,8,24,Virgo,Earth,"Career-Driven, Detail-Oriented"
+238,8,25,Virgo,Earth,"Career-Driven, Detail-Oriented"
+239,8,26,Virgo,Earth,"Career-Driven, Detail-Oriented"
+240,8,27,Virgo,Earth,"Career-Driven, Detail-Oriented"
+241,8,28,Virgo,Earth,"Career-Driven, Detail-Oriented"
+242,8,29,Virgo,Earth,"Career-Driven, Detail-Oriented"
+243,8,30,Virgo,Earth,"Career-Driven, Detail-Oriented"
+244,8,31,Virgo,Earth,"Career-Driven, Detail-Oriented"
+245,9,1,Virgo,Earth,"Career-Driven, Detail-Oriented"
+246,9,2,Virgo,Earth,"Career-Driven, Detail-Oriented"
+247,9,3,Virgo,Earth,"Career-Driven, Detail-Oriented"
+248,9,4,Virgo,Earth,"Career-Driven, Detail-Oriented"
+249,9,5,Virgo,Earth,"Career-Driven, Detail-Oriented"
+250,9,6,Virgo,Earth,"Career-Driven, Detail-Oriented"
+251,9,7,Virgo,Earth,"Career-Driven, Detail-Oriented"
+252,9,8,Virgo,Earth,"Career-Driven, Detail-Oriented"
+253,9,9,Virgo,Earth,"Career-Driven, Detail-Oriented"
+254,9,10,Virgo,Earth,"Career-Driven, Detail-Oriented"
+255,9,11,Virgo,Earth,"Career-Driven, Detail-Oriented"
+256,9,12,Virgo,Earth,"Career-Driven, Detail-Oriented"
+257,9,13,Virgo,Earth,"Career-Driven, Detail-Oriented"
+258,9,14,Virgo,Earth,"Career-Driven, Detail-Oriented"
+259,9,15,Virgo,Earth,"Career-Driven, Detail-Oriented"
+260,9,16,Virgo,Earth,"Career-Driven, Detail-Oriented"
+261,9,17,Virgo,Earth,"Career-Driven, Detail-Oriented"
+262,9,18,Virgo,Earth,"Career-Driven, Detail-Oriented"
+263,9,19,Virgo,Earth,"Career-Driven, Detail-Oriented"
+264,9,20,Virgo,Earth,"Career-Driven, Detail-Oriented"
+265,9,21,Virgo,Earth,"Career-Driven, Detail-Oriented"
+266,9,22,Virgo,Earth,"Career-Driven, Detail-Oriented"
+267,9,23,Libra,Air,"Patient, Open-minded, Artistic"
+268,9,24,Libra,Air,"Patient, Open-minded, Artistic"
+269,9,25,Libra,Air,"Patient, Open-minded, Artistic"
+270,9,26,Libra,Air,"Patient, Open-minded, Artistic"
+271,9,27,Libra,Air,"Patient, Open-minded, Artistic"
+272,9,28,Libra,Air,"Patient, Open-minded, Artistic"
+273,9,29,Libra,Air,"Patient, Open-minded, Artistic"
+274,9,30,Libra,Air,"Patient, Open-minded, Artistic"
+275,10,1,Libra,Air,"Patient, Open-minded, Artistic"
+276,10,2,Libra,Air,"Patient, Open-minded, Artistic"
+277,10,3,Libra,Air,"Patient, Open-minded, Artistic"
+278,10,4,Libra,Air,"Patient, Open-minded, Artistic"
+279,10,5,Libra,Air,"Patient, Open-minded, Artistic"
+280,10,6,Libra,Air,"Patient, Open-minded, Artistic"
+281,10,7,Libra,Air,"Patient, Open-minded, Artistic"
+282,10,8,Libra,Air,"Patient, Open-minded, Artistic"
+283,10,9,Libra,Air,"Patient, Open-minded, Artistic"
+284,10,10,Libra,Air,"Patient, Open-minded, Artistic"
+285,10,11,Libra,Air,"Patient, Open-minded, Artistic"
+286,10,12,Libra,Air,"Patient, Open-minded, Artistic"
+287,10,13,Libra,Air,"Patient, Open-minded, Artistic"
+288,10,14,Libra,Air,"Patient, Open-minded, Artistic"
+289,10,15,Libra,Air,"Patient, Open-minded, Artistic"
+290,10,16,Libra,Air,"Patient, Open-minded, Artistic"
+291,10,17,Libra,Air,"Patient, Open-minded, Artistic"
+292,10,18,Libra,Air,"Patient, Open-minded, Artistic"
+293,10,19,Libra,Air,"Patient, Open-minded, Artistic"
+294,10,20,Libra,Air,"Patient, Open-minded, Artistic"
+295,10,21,Libra,Air,"Patient, Open-minded, Artistic"
+296,10,22,Libra,Air,"Patient, Open-minded, Artistic"
+297,10,23,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+298,10,24,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+299,10,25,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+300,10,26,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+301,10,27,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+302,10,28,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+303,10,29,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+304,10,30,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+305,10,31,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+306,11,1,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+307,11,2,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+308,11,3,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+309,11,4,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+310,11,5,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+311,11,6,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+312,11,7,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+313,11,8,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+314,11,9,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+315,11,10,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+316,11,11,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+317,11,12,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+318,11,13,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+319,11,14,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+320,11,15,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+321,11,16,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+322,11,17,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+323,11,18,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+324,11,19,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+325,11,20,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+326,11,21,Scorpio,Water,"Activism, Humanitarianism, Emotional Intelligence"
+327,11,22,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+328,11,23,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+329,11,24,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+330,11,25,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+331,11,26,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+332,11,27,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+333,11,28,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+334,11,29,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+335,11,30,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+336,12,1,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+337,12,2,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+338,12,3,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+339,12,4,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+340,12,5,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+341,12,6,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+342,12,7,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+343,12,8,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+344,12,9,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+345,12,10,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+346,12,11,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+347,12,12,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+348,12,13,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+349,12,14,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+350,12,15,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+351,12,16,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+352,12,17,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+353,12,18,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+354,12,19,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+355,12,20,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+356,12,21,Sagittarius,Fire,"Trendsetter, Outside-the-box, Outdoorsy"
+357,12,22,Capricorn,Earth,"High-Achieving, Driven"
+358,12,23,Capricorn,Earth,"High-Achieving, Driven"
+359,12,24,Capricorn,Earth,"High-Achieving, Driven"
+360,12,25,Capricorn,Earth,"High-Achieving, Driven"
+361,12,26,Capricorn,Earth,"High-Achieving, Driven"
+362,12,27,Capricorn,Earth,"High-Achieving, Driven"
+363,12,28,Capricorn,Earth,"High-Achieving, Driven"
+364,12,29,Capricorn,Earth,"High-Achieving, Driven"
+365,12,30,Capricorn,Earth,"High-Achieving, Driven"
+366,12,31,Capricorn,Earth,"High-Achieving, Driven"
