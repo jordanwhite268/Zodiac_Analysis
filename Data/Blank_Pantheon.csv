@@ -1,0 +1,3176 @@
+﻿Person_ID,name,Country,gender,Area_ID,Industry_ID,Occupation_ID,DateID
+16,Aaron Boone,United States,male,3,21,32,68
+21,Aaron Glenn,United States,male,3,3,42,198
+23,Aaron Jay Kernis,United States,male,4,14,16,15
+34,Abbey Lincoln,United States,female,4,14,27,218
+32,Abby Joseph Cohen,United States,female,5,16,20,1
+48,Abdul Aziz al- Hakim,Iraq,male,1,1,1,1
+56,Abdul Qadeer Khan,Pakistan,male,5,6,6,92
+46,Abdul Rashid Dostum,Afghanistan,male,1,1,1,1
+40,Abdullah Abdullah,Afghanistan,male,1,1,59,1
+41,Abdulsalam Abubakar,Nigeria,male,1,1,1,164
+66,Abe Hirschfeld,United States,male,7,17,21,346
+74,Abner Louima,Haiti,male,6,20,31,1
+77,Abraham D Beame,United States,male,1,1,1,79
+78,Abraham H Foxman,United States,male,7,25,53,122
+91,Adam Graves,Canada,male,3,21,67,103
+92,Adam Guettel,United States,male,4,14,16,351
+93,Adam Hochschild,United States,male,2,2,2,1
+97,Adam Liptak,United States,male,7,25,53,246
+101,Adam Nagourney,United States,male,2,2,76,283
+125,Adolph Green,United States,male,2,2,2,336
+130,Adolph S Ochs,United States,male,2,2,76,71
+139,Adrian Lyne,United Kingdom,male,4,4,4,63
+149,Agnes Martin,United States,male,4,8,23,82
+158,Ahmad Chalabi,Iraq,male,1,1,1,304
+166,Ahmed Qurei,Palestine,male,1,1,1,85
+178,Aidan Quinn,United States,male,4,4,19,67
+199,Al Franken,United States,Male,#N/A,#N/A,#N/A,141
+201,Al Groh,United States,male,3,21,88,195
+202,Al Hirschfeld,United States,male,4,10,28,172
+203,Al Leiter,United States,male,3,21,32,296
+206,Al Roker,United States,Male,#N/A,#N/A,#N/A,232
+220,Alain Ducasse,France,male,6,23,85,257
+210,Alan Ayckbourn,United Kingdom,male,2,2,2,102
+232,Alan B Krueger,United States,male,1,1,1,261
+213,Alan Bennett,United Kingdom,male,2,2,2,129
+216,Alan Cowell,United Kingdom,male,2,2,76,75
+217,Alan Cumming,United States,Male,4,4,19,27
+222,Alan Furst,United States,male,2,2,2,51
+223,Alan Garcia,Peru,male,1,1,1,143
+233,Alan Jay Lerner,United States,male,2,2,2,243
+254,Alan K Simpson,United States,male,1,1,1,245
+231,Alan Keyes,United States,male,1,1,1,219
+219,Alan M Dershowitz,United States,male,7,25,53,244
+236,Alan Menken,United States,Male,4,14,16,203
+239,Alan R Mulally,United States,male,7,17,21,216
+215,Alan S Blinder,United States,male,5,16,20,287
+250,Alan Schwarz,United States,male,2,2,2,185
+256,Alan Truscott,United Kingdom,male,2,2,2,106
+258,Alan Wolfe,United States,male,5,16,56,1
+264,Albert Belle,United States,male,3,21,32,237
+266,Albert Brooks,United States,male,4,4,19,203
+262,Albert C Barnes,United States,male,5,6,7,2
+270,Albert Costa,Spain,male,3,3,3,176
+271,Albert J Dunlap,United States,male,7,17,21,207
+293,Albert Shanker,United States,male,#N/A,#N/A,0,258
+278,Alberto R Gonzales,United States,male,1,1,1,216
+294,Albio Sires,United States,male,1,1,1,26
+372,Aleksei Kovalev,Russia,male,3,21,67,55
+429,Aleksei Yagudin,Russia,male,3,3,66,78
+328,Alex Corretja,Spain,male,3,3,3,101
+404,Alex Rodriguez,United States,male,3,21,32,208
+391,Alexander Payne,United States,male,4,4,4,41
+417,Alexandra Stevenson,United States,female,3,3,3,350
+356,Alexis M Herman,United States,female,1,1,1,197
+462,Alfonso Soriano,Dominican Republic,male,3,21,32,7
+434,Alfred Brendel,Austria,male,4,14,30,5
+446,Alfred E Kahn,United States,male,5,16,20,290
+448,Alfred Kazin,United States,male,2,2,2,156
+501,Ali Akbar Hashemi Rafsanjani,Iran,Male,1,1,1,237
+499,Ali Al- Naimi,Saudi Arabia,Male,7,17,21,1
+505,Ali Al- Sistani,Iran,Male,1,12,14,216
+495,Ali Hassan al- Majid,Iraq,Male,1,1,1,334
+492,Ali Larijani,Iran,Male,1,1,1,154
+496,Ali Saleh Kahlah al- Marri,Qatar,Male,6,15,38,1
+484,Alice Hoffman,United States,Female,2,2,2,76
+502,Alice M Rivlin,United States,Female,5,16,20,63
+497,Alice McDermott,United States,Female,2,2,2,178
+498,Alice Munro,Canada,Female,2,2,2,191
+507,Alice Waters,United States,Female,6,23,85,119
+509,Alicia de Larrocha,Spain,Female,4,14,30,143
+488,Alicia Keys,United States,Female,4,14,30,25
+494,Alison Lurie,United States,Female,2,2,2,246
+479,Alistair Cooke,United Kingdom,Male,2,2,76,325
+514,Allan Gurganus,United States,Male,2,2,2,162
+515,Allan Houston,United States,Male,3,21,61,110
+518,Allan Kozinn,United States,Male,2,2,76,211
+528,Alonzo Mourning,United States,Male,3,21,61,39
+536,Althea Gibson,United States,Female,3,3,3,237
+538,Alvin Ailey,United States,Male,4,27,72,5
+545,Alvin F Poussaint,United States,Male,5,16,34,135
+541,Alvin K Hellerstein,United States,Male,7,25,53,1
+559,Amadou Diallo,Guinea,Male,6,20,31,245
+558,Amanda Coetzer,South African,Female,3,3,3,295
+560,Amanda Hesser,United States,Female,2,2,2,1
+569,Amani Toomer,United States,Male,3,21,88,251
+581,Amiri Baraka,United States,Male,2,2,2,280
+583,Amitai Etzioni,United States,Male,5,16,62,4
+591,Amy Fisher,United States,Female,#N/A,#N/A,0,233
+592,Amy Harmon,United States,Female,2,2,76,261
+595,Amy Richards,United States,Female,6,20,31,1
+596,Amy Tan,United States,Female,2,2,2,50
+597,Amy Watkins,United States,Female,2,2,2,1
+601,Anatoly B Chubais,RUssia,Male,1,1,1,167
+719,Andras Schiff,Hungary,Male,4,14,30,355
+615,Andre Aciman,United States,Male,2,2,2,2
+644,Andre Dubus,United States,Male,2,2,2,224
+742,Andre Watts,United States,Male,4,14,30,171
+645,Andrea Elliott,United States,Female,2,2,76,349
+690,Andrea Marcovicci,United States,Female,4,14,30,323
+748,Andrea Yates,United States,Female,#N/A,#N/A,0,184
+653,Andres Galarraga,Venezuela,Male,3,21,32,169
+685,Andres Manuel Lopez Obrador,Mexico,Male,1,1,1,317
+705,Andres Pastrana,Colombia,Male,1,1,1,229
+712,Andrew C Revkin,United States,Male,2,2,76,1
+661,Andrew Golota,Poland,Male,3,3,49,5
+633,Andrew H Jr Card,United States,Male,1,1,1,130
+728,Andrew J Spano,United States,Male,1,1,1,108
+683,Andrew Litton,United States,Male,4,14,30,136
+684,Andrew Lloyd Webber,United Kingdom,Male,4,14,30,82
+642,Andrew M Cuomo,United States,Male,1,1,1,340
+641,Andrew Phillip Cunanan,United States,Male,#N/A,#N/A,0,243
+716,Andrew Rosenthal,United States,Male,2,2,76,1
+727,Andrew Ross Sorkin,United States,Male,2,2,76,50
+646,Andrew S Eristoff,United States,Male,1,1,1,51
+648,Andrew S Fastow,United States,Male,7,17,21,356
+664,Andrew S Grove,Hungary,Male,7,17,21,246
+726,Andrew Solomon,United States,Male,2,2,2,303
+729,Andrew Sullivan,United Kingdom,Male,2,2,76,222
+734,Andrew Tobias,United States,Male,2,2,2,110
+747,Andrew Wyeth,United States,Male,4,8,9,193
+624,Andy Benes,United States,Male,3,21,32,232
+660,Andy Goldsworthy,United Kingdom,Male,4,8,9,208
+706,Andy Pettitte,United States,Male,3,21,32,167
+755,Anfernee Hardaway,United States,Male,3,21,61,199
+759,Angel Corella,Spain,Male,4,27,72,312
+761,Angela Gheorghiu,Romania,Female,4,14,30,250
+770,Angelo R Mozilo,United States,Male,7,17,21,1
+765,Angus Jr King,United States,Male,1,1,1,91
+774,Anita Brookner,United Kingdom,Female,2,2,2,198
+776,Anita Hill,United States,Female,7,25,53,212
+778,Anita Shreve,United States,Female,2,2,2,1
+781,Anja Paerson,Sweden,Female,3,3,84,115
+783,Anke Huber,Germany,Female,3,3,3,338
+789,Ann Beattie,United States,Female,2,2,2,251
+802,Ann Coulter,United States,Female,2,2,76,342
+797,Ann Hampton Callaway,United States,Female,4,14,30,150
+850,Ann M Veneman,United States,Female,1,1,1,180
+828,Ann Patchett,United States,Female,2,2,2,336
+833,Ann Powers,United States,Female,2,2,79,35
+837,Ann Reinking,United States,Female,4,27,72,314
+844,Anna Deavere Smith,United States,Female,4,4,19,261
+814,Anna Kisselgoff,United States,Female,2,2,79,12
+834,Anna Quindlen,United States,Female,2,2,76,190
+847,Anna Sui,United States,Female,4,10,81,217
+851,Anna Wintour,United Kingdom,Female,4,10,81,307
+791,Anne Bernays,United States,Female,2,2,2,257
+794,Anne Bogart,United States,Female,4,4,19,268
+815,Anne E Kornblut,United States,Female,2,2,76,56
+823,Anne M Mulcahy,United States,Female,7,17,21,295
+819,Anne Morrow Lindbergh,United States,Female,2,2,2,173
+830,Anne Perry,United Kingdom,Female,2,2,2,301
+840,Anne Roiphe,United States,Female,2,2,2,359
+853,Anne Sofie von Otter,Sweden,Female,4,14,30,129
+852,Anne Teresa de Keersmaeker,Belgium,Female,4,27,72,1
+849,Anne Tyler,United States,Female,2,2,2,298
+846,Annika Sorenstam,Sweden,Female,3,3,73,282
+940,Anthony A Williams,United States,Male,1,1,1,209
+941,Anthony C Zinni,United States,Male,1,22,35,260
+902,Anthony D Marshall,United States,Male,7,17,21,151
+939,Anthony D Weiner,United States,Male,1,1,1,248
+874,Anthony Depalma,United States,Male,2,2,76,286
+894,Anthony Lake,United States,Male,1,1,1,92
+899,Anthony Lewis,United States,Male,2,2,76,86
+891,Anthony M Kennedy,United States,Male,7,25,53,205
+914,Anthony Pellicano,United States,Male,#N/A,#N/A,0,82
+862,Anthony Ramon Baez,United States,Male,#N/A,#N/A,0,1
+879,Anthony S Fauci,United States,Male,5,11,13,359
+935,Anthony Trollope,United Kingdom,Male,2,2,2,114
+921,Antoin Rezko,Syria,Male,1,1,1,1
+930,Anton Sikharulidze,RUssia,Male,3,3,66,299
+927,Antonin Scalia,United States,Male,7,25,53,71
+903,Antonio McDyess,United States,Male,3,21,61,250
+936,Antonio Villaraigosa,United States,Male,1,1,1,23
+945,Apolo Anton Ohno,United States,Male,3,3,66,142
+949,Arantxa Sanchez Vicario,Spain,Female,3,3,3,352
+952,Archibald Cox,United States,Male,7,25,53,138
+958,Ari Fleischer,United States,Male,1,1,1,287
+959,Ari L Goldman,United States,Male,2,2,76,1
+961,Arianna Huffington,United States,Female,2,2,76,196
+957,Ariel Dorfman,Chile,Male,2,2,2,126
+970,Arlen Specter,United States,Male,7,25,53,43
+969,Arlo Guthrie,United States,Male,4,14,30,191
+971,Armando Benitez,Dominican Republic,Male,3,21,32,308
+977,Armstrong Williams,United States,Male,2,2,76,36
+980,Arne Duncan,United States,Male,1,1,1,311
+984,Arnold Palmer,United States,Male,3,3,73,253
+986,Arnold S Relman,United States,Male,5,11,13,168
+988,Arnold Scaasi,Canada,Male,4,10,81,1
+978,Arnoldo Aleman,Nicaragua,Male,1,1,1,23
+999,Arsenio Hall,United States,Male,23,6,63,43
+998,Arshile Gorky,Armenia,Male,4,8,9,106
+1005,Art Buchwald,United States,Male,2,2,2,293
+1021,Art Howe,United States,Male,3,21,32,349
+1028,Art Modell,United States,Male,3,21,88,174
+1039,Art Spiegelman,United States,Male,4,10,28,46
+1019,Arthur Hertzberg,United States,Male,1,12,14,160
+1025,Arthur Jr Levitt,United States,Male,7,17,21,34
+1024,Arthur Laurents,United States,Male,2,2,2,195
+1041,Arthur Ochs Sulzberger,United States,Male,2,2,76,36
+1040,Arthur S Sullivan,United Kingdom,Male,4,14,30,133
+1014,Arturo Gatti,Canada,Male,3,3,49,106
+1050,Aryeh Deri,Israel,Male,1,1,1,48
+1053,Asa Hutchinson,United States,Male,1,1,1,337
+1071,Athol Fugard,South African,Male,2,2,2,163
+1081,Audra McDonald,United States,Female,5,6,7,184
+1101,August Wilson,United States,Male,2,2,2,117
+1108,Avigdor Lieberman,Israel,Male,1,1,1,156
+1113,Awilda Lopez,Puerto Rico,Female,4,8,23,42
+1117,Ayad Allawi,Iraq,Male,1,1,1,1
+1126,B J Habibie,Indonesia,Male,1,1,1,177
+1133,Baitullah Mehsud,Pakistan,Male,6,15,38,1
+1137,Baltasar Garzon,Spain,Male,7,25,53,299
+1144,Ban Ki-moon ,South Korea,Male,1,1,1,165
+1173,Barbara A Mikulski,United States,Female,1,1,1,202
+1166,Barbara Bailey Kennelly,United States,Female,1,1,1,192
+1151,Barbara Bonney,United States,Female,4,14,30,105
+1153,Barbara Boxer,United States,Female,1,1,1,316
+1154,Barbara Bush,United States,Female,1,1,1,159
+1156,Barbara Cook,United States,Female,4,14,30,298
+1157,Barbara Crossette,United States,Female,2,2,76,193
+1159,Barbara Ehrenreich,United States,Female,2,2,2,238
+1165,Barbara Jordan,United States,Female,1,1,1,52
+1167,Barbara Kingsolver,United States,Female,2,2,2,98
+1164,Barbara S Jones,United States,Female,7,25,53,1
+1186,Barbara Walters,United States,Female,2,2,76,268
+1181,Barnett A Slepian,United States,Male,5,11,13,294
+1160,Barney Frank,United States,Male,1,1,1,91
+1148,Barry Bearak,United States,Male,2,2,76,243
+1152,Barry Bonds,United States,Male,3,21,32,206
+1158,Barry Diller,United States,Male,7,17,21,33
+1162,Barry M Goldwater,United States,Male,1,1,1,1
+1172,Barry R McCaffrey,United States,Male,1,22,35,321
+1178,Barry Sanders,United States,Male,3,21,88,198
+1179,Barry Scheck,United States,Male,7,25,53,262
+1185,Barry Switzer,United States,Male,3,21,88,278
+1188,Barry Zito,United States,Male,3,21,32,133
+1180,Bartlett Sher,United States,Male,4,4,4,1
+1155,Bartolo Colon,Dominican Republic,Male,3,21,32,144
+1192,Bashar Al- Assad,Syria,Male,1,1,1,254
+1197,Baz Luhrmann,Australia,Male,4,4,4,260
+1203,Bebe Neuwirth,United States,Female,4,4,19,365
+1204,Beck ,United States,Male,4,14,30,189
+1226,Ben Brantley,United States,Male,2,2,79,299
+1236,Ben Crenshaw,United States,Male,3,3,73,11
+1248,Ben Heppner,Canada,Male,4,14,30,14
+1229,Ben Nighthorse Campbell,United States,Male,1,1,1,103
+1263,Ben Roethlisberger,United States,Male,3,21,88,61
+1266,Ben Stein,United States,Male,4,4,19,330
+1231,Benedict Carey,United States,Male,2,2,76,63
+1214,Benedict XVI ,Germany,Male,1,12,14,106
+1239,Benicio Del Toro,Puerto Rico,Male,4,4,19,50
+1240,Benjamin B Ferencz,United States,Male,#N/A,#N/A,0,71
+1225,Benjamin Brafman,United States,Male,7,25,53,203
+1234,Benjamin Cheever,United States,Male,2,2,2,282
+1233,Benjamin F Jr Chavis,United States,Male,6,20,31,22
+1265,Benjamin Spock,United States,Male,5,11,13,122
+1257,Bennett S Lebow,United States,Male,7,17,21,1
+1216,Benny Agbayani,Philippines,Male,3,21,32,362
+1230,Benny Carter,United States,Male,4,14,30,220
+1280,Bernadette Castro,United States,Female,7,17,21,1
+1303,Bernadette Peters,United States,Female,4,4,19,59
+1286,Bernadine Healy,United States,Female,5,11,13,217
+1273,Bernard Arnault,France,Male,7,17,21,64
+1292,Bernard B Kerik,United States,Male,1,1,1,247
+1294,Bernard F Law,United States,Male,1,12,14,308
+1285,Bernard Haitink,Netherlands,Male,4,14,70,63
+1289,Bernard Hopkins,United States,Male,3,3,49,15
+1282,Bernard J Ebbers,United States,Male,7,17,21,239
+1308,Bernard Sanders,United States,Male,1,1,1,251
+1315,Bernard Tschumi,Switzerland,Male,4,10,11,25
+1304,Bernd Pischetsrieder,Germany,Male,7,17,21,46
+1284,Bernhard H Goetz,United States,Male,#N/A,#N/A,0,311
+1318,Bernie Williams,Puerto Rico,Male,4,14,30,257
+1329,Beth Henley,United States,Female,2,2,2,129
+1330,Betsey Johnson,United States,Female,4,10,81,222
+1328,Betsy Gotbaum,United States,Female,1,1,1,162
+1331,Betsy McCaughey Ross,United States,Female,1,1,1,294
+1321,Betty Buckley,United States,Female,4,4,19,184
+1322,Betty Comden,United States,Female,4,4,19,123
+1324,Betty Currie,United States,Female,1,1,1,314
+1336,Beverly Sills,United States,Female,4,14,30,145
+1338,Beyonce Knowles,United States,Female,4,14,30,247
+1340,Bhumibol Adulyadej ,Thailand,Male,1,1,65,339
+1344,Bill Belichick,United States,Male,3,21,88,107
+1346,Bill Bradley,United States,Male,1,1,1,209
+1351,Bill Cowher,United States,Male,3,21,88,128
+1397,Bill de Blasio,United States,Male,1,1,1,128
+1355,Bill Dedman,United States,Male,2,2,76,1
+1357,Bill Frist,United States,Male,1,1,1,53
+1361,Bill Guerin,United States,Male,3,21,67,313
+1364,Bill Irwin,United States,Male,4,4,19,101
+1365,Bill Janklow,United States,Male,1,1,1,256
+1369,Bill Keller,United States,Male,2,2,76,18
+1372,Bill Lann Lee,United States,Male,7,25,53,36
+1373,Bill Lockyer,United States,Male,1,1,1,128
+1376,Bill McCollum,United States,Male,1,1,1,194
+1377,Bill McKibben,United States,Male,#N/A,#N/A,0,1
+1378,Bill Moyers,United States,Male,2,2,76,156
+1381,Bill Parcells,United States,Male,3,21,88,234
+1382,Bill Paxon,United States,Male,1,1,1,119
+1384,Bill Pullman,United States,Male,4,4,19,351
+1385,Bill Pulsipher,United States,Male,3,21,32,282
+1386,Bill Richardson,United States,Male,1,1,1,319
+1387,Bill Romanowski,United States,Male,3,21,88,92
+1367,Bill T Jones,United States,Male,4,27,72,46
+1392,Bill Viola,United States,Male,4,8,9,1
+1393,Bill Walton,United States,Male,3,21,61,310
+1343,Billy Beane,United States,Male,3,21,32,88
+1352,Billy Crudup,United States,Male,4,4,19,190
+1390,Billy Tauzin,United States,Male,1,1,1,165
+1408,Bjorn Lomborg,Danish,Male,#N/A,#N/A,0,6
+1411,Blair Brown,United States,Female,4,4,19,113
+1420,Blythe Danner,United States,Female,4,4,19,34
+1423,Bo Schembechler,United States,Male,3,21,88,91
+1425,Bob Arum,United States,Male,3,3,49,342
+1426,Bob Baffert,United States,Male,3,3,42,13
+1427,Bob Barr,United States,Male,1,1,1,310
+1433,Bob Costas,United States,Male,3,3,42,82
+1434,Bob Dole,United States,Male,1,1,1,203
+1439,Bob Fosse,United States,Male,4,27,72,174
+1440,Bob Franks,United States,Male,1,1,1,264
+1442,Bob Graham,United States,Male,1,1,1,314
+1443,Bob Herbert,United States,Male,2,2,76,66
+1448,Bob Kerrey,United States,Male,1,1,1,239
+1449,Bob Knight,United States,Male,3,21,61,299
+1451,Bob Mackie,United States,Male,4,10,81,84
+1456,Bob Ney,United States,Male,#N/A,#N/A,0,186
+1458,Bob Riley,United States,Male,1,1,1,277
+1462,Bob Stoops,United States,Male,3,21,88,250
+1463,Bob Taft,United States,Male,1,1,1,8
+1465,Bob Watson,United States,Male,3,21,32,100
+1466,Bob Weinstein,United States,Male,4,4,4,291
+1467,Bob Woodward,United States,Male,2,2,76,85
+1453,Bobbie Ann Mason,United States,Female,2,2,2,122
+1424,Bobby Abreu,Venezuela,Male,3,21,32,70
+1429,Bobby Bonilla,United States,Male,3,21,32,54
+1430,Bobby Bowden,United States,Male,3,21,88,312
+1438,Bobby Flay,United States,Male,6,23,85,345
+1432,Bobby Frank Cherry,United States,Male,#N/A,#N/A,0,171
+1444,Bobby Holik,Czechia,Male,3,21,67,1
+1450,Bobby Labonte,United States,Male,3,3,58,129
+1460,Bobby Short,United States,Male,4,14,30,259
+1464,Bobby Valentine,United States,Male,3,21,32,133
+1478,Bonnie Fuller,Canada,Female,2,2,76,252
+1481,Bonnie Raitt,United States,Female,4,14,30,312
+1485,Boomer Esiason,United States,Male,3,21,88,107
+1512,Brad Grey,United States,Male,4,4,4,363
+1516,Brad Leithauser,United States,Male,2,2,2,58
+1525,Brandon Tartikoff,United States,Male,4,4,4,13
+1518,Branford Marsalis,United States,Male,4,14,30,239
+1531,Brendan Gill,United States,Male,2,2,79,277
+1537,Brent Scowcroft,United States,Male,1,1,1,78
+1539,Brent Staples,United States,Male,2,2,76,1
+1529,Brett Favre,United States,Male,3,21,88,283
+1535,Brett Hull,Canada,Male,3,21,67,222
+1542,Brian Billick,United States,Male,3,21,88,59
+1543,Brian Cashman,United States,Male,3,21,32,184
+1575,Brian de Palma,United States,Male,4,4,4,255
+1547,Brian Dennehy,United States,Male,4,4,19,190
+1551,Brian Friel,Ireland,Male,2,2,2,9
+1553,Brian Griese,United States,Male,3,21,88,77
+1568,Brian L Roberts,United States,Male,7,17,21,179
+1559,Brian Leetch,United States,Male,3,21,67,63
+1562,Brian Stokes Mitchell,United States,Male,4,14,30,304
+1573,Brian Williams,United States,Male,2,2,76,125
+1572,Brian Wilson,United States,Male,4,14,30,171
+1570,Bright Sheng,China,Male,4,14,30,340
+1576,Brooke Astor,United States,Female,#N/A,#N/A,0,89
+1581,Bruce Ackerman,United States,Male,7,25,53,231
+1583,Bruce Arena,United States,Male,3,21,33,264
+1584,Bruce Babbitt,United States,Male,1,1,1,178
+1585,Bruce Bartlett,United States,Male,5,16,20,284
+1589,Bruce Cutler,United States,Male,7,25,53,120
+1593,Bruce E Ivins,United States,Male,5,11,13,112
+1591,Bruce Fleisher,United States,Male,3,3,73,290
+1598,Bruce Ratner,United States,Male,7,17,21,23
+1602,Bruce Wasserstein,United States,Male,7,17,21,359
+1605,Bryan Cox,United States,Male,3,21,88,48
+1613,Bryan Trottier,Canada,Male,3,21,67,199
+1608,Bryant Gumbel,United States,Male,2,2,76,273
+1612,Bryn Terfel,Wales,Male,4,14,30,313
+1616,Buck Showalter,United States,Male,3,21,32,144
+1617,Buck Williams,United States,Male,3,21,61,68
+1621,Bud Selig,United States,Male,3,21,32,211
+1622,Bud Shuster,United States,Male,1,1,1,23
+1620,Budd Schulberg,United States,Male,2,2,2,86
+1634,Burt Rutan,United States,Male,5,19,29,168
+1636,Buster Olney,United States,Male,2,2,76,48
+1640,Byron Calame,United States,Male,2,2,76,104
+1641,Byron L Dorgan,United States,Male,1,1,1,134
+1642,C C Sabathia,United States,Male,3,21,32,203
+1643,C Everett Koop,United States,Male,5,11,13,288
+1644,C Gerald Fraser,United States,Male,2,2,76,9
+1645,C J Chivers,United States,Male,2,2,76,1
+1646,C J Hunter,United States,Male,3,3,42,349
+1648,C Michael Armstrong,United States,Male,7,17,21,291
+1649,C Ray Nagin,United States,Male,1,1,1,163
+1651,C Virginia Fields,United States,Female,1,1,1,218
+1652,C Vivian Stringer,United States,Female,3,21,40,76
+1658,Caleb Carr,United States,Male,2,2,2,214
+1665,Calvert Vaux,United Kingdom,Male,4,10,11,355
+1664,Calvin Trillin,United States,Male,2,2,2,339
+1670,Cameron Crowe,United States,Male,4,4,4,194
+1676,Cameron Mackintosh,United Kingdom,Male,5,2,5,290
+1679,Campbell Scott,United States,Male,4,4,19,200
+1685,Candace Bushnell,United States,Female,2,2,2,335
+1686,Candace Parker,United States,Female,3,21,61,109
+1697,Carl Bernstein,United States,Male,2,2,76,45
+1739,Carl C Icahn,United States,Male,7,17,21,47
+1721,Carl Everett,United States,Male,3,21,32,154
+1738,Carl Hiaasen,United States,Male,2,2,2,71
+1746,Carl Kruger,United States,Male,#N/A,#N/A,0,337
+1749,Carl Levin,United States,Male,1,1,1,179
+1774,Carl Reiner,United States,Male,4,4,83,79
+1718,Carla Del Ponte,Switzerland,Female,7,25,53,40
+1722,Carleton S Fiorina,United States,Female,7,17,21,249
+1729,Carlos Ghosn,Brazil,Male,7,17,21,68
+1781,Carlos Salinas de Gortari,Mexico,Male,1,1,1,94
+1791,Carlos Slim Helu,Mexico,Male,7,17,21,28
+1723,Carlton Fisk,United States,Male,3,21,32,360
+1790,Carly Simon,United States,Female,4,14,30,176
+1696,Carol Bellamy,United States,Female,1,1,1,14
+1706,Carol Burnett,United States,Female,4,4,83,116
+1708,Carol Channing,United States,Female,#N/A,#N/A,0,31
+1730,Carol Gilligan,United States,Female,5,16,34,333
+1703,Carol M Browner,United States,Female,1,1,1,350
+1761,Carol Moseley-Braun,United States,Female,1,1,1,228
+1789,Carol Shields,United States,Female,2,2,2,153
+1745,Caroline Knapp,United States,Female,2,2,2,312
+1754,Carolyn B Maloney,United States,Female,1,1,1,50
+1742,Carolyn Bessette Kennedy,United States,Female,4,10,81,7
+1756,Carolyn McCarthy,United States,Female,1,1,1,5
+1768,Carson Palmer,United States,Male,3,21,88,361
+1709,Caryl Churchill,United Kingdom,Female,2,2,2,246
+1809,Casey Martin,United States,Male,3,3,73,154
+1813,Caspar W Weinberger,United States,Male,1,1,1,230
+1812,Cass R Sunstein,United States,Male,7,25,53,264
+1814,Cassandra Wilson,United States,Female,4,14,30,338
+1818,Cathy Horyn,United States,Female,2,2,79,255
+1825,Cecil Fielder,United States,Male,3,21,32,264
+1830,Cedric Pioline,France,Male,3,3,3,166
+1835,Celia W Dugger,United States,Female,2,2,76,184
+1931,Chad Pennington,United States,Male,3,21,88,178
+1900,Chamique Holdsclaw,United States,Female,3,21,61,221
+1944,Chanda Rubin,United States,Female,3,3,3,49
+1914,Chandra Ann Levy,United States,Female,#N/A,#N/A,0,104
+1913,Chang-Rae Lee,South Korea,Male,2,2,2,210
+1857,Charlene Barshefsky,United States,Female,1,1,1,223
+1969,Charles Andrew Williams,United States,Male,6,15,38,39
+1938,Charles B Rangel,United States,Male,1,1,1,162
+1964,Charles B Wang,United States,Male,7,17,21,232
+1858,Charles Barron,United States,Male,1,1,1,1
+1869,Charles Busch,United States,Male,#N/A,#N/A,0,235
+1876,Charles Cullen,United States,Male,6,15,38,53
+1971,Charles de Gaulle,France,Male,1,1,1,326
+1883,Charles Dutoit,Switzerland,Male,4,14,70,281
+1892,Charles E Grassley,United States,Male,1,1,1,260
+1945,Charles F C Ruff,United States,Male,7,25,53,213
+1881,Charles F Dolan,United States,Male,7,17,21,289
+1887,Charles Gibson,United States,Male,2,2,76,68
+1894,Charles Gwathmey,United States,Male,4,10,11,170
+1902,Charles J Hynes,United States,Male,7,25,53,148
+1909,Charles Kuralt,United States,Male,2,2,76,253
+1910,Charles Kushner,United States,Male,7,17,21,136
+1920,Charles L Mee,United States,Male,2,2,2,258
+1916,Charles Ludlam,United States,Male,2,2,2,102
+1935,Charles O III Prince,United States,Male,7,17,21,13
+1942,Charles O Rossotti,United States,Male,7,17,21,17
+1927,Charles Oakley,United States,Male,3,21,61,352
+1899,Charles S Hirsch,United States,Male,5,11,13,1
+1941,Charles S Robb,United States,Male,1,1,1,177
+1947,Charles Saatchi,United Kingdom,Male,4,8,9,160
+1952,Charles Simic,United States,Male,2,2,2,129
+1955,Charles Strum,United States,Male,2,2,76,1
+1870,Charles T Canady,United States,Male,7,25,53,173
+1933,Charles W Sr Pickering,United States,Male,1,1,1,149
+1970,Charles Wuorinen,United States,Male,4,14,30,160
+1875,Charlie Crist,United States,Male,1,1,1,206
+1895,Charlie Haden,United States,Male,4,14,30,218
+1912,Charlie LeDuff,United States,Male,2,2,76,1
+1943,Charlie Rose,United States,Male,2,2,76,5
+1962,Charlie Trotter,United States,Male,6,23,85,251
+1965,Charlie Ward,United States,Male,3,21,61,285
+1980,Chelsea Clinton,United States,Female,6,26,60,58
+1973,Chen Shui-Bian ,Taiwan,Male,1,1,1,285
+1978,Cherie Blair,United Kingdom,Female,6,26,60,266
+1984,Cherry Jones,United States,Female,23,6,63,326
+1979,Chevy Chase,United States,Male,4,4,83,253
+1999,Chien-Ming Wang,Taiwan,Male,3,21,32,91
+1993,Chipper Jones,United States,Male,3,21,32,115
+1996,Chita Rivera,United States,Female,#N/A,#N/A,0,23
+2007,Chris Albrecht,United States,Male,7,17,21,206
+2018,Chris Broussard,United States,Male,2,2,76,302
+2020,Chris Chambliss,United States,Male,3,21,32,361
+2028,Chris DiMarco,United States,Male,3,3,73,236
+2034,Chris Dudley,United States,Male,3,21,61,53
+2044,Chris Gatling,United States,Male,3,21,61,246
+2069,Chris Matthews,United States,Male,2,2,76,351
+2075,Chris Osgood,United States,Male,3,21,67,331
+2100,Chris Webber,United States,Male,3,21,61,60
+2108,Christa Worthington,United States,Female,2,2,76,358
+2056,Christian Lacroix,France,Male,4,10,81,136
+2080,Christian Peter,United States,Male,3,21,88,279
+2093,Christian Tetzlaff,Germany,Male,4,14,30,114
+2009,Christiane Amanpour,United Kingdom,Female,2,2,76,12
+2014,Christine Baranski,United States,Female,4,4,19,123
+2085,Christine C Quinn,United States,Female,1,1,1,206
+2038,Christine Ebersole,United States,Female,4,4,19,52
+2058,Christine Lahti,United States,Female,4,4,19,94
+2047,Christine O Gregoire,United States,Female,1,1,1,83
+2102,Christine Todd Whitman,United States,Female,1,1,1,269
+2041,Christoph Eschenbach,Germany,Male,4,14,70,1
+2032,Christoph von Dohnanyi,Germany,Male,4,14,70,251
+2027,Christopher Cox,United States,Male,1,1,1,290
+2035,Christopher Durang,United States,Male,2,2,2,2
+2021,Christopher J Christie,United States,Male,1,1,1,249
+2031,Christopher J Dodd,United States,Male,1,1,1,148
+2062,Christopher Lehmann-Haupt,United States,Male,2,2,76,1
+2049,Christopher R Hill,United States,Male,1,1,59,1
+2016,Christopher S Bond,United States,Male,1,1,1,65
+2101,Christopher Wheeldon,United Kingdom,Male,4,27,72,81
+2114,Chuck Close,United States,Male,4,8,23,187
+2116,Chuck Hagel,United States,Male,1,1,1,277
+2117,Chuck Haytaian,United States,Male,1,1,1,28
+2118,Chuck Jones,United States,Male,4,10,28,265
+2119,Chuck Knoblauch,United States,Male,3,21,32,189
+2129,Cindy McCain,United States,Female,6,26,60,140
+2130,Cindy Sherman,United States,Female,4,8,71,19
+2135,Claire Bloom,United Kingdom,Female,4,4,19,46
+2154,Claire Messud,United States,Female,2,2,2,1
+2166,Claire Shulman,United States,Female,1,1,1,54
+2157,Clarence Jr Norman,United States,Male,1,1,1,237
+2169,Clarence Thomas,United States,Male,1,1,54,175
+2148,Claude Lemieux,Canada,Male,3,21,67,197
+2165,Claudia Shear,United States,Female,2,2,2,1
+2160,Claudio Reyna,United States,Male,3,21,33,201
+2181,Clifford J Levy,United States,Male,2,2,76,166
+2184,Clifford Odets,United States,Male,2,2,2,199
+2183,Clint Mathis,United States,Male,3,21,33,330
+2176,Clive Davis,United States,Male,4,14,30,95
+2191,Clyde Haberman,United States,Male,2,2,76,1
+2196,Cokie Roberts,United States,Female,2,2,76,361
+2211,Coleen Rowley,United States,Female,#N/A,#N/A,0,354
+2199,Colin Davis,United Kingdom,Male,4,14,70,268
+2208,Colin Montgomerie,Scotland,Male,3,3,73,174
+2200,Colleen Dewhurst,Canada,Female,4,4,19,155
+2204,Colleen Kollar-Kotelly,United States,Female,7,25,53,1
+2213,Colm Toibin,Ireland,Male,2,2,2,150
+2221,Connie Chung,United States,Female,2,2,76,232
+2226,Conor McPherson,Ireland,Male,2,2,2,218
+2219,Conrad Burns,United States,Male,1,1,1,25
+2217,Conrad M Black,Canada,Male,7,17,21,238
+2227,Constance Baker Motley,United States,Female,7,25,53,257
+2241,Coretta Scott King,United States,Female,6,20,31,117
+2246,Cornel West,United States,Male,2,5,5,153
+2235,Cory A Booker,United States,Male,1,1,1,117
+2242,Cory Lidle,United States,Male,3,21,32,82
+2254,Craig Claiborne,United States,Male,2,2,79,248
+2258,Craig Lucas,United States,Male,2,2,2,120
+2259,Craig O McCaw,United States,Male,7,17,21,223
+2265,Cristina Fernandez de Kirchner,Argentina,Female,1,1,1,50
+2270,Cruz Bustamante,United States,Male,1,1,1,4
+2272,Cuauhtemoc Cardenas,Mexico,Male,1,1,1,121
+2277,Curt Schilling,United States,Male,3,21,32,318
+2274,Curtis Hanson,United States,Male,4,4,4,83
+2275,Curtis Martin,United States,Male,3,21,88,121
+2278,Curtis Sittenfeld,United States,Female,2,2,2,1
+2279,Cy Coleman,United States,Male,4,14,16,165
+2284,Cynthia Ozick,United States,Female,2,2,2,108
+2285,Cynthia Rowley,United States,Female,4,10,81,210
+2294,D J R Bruckner,United States,Male,2,2,76,330
+2298,D Wayne Lukas,United States,Male,3,3,42,245
+2302,Daisuke Matsuzaka,Japan,Male,3,21,32,257
+2305,Dalai Lama ,Tibet,Male,1,12,14,187
+2306,Dale Bumpers,United States,Male,1,1,1,224
+2309,Dale Jarrett,United States,Male,3,3,58,331
+2311,Dale Peck,United States,Male,2,2,2,1
+2318,Damien Robinson,United States,Male,3,21,88,356
+2334,Dan Burton,United States,Male,1,1,1,172
+2345,Dan Dorfman,United States,Male,2,2,76,297
+2348,Dan Flavin,United States,Male,4,8,24,91
+2349,Dan Gaba,United States,Male,3,3,26,1
+2352,Dan Glickman,United States,Male,1,1,1,329
+2369,Dan Marino,United States,Male,3,21,88,258
+2375,Dan Morales,United States,Male,7,25,53,115
+2388,Dan Rather,United States,Male,2,2,76,304
+2389,Dan Reeves,United States,Male,3,21,88,19
+2392,Dan Rooney,United States,Male,3,21,88,202
+2394,Dan Rostenkowski,United States,Male,1,1,1,2
+2351,Dana Gioia,United States,Male,2,2,2,358
+2391,Dana Rohrabacher,United States,Male,1,1,1,172
+2329,Daniel Boulud,France,Male,6,23,85,84
+2368,Daniel E Lungren,United States,Male,1,1,1,265
+2347,Daniel Ellsberg,United States,Male,1,1,1,97
+2355,Daniel Goleman,United States,Male,5,16,34,66
+2356,Daniel Jonah Goldhagen,United States,Male,2,24,46,181
+2359,Daniel K Inouye,United States,Male,1,1,1,251
+2344,Daniel L Doctoroff,United States,Male,7,17,21,192
+2376,Daniel Patrick Moynihan,United States,Male,1,1,1,75
+2383,Daniel Pearl,United States,Male,2,2,76,283
+2384,Daniel Pelosi,United States,Male,6,15,38,214
+2354,Daniel S Goldin,United States,Male,#N/A,#N/A,0,205
+2401,Daniel Sullivan,United States,Male,1,1,1,162
+2321,Danny Almonte,Dominican Republic,Male,3,21,32,97
+2363,Danny Kanell,United States,Male,3,21,88,325
+2371,Danny Meyer,United States,Male,6,23,85,73
+2407,Danny Wuerffel,United States,Male,3,21,88,147
+2409,Daphne Merkin,United States,Female,2,2,79,150
+2428,Dara Torres,United States,Female,3,3,45,105
+2416,Dario Franchitti,Scotland,Male,3,3,58,139
+2420,Darius Kasparaitis,Lithuania,Male,3,21,67,290
+2423,Daron Rahlves,United States,Male,3,3,84,163
+2418,Darryl Hamilton,United States,Male,3,21,32,338
+2427,Darryl Strawberry,United States,Male,3,21,32,71
+2439,Dave Barry,United States,Male,2,2,2,184
+2466,Dave Checketts,United States,Male,3,21,61,1
+2482,Dave Eggers,United States,Male,2,2,2,71
+2515,Dave Kehr,United States,Male,2,2,79,1
+2588,Dave Wannstedt,United States,Male,3,21,40,142
+2518,David A Kessler,United States,Male,5,11,13,133
+2436,David Auburn,United States,Male,2,2,2,334
+2437,David Axelrod,United States,Male,1,1,1,53
+2440,David Barstow,United States,Male,2,2,76,21
+2444,David Berkowitz,United States,Male,6,15,38,152
+2446,David Blaine,United States,Male,6,23,55,94
+2447,David Blunkett,United Kingdom,Male,1,1,1,157
+2449,David Boies,United States,Male,7,25,53,70
+2450,David Bonderman,United States,Male,7,17,21,331
+2453,David Bouley,United States,Male,6,23,85,147
+2456,David Brinkley,United States,Male,2,2,76,192
+2458,David Brock,United States,Male,2,2,76,306
+2461,David Byrne,United Kingdom,Male,4,14,30,135
+2465,David Carr,United States,Male,2,2,79,202
+2512,David Cay Johnston,United States,Male,2,2,76,359
+2468,David Cone,United States,Male,3,21,32,2
+2531,David D McKiernan,United States,Male,1,22,35,345
+2476,David Del Tredici,United States,Male,4,14,30,1
+2480,David Duval,United States,Male,3,3,73,313
+2451,David E Bonior,United States,Male,1,1,1,157
+2479,David E Duke,United States,Male,15,6,38,182
+2516,David E Kelley,United States,Male,#N/A,#N/A,0,95
+2517,David E Kendall,United States,Male,7,25,53,1
+2561,David E Sanger,United States,Male,2,2,76,187
+2483,David Falk,United States,Male,3,21,61,1
+2587,David Foster Wallace,United States,Male,2,2,2,52
+2486,David Frum,Canada,Male,2,2,76,182
+2581,David G Trager,United States,Male,7,25,53,357
+2488,David Galef,United States,Male,2,2,2,86
+2489,David Geffen,United States,Male,4,14,30,52
+2490,David Gelernter,United States,Male,5,13,15,64
+2494,David Grossman,Israel,Male,2,2,2,25
+2519,David H Komansky,United States,Male,7,17,21,1
+2571,David H Souter,United States,Male,1,1,54,260
+2497,David Halberstam,United States,Male,2,2,76,100
+2499,David Helfgott,Australia,Male,4,14,30,139
+2506,David Henry Hwang,United States,Male,2,2,2,223
+2501,David Hicks,Australia,Male,#N/A,#N/A,0,219
+2503,David Hockney,United Kingdom,Male,4,8,23,190
+2548,David Hyde Pierce,United States,Male,4,4,19,93
+2508,David Ives,United States,Male,2,2,2,192
+2513,David Justice,United States,Male,3,21,32,104
+2514,David Kaczynski,United States,Male,6,15,38,276
+2520,David Koresh,United States,Male,1,12,14,229
+2523,David Leonhardt,United States,Male,2,2,76,1
+2525,David Lindsay-Abaire,United States,Male,2,2,2,334
+2457,David M Brown,United States,Male,#N/A,#N/A,0,107
+2467,David M Childs,United States,Male,4,10,11,91
+2529,David Mamet,United States,Male,2,2,2,334
+2530,David McCullough,United States,Male,2,2,2,188
+2532,David Merrick,United States,Male,17,7,50,331
+2477,David N Dinkins,United States,Male,1,1,1,191
+2481,David N Edelstein,United States,Male,2,2,79,47
+2559,David O Russell,United States,Male,4,4,4,232
+2544,David Ortiz,Dominican Republic,Male,3,21,32,322
+2546,David Pelletier,Canada,Male,3,3,66,326
+2550,David Pogue,United States,Male,2,2,76,68
+2540,David R Obey,United States,Male,1,1,1,276
+2551,David Rabe,United States,Male,2,2,2,70
+2552,David Remnick,United States,Male,2,2,76,302
+2555,David Rockefeller,United States,Male,7,17,21,163
+2556,David Rohde,United States,Male,2,2,76,1
+2560,David Saint,United States,Male,4,4,4,1
+2563,David Satcher,United States,Male,5,11,13,61
+2567,David Sedaris,United States,Male,2,2,2,361
+2573,David Stern,United States,Male,3,3,42,265
+2580,David Toms,United States,Male,3,3,73,4
+2584,David Tua,Samoa,Male,3,3,49,326
+2586,David Vitter,United States,Male,1,1,1,123
+2589,David Wells,United States,Male,3,21,32,140
+2591,David Westin,United States,Male,2,2,76,211
+2593,David Yassky,United States,Male,1,1,1,63
+2594,David Zinman,United States,Male,4,14,70,191
+2527,Davis III Love,United States,Male,3,3,73,104
+2595,Daw Aung San Suu Kyi,Laos,Female,1,1,1,170
+2596,Dawn Upshaw,United States,Female,4,14,27,199
+2603,Dean G Skelos,United States,Male,1,1,1,47
+2602,Dean Ornish,United States,Male,5,11,13,197
+2604,Deborah A Batts,United States,Female,1,1,54,103
+2608,Deborah E Lipstadt,United States,Female,2,24,46,77
+2605,Deborah J Glick,United States,Female,1,1,1,358
+2610,Deborah T Poritz,United States,Female,1,1,54,300
+2613,Deborah Voigt,United States,Female,4,14,27,217
+2616,Deena Kastor,United States,Female,3,3,42,45
+2618,Deion Sanders,United States,Male,3,21,32,221
+2629,Deng Xiaoping ,China,Male,1,1,1,235
+2637,Denis E Dillon,United States,Male,1,1,54,355
+2642,Denis Johnson,United States,Male,2,2,2,182
+2645,Denis Leary,United States,Male,4,4,19,230
+2634,Denise Cote,United States,Female,1,1,54,1
+2654,Denise Rich,United States,Female,2,2,2,26
+2659,Dennis B Ross,United States,Male,1,1,59,331
+2661,Dennis C Vacco,United States,Male,7,25,53,229
+2633,Dennis Conner,United States,Male,3,3,42,259
+2643,Dennis J Kucinich,United States,Male,1,1,1,281
+2646,Dennis Miller,United States,Male,4,4,83,307
+2650,Dennis Overbye,United States,Male,2,2,76,154
+2652,Dennis Potter,United Kingdom,Male,2,2,2,137
+2635,Dennis Russell Davies,United States,Male,4,14,70,107
+2632,Denny Chin,United States,Male,1,1,54,1
+2647,Denny Neagle,United States,Male,3,21,32,257
+2666,Derek Bok,United States,Male,2,24,46,81
+2669,Derek Jeter,United States,Male,3,21,32,177
+2665,Derrick Bell,United States,Male,7,25,53,310
+2667,Derrick Coleman,United States,Male,3,21,61,172
+2676,Des Mcanuff,Canada,Male,4,4,4,171
+2679,Deval L Patrick,United States,Male,1,1,1,213
+2681,Dexter Filkins,United States,Male,2,2,76,1
+2688,Diana Krall,Canada,Female,4,14,27,321
+2692,Diana Rigg,United Kingdom,Female,4,4,19,201
+2695,Diana Taurasi,United States,Female,3,21,61,162
+2683,Diane Arbus,United States,Female,4,8,71,73
+2686,Diane Johnson,United States,Female,2,2,2,118
+2691,Diane Ravitch,United States,Female,#N/A,#N/A,0,182
+2694,Diane Sawyer,United States,Female,2,2,76,356
+2697,Diane von Furstenberg,Belgium,Female,4,10,81,365
+2684,Dianne Feinstein,United States,Female,1,1,1,173
+2699,Dick Armey,United States,Male,1,1,1,189
+2700,Dick Cavett,United States,Male,23,6,63,324
+2702,Dick Clark,United States,Male,23,6,41,334
+2704,Dick Ebersol,United States,Male,17,7,50,209
+2705,Dick Morris,United States,Male,1,1,1,332
+2706,Dick Pound,Canada,Male,3,3,42,81
+2707,Dick Vermeil,United States,Male,3,21,40,304
+2708,Dick Wolf,United States,Male,17,7,50,354
+2703,Dickinson R Debevoise,United States,Male,7,25,53,114
+2729,Dieter Zetsche,Germany,Male,7,17,21,125
+2730,Dikembe Mutombo,Congo,Male,3,21,61,176
+2741,Dino Rossi,United States,Male,1,1,1,288
+2747,Dirk Kempthorne,United States,Male,1,1,1,302
+2756,Dmitri Hvorostovsky,RUssia,Male,4,14,27,289
+2765,Doc Rivers,United States,Male,3,21,40,286
+2771,Domingo Cavallo,Argentina,Male,5,16,20,202
+2775,Dominick Dunne,United States,Male,2,2,76,302
+2776,Dominik Hasek,Czechia,Male,3,21,67,29
+2785,Don Baylor,United States,Male,3,21,32,179
+2789,Don Chaney,United States,Male,3,21,40,81
+2800,Don Henley,United States,Male,4,14,27,203
+2801,Don Hewitt,United States,Male,17,7,50,348
+2802,Don Imus,United States,Male,23,6,63,205
+2807,Don Larsen,United States,Male,3,21,32,219
+2810,Don Mattingly,United States,Male,3,21,32,110
+2813,Don Nelson,United States,Male,3,21,40,136
+2814,Don Nickles,United States,Male,1,1,1,341
+2821,Don Shula,United States,Male,3,21,40,4
+2831,Don Young,United States,Male,1,1,1,160
+2832,Don Zimmer,United States,Male,3,21,32,17
+2822,Donald E Siegelman,United States,Male,7,25,53,55
+2829,Donald E Westlake,United States,Male,2,2,2,193
+2796,Donald Fehr,United States,Male,3,3,42,170
+2786,Donald J Boudreaux,United States,Male,5,16,20,1
+2788,Donald J Carty,United States,Male,7,17,21,1
+2804,Donald Judd,United States,Male,4,8,24,155
+2795,Donald L Evans,United States,Male,7,17,21,207
+2808,Donald Margulies,United States,Male,2,2,2,245
+2794,Donald T Difrancesco,United States,Male,1,1,1,325
+2826,Donald Tsang,China,Male,1,1,1,281
+2820,Donna E Shalala,United States,Female,1,1,1,45
+2799,Donna Hanover,United States,Female,4,4,19,44
+2805,Donna Karan,United States,Female,4,10,81,276
+2828,Donnie Walsh,United States,Male,7,17,21,60
+2793,Donny Deutsch,United States,Male,7,17,21,326
+2784,Donovan Bailey,Canada,Male,3,3,42,350
+2812,Donovan McNabb,United States,Male,3,21,88,330
+2836,Doris Duke,United States,Female,7,17,21,327
+2837,Doris Kearns Goodwin,United States,Female,2,24,46,4
+2833,Dorothy Allison,United States,Female,2,2,2,101
+2834,Dorothy Day,United States,Female,12,1,14,312
+2842,Dorothy Parker,United States,Female,2,2,2,234
+2845,Dottie Pepper,United States,Female,3,3,73,229
+2852,Doug Flutie,United States,Male,3,21,88,296
+2847,Douglas Brinkley,United States,Male,2,24,46,349
+2851,Douglas J Feith,United States,Male,1,1,1,197
+2848,Douglas N Daft,Australia,Male,7,17,21,79
+2853,Douglas R Forrester,United States,Male,1,1,1,24
+2861,Dov Hikind,United States,Male,1,1,1,181
+2869,Drew Barrymore,United States,Female,4,4,19,53
+2871,Drew Bledsoe,United States,Male,3,21,88,45
+2872,Drew Henson,United States,Male,3,21,88,44
+2873,Dries van Noten,Belgium,Male,4,10,81,132
+2880,Duncan Hunter,United States,Male,1,1,1,152
+2881,Dusty Baker,United States,Male,3,21,32,166
+2886,Dwight Gooden,United States,Male,3,21,32,321
+2895,E L Doctorow,United States,Male,2,2,2,6
+2897,E Neville Isdell,Ireland,Male,7,17,21,159
+2902,Earvin Johnson,United States,Male,3,21,61,226
+2906,Eckhard Pfeiffer,Germany,Male,7,17,21,232
+2912,Ed McBain,United States,Male,2,2,2,288
+2918,Eddie George,United States,Male,3,21,88,267
+2924,Eddie Murray,United States,Male,3,21,32,55
+2928,Edgardo Alfonzo,Venezuela,Male,3,21,32,312
+2941,Edie Falco,United States,Female,4,4,19,186
+2944,Edith Wharton,United States,Female,2,2,2,24
+2961,Edolphus Towns,United States,Male,1,1,1,202
+2984,Edward Burns,United States,Male,4,4,19,29
+3028,Edward Durell Stone,United States,Male,4,10,11,68
+3020,Edward G Rendell,United States,Male,1,1,1,5
+2995,Edward Gorey,United States,Male,4,10,28,53
+2997,Edward Hirsch,United States,Male,2,2,2,20
+2998,Edward Hoagland,United States,Male,2,2,2,356
+3004,Edward I Koch,United States,Male,1,1,1,347
+3012,Edward J Markey,United States,Male,1,1,1,192
+3038,Edward J Zander,United States,Male,7,17,21,12
+2991,Edward M Egan,United States,Male,1,12,14,93
+3003,Edward M Kennedy,United States,Male,1,1,1,53
+3011,Edward N Luttwak,United States,Male,5,16,56,308
+3036,Edward O Wilson,United States,Male,5,6,17,161
+3005,Edward R Korman,United States,Male,7,25,53,298
+3007,Edward S Lampert,United States,Male,7,17,21,200
+3026,Edward Sorel,United States,Male,4,10,28,85
+3027,Edward Steichen,United States,Male,4,8,71,86
+3033,Edward Villella,United States,Male,4,27,72,275
+3034,Edward Weston,United States,Male,4,8,71,83
+3039,Edward Zwick,United States,Male,4,4,4,282
+2988,Edwidge Danticat,Haiti,Female,2,2,2,19
+2990,Edwin W Edwards,United States,Male,1,1,1,219
+3049,Eileen Atkins,United Kingdom,Female,4,4,19,167
+3057,Elaine L Chao,United States,Female,1,1,1,85
+3058,Elaine May,United States,Female,4,4,19,112
+3059,Elaine Stritch,United States,Female,4,4,19,33
+3065,Eleanor Holmes Norton,United States,Female,1,1,1,164
+3079,Eli Broad,United States,Male,7,17,21,157
+3101,Eli Manning,United States,Male,3,21,88,3
+3093,Elian Gonzalez,Cuba,Male,#N/A,#N/A,0,340
+3090,Eliot Feld,United States,Male,4,27,72,186
+3089,Eliot L Engel,United States,Male,1,1,1,49
+3097,Elisa Izquierdo,United States,Female,#N/A,#N/A,0,42
+3080,Elisabeth Bumiller,United States,Female,2,2,76,136
+3110,Elizabeth Ann Smart,United States,Female,6,20,31,307
+3083,Elizabeth Crow,United States,Female,7,17,21,210
+3085,Elizabeth Dole,United States,Female,1,1,1,211
+3088,Elizabeth Edwards,United States,Female,1,1,1,184
+3095,Elizabeth Holtzman,United States,Female,1,1,1,223
+3071,"Elizabeth II, Queen of Great Britain ",United Kingdom,Female,1,1,65,111
+3094,Elizabeth S Grubman,United States,Female,7,25,53,30
+3112,Elizabeth Swados,United States,Female,4,14,16,36
+3132,Ellen Taaffe Zwilich,United States,Female,4,14,16,120
+3118,Elliott Abrams,United States,Male,1,1,59,24
+3121,Elliott Carter,United States,Male,4,14,16,346
+3126,Ellsworth Kelly,United States,Male,4,8,23,151
+3134,Elmore Leonard,United States,Male,2,2,2,284
+3136,Elton Brand,United States,Male,3,21,61,70
+3140,Elvis Grbac,United States,Male,3,21,88,225
+3142,Elvis Mitchell,United States,Male,2,2,79,340
+3145,Emad al- Fayed,Egypt,Male,7,17,21,105
+3144,Emanuel Ax,United States,Male,4,14,30,159
+3150,Emeril Lagasse,United States,Male,6,23,85,288
+3195,Emmanuel Constant,Haiti,Male,22,1,35,301
+3210,Emmet G Sullivan,United States,Male,7,25,53,1
+3208,Emmitt Smith,United States,Male,3,21,88,135
+3199,Emmylou Harris,United States,Female,4,14,27,92
+3225,Enid Nemy,United States,Female,2,2,76,1
+3226,Ennis Cosby,United States,Male,#N/A,#N/A,0,105
+3246,Eric Alterman,United States,Male,2,2,76,14
+3247,Eric Asimov,United States,Male,2,2,79,198
+3250,Eric Bogosian,United States,Male,4,4,19,114
+3261,Eric Fischl,United States,Male,4,8,23,69
+3262,Eric Foner,United States,Male,2,24,46,38
+3266,Eric H Jr Holder,United States,Male,7,25,53,21
+3293,Eric K Shinseki,United States,Male,1,22,35,332
+3274,Eric Lichtblau,United States,Male,2,2,76,1
+3275,Eric Lindros,Canada,Male,3,21,67,59
+3278,Eric Mangini,United States,Male,3,21,40,19
+3295,Eric N Vitaliano,United States,Male,7,25,53,58
+3288,Eric Robert Rudolph,United States,Male,6,15,38,262
+3292,Eric Schlosser,United States,Male,2,2,76,229
+3269,Erica Jong,United States,Female,2,2,2,85
+3281,Erich Priebke,Germany,Male,#N/A,#N/A,0,210
+3249,Erick Barkley,United States,Male,3,21,61,52
+3296,Erik Williams,United States,Male,3,21,88,251
+3315,Ernest F Hollings,United States,Male,1,1,1,1
+3310,Ernesto Guevara,Argentina,Male,1,1,65,135
+3325,Ernesto Perez Balladares,Panama,Male,1,1,1,180
+3332,Ernesto Samper,Colombia,Male,1,1,1,215
+3298,Ernie Accorsi,United States,Male,3,21,88,302
+3305,Ernie Els,South African,Male,3,3,73,290
+3307,Ernie Fletcher,United States,Male,1,1,1,317
+3309,Ernie Grunfeld,United States,Male,3,21,61,114
+3316,Ernie Irvan,United States,Male,3,3,42,13
+3341,Errol Morris,United States,Male,4,4,4,36
+3342,Erskine B Bowles,United States,Male,1,1,1,220
+3349,Esa-Pekka Salonen,Finland,Male,4,14,70,181
+3354,Estelle Parsons,United States,Female,4,4,19,324
+3352,Esther Dyson,United States,Female,7,17,21,195
+3355,Ethan Bronner,United States,Male,2,2,76,1
+3358,Ethan Mordden,United States,Male,2,2,2,27
+3357,Ethel Kennedy,United States,Female,1,1,1,102
+3361,Etienne Tshisekedi,Congo,Male,1,1,1,349
+3363,Eudora Welty,United States,Female,2,2,2,103
+3370,Eugene A Ludwig,United States,Male,5,16,20,101
+3372,Eugene H Nickerson,United States,Male,7,25,53,214
+3392,Eva S Moskowitz,United States,Female,#N/A,#N/A,0,64
+3382,Evan Bayh,United States,Male,1,1,1,360
+3399,Eve Ensler,United States,Female,2,2,2,145
+3401,Eve Queler,United States,Female,4,14,70,11
+3400,Evelyn Glennie,United Kingdom,Female,4,14,30,200
+3414,F Lee Bailey,United States,Male,7,25,53,161
+3417,F W de Klerk,South African,Male,1,1,1,78
+3430,Fahd ,Saudi Arabia,Male,1,1,65,75
+3434,Faith Prince,United States,Female,4,4,19,218
+3433,Faith S Hochberg,United States,Female,7,25,53,1
+3444,Fareed Zakaria,United States,Male,2,2,76,20
+3457,Fay Vincent,United States,Male,7,17,21,149
+3458,Fay Weldon,United Kingdom,Female,2,2,2,265
+3468,Federico F Pena,United States,Male,1,1,1,74
+3464,Federico Garcia Lorca,Spain,Male,2,2,2,156
+3470,Felipe Alou,Dominican Republic,Male,3,21,32,132
+3486,Felix G Rohatyn,United States,Male,7,17,21,150
+3477,Felix J Jr Grucci,United States,Male,7,17,21,329
+3487,Felix Trinidad,Puerto Rico,Male,3,3,49,10
+3536,Fernando de la Rua,Argentina,Male,1,1,1,258
+3501,Fernando Ferrer,United States,Male,1,1,1,120
+3532,Fernando Vargas,United States,Male,3,3,49,341
+3541,Fife Symington,United States,Male,1,1,1,224
+3548,Fiorello H la Guardia,United States,Male,1,1,1,345
+3555,Flora Lewis,United States,Female,2,2,76,206
+3550,Floyd Abrams,United States,Male,7,25,53,191
+3552,Floyd H Flake,United States,Male,12,1,14,30
+3562,Foday Sankoh,Sierra Leone,Male,1,1,1,290
+3567,Fox Butterfield,United States,Male,2,2,76,1
+3611,Fran Fraschilla,United States,Male,3,21,61,242
+3717,Francesca Zambello,United States,Female,4,14,30,237
+3675,Francine Prose,United States,Female,2,2,2,91
+3635,Francis L Lawrence,United States,Male,#N/A,#N/A,0,237
+3651,Francis Mer,France,Male,1,1,1,145
+3631,Francisco Labastida Ochoa,Mexico,Male,1,1,1,226
+3586,Francois Botha,South African,Male,3,3,49,272
+3670,Francois Pinault,France,Male,7,17,21,233
+3590,Frank Bruni,United States,Male,2,2,76,305
+3597,Frank Conroy,United States,Male,2,2,2,15
+3603,Frank Decaro,United States,Male,#N/A,#N/A,0,310
+3719,Frank G Zarb,United States,Male,7,17,21,48
+3659,Frank H Murkowski,United States,Male,1,1,1,87
+3644,Frank J Macchiarola,United States,Male,7,25,53,97
+3674,Frank J Prial,United States,Male,2,2,76,308
+3665,Frank Jr Pallone,United States,Male,1,1,1,303
+3629,Frank Keating,United States,Male,1,1,1,41
+3633,Frank Langella,United States,Male,4,4,19,1
+3640,Frank Loesser,United States,Male,4,14,16,180
+3642,Frank Lorenzo,United States,Male,7,17,21,140
+3643,Frank Luntz,United States,Male,1,1,1,54
+3676,Frank P Quattrone,United States,Male,7,17,21,1
+3664,Frank Padavan,United States,Male,1,1,1,304
+3634,Frank R Lautenberg,United States,Male,1,1,1,23
+3684,Frank Rich,United States,Male,2,2,76,153
+3697,Frank Stella,United States,Male,4,8,23,133
+3700,Frank Stronach,Austria,Male,7,17,21,250
+3714,Frank Wildhorn,United States,Male,4,14,16,333
+3679,Franklin D Raines,United States,Male,7,17,21,14
+3618,Franklin Graham,United States,Male,1,12,14,196
+3623,Franz Joseph Haydn,Austria,Male,4,14,16,91
+3637,Franz S Leichter,United States,Male,1,1,1,231
+3711,Franz Welser-Most,Austria,Male,4,14,70,229
+3733,Fred Couples,United States,Male,3,3,73,276
+3737,Fred Ebb,United States,Male,4,14,30,99
+3740,Fred Funk,United States,Male,3,3,73,166
+3751,Fred J Neulander,United States,Male,1,12,14,226
+3739,Fred W Friendly,United States,Male,2,2,76,303
+3763,Fred Wilpon,United States,Male,3,21,32,325
+3722,Freddy Adu,United States,Male,3,21,33,153
+3730,Frederic Block,United States,Male,1,1,54,157
+3759,Frederick A O Jr Schwarz,United States,Male,7,25,53,292
+3723,Frederick Ashton,United Kingdom,Male,4,27,72,1
+3728,Frederick Barthelme,United States,Male,2,2,2,283
+3752,Frederick Law Olmsted,United States,Male,4,10,11,116
+3764,Frederick Wiseman,United States,Male,4,4,4,1
+3790,Fritz Stern,Germany,Male,2,24,46,33
+3798,Fuzzy Zoeller,United States,Male,3,3,73,315
+3805,G Oliver Koppell,United States,Male,1,1,1,350
+3806,G Richard Jr Wagoner,United States,Male,7,17,21,40
+3835,Gail Devers,United States,Female,3,3,42,323
+3839,Gale Norton,United States,Female,1,1,1,70
+3853,Garland Jr Burrell,United States,Male,7,25,53,1
+3870,Garrick Ohlsson,United States,Male,4,14,30,94
+3864,Garrison Keillor,United States,Male,2,2,2,219
+3867,Garry Marshall,United States,Male,4,4,4,317
+3874,Garry Shandling,United States,Male,4,4,83,333
+3878,Garry Trudeau,United States,Male,4,10,28,203
+3879,Garry Wills,United States,Male,2,2,2,142
+3852,Garth Brooks,United States,Male,4,14,27,38
+3857,Garth H Drabinsky,Canada,Male,#N/A,#N/A,0,300
+3858,Gary A Franks,United States,Male,1,1,1,40
+3847,Gary Barnett,United States,Male,3,21,40,143
+3851,Gary Bettman,United States,Male,3,3,42,154
+3862,Gary E Johnson,United States,Male,1,1,1,1
+3859,Gary Hart,United States,Male,1,1,1,333
+3845,Gary L Ackerman,United States,Male,1,1,1,323
+3849,Gary L Bauer,United States,Male,1,1,1,124
+3866,Gary Locke,United States,Male,1,1,1,21
+3872,Gary Payton,United States,Male,3,21,61,205
+3873,Gary Player,South African,Male,3,3,73,305
+3875,Gary Sheffield,United States,Male,3,21,32,323
+3880,Gary Winnick,United States,Male,7,17,21,1
+3891,Gata Kamsky,United States,Male,3,3,12,153
+3893,Gavin Newsom,United States,Male,1,1,1,283
+3895,Gay Talese,United States,Male,2,2,76,38
+3903,Gene Budig,United States,Male,#N/A,#N/A,0,145
+3908,Gene C McKinney,United States,Male,1,1,1,307
+3911,Gene Sperling,United States,Male,5,16,20,358
+3912,Gene Upshaw,United States,Male,3,21,88,227
+3904,Gennifer Flowers,United States,Female,#N/A,#N/A,0,24
+3902,Geno Auriemma,United States,Male,3,21,40,82
+3970,Geoff Hoon,United Kingdom,Male,1,1,1,340
+3993,Geoff Nicholson,United Kingdom,Male,2,2,2,63
+3922,Geoffrey Beene,United States,Male,4,10,81,243
+3936,Geoffrey Canada,United States,Male,#N/A,#N/A,0,13
+3955,Geoffrey Fieger,United States,Male,7,25,53,357
+4052,Geoffrey Wheatcroft,United Kingdom,Male,2,2,76,357
+3919,George Balanchine,RUssia,Male,4,27,72,22
+3931,George Burns,United States,Male,6,23,63,20
+3932,George Bush,United States,Male,1,1,1,164
+4047,George C Wallace,United States,Male,1,1,1,237
+4057,George C Wolfe,United States,Male,4,4,19,266
+4004,George E Pataki,United States,Male,1,1,1,175
+4055,George F Will,United States,Male,2,2,76,124
+3954,George Fernandes,India,Male,1,1,1,154
+4015,George Herman Ruth,United States,Male,3,21,32,37
+3991,George J Mitchell,United States,Male,1,1,1,232
+4039,George J Tenet,United States,Male,1,1,1,5
+3972,George Karl,United States,Male,3,21,40,132
+3956,George M C Fisher,United States,Male,7,17,21,1
+4024,George P Shultz,United States,Male,1,1,1,348
+3998,George Packer,United States,Male,2,2,76,226
+4008,George Plimpton,United States,Male,2,2,76,77
+4041,George R Tiller,United States,Male,5,11,13,220
+4016,George Ryan,United States,Male,1,1,1,55
+3973,George S Kaufman,United States,Male,2,2,2,320
+3984,George S McGovern,United States,Male,1,1,1,200
+4034,George Stephanopoulos,United States,Male,2,2,76,41
+4045,George Vecsey,United States,Male,2,2,76,185
+4050,George Wein,United States,Male,4,14,30,276
+4067,Gerald Cardinale,United States,Male,7,17,21,58
+4111,Gerald L Shargel,United States,Male,7,25,53,279
+4092,Gerald M Levin,United States,Male,7,17,21,126
+4080,Gerald P Garson,United States,Male,7,25,53,216
+4102,Gerald Posner,United States,Male,2,2,76,140
+4108,Gerald Schoenfeld,United States,Male,17,7,50,266
+4113,Gerald Stern,United States,Male,2,2,2,53
+4078,Geraldine A Ferraro,United States,Female,1,1,1,238
+4106,Geraldo Rivera,United States,Male,2,2,76,185
+4093,Gerard E Lynch,United States,Male,7,25,53,247
+4091,Gerard Latortue,Haiti,Male,1,1,1,170
+4095,Gerard Mortier,Belgium,Male,4,14,30,329
+4110,Gerard Schwarz,United States,Male,4,14,70,231
+4104,Gerhard Richter,Germany,Male,4,8,23,40
+4131,Giancarlo Parretti,Italy,Male,7,17,21,319
+4126,Gianfranco Ferre,Italy,Male,4,10,81,228
+4142,Gidon Kremer,Latvia,Male,4,14,30,58
+4144,Gifford Miller,United States,Male,1,1,1,310
+4150,Gil Garcetti,United States,Male,7,25,53,217
+4154,Gil Morgan,United States,Male,3,3,73,268
+4156,Gil Shaham,Israel,Male,4,14,30,50
+4146,Gilbert F Amelio,United States,Male,7,17,21,60
+4155,Gilda Radner,United States,Female,6,23,63,179
+4164,Gina Kolata,United States,Female,2,2,76,56
+4162,Ginia Bellafante,United States,Female,2,2,76,90
+4167,Giovanni Agnelli,Italy,Male,7,17,21,1
+4202,Gish Jen,United States,Female,2,2,2,1
+4219,Giuseppe Sinopoli,Italy,Male,4,14,70,306
+4227,Gladys Kessler,United States,Female,1,1,54,22
+4239,Glen Rice,United States,Male,3,21,61,148
+4240,Glen Sather,Canada,Male,3,21,40,245
+4236,Glenn C Loury,United States,Male,5,16,20,247
+4237,Glenn D Lowry,United States,Male,4,8,9,271
+4242,Glenn F Tilton,United States,Male,7,17,21,1
+4229,Glenn Foley,United States,Male,3,21,88,283
+4243,Gloria Macapagal Arroyo,Philippines,Female,1,1,1,95
+4247,Gloria Steinem,United States,Female,6,20,31,84
+4250,Gloria Trevi,Mexico,Female,4,14,27,46
+4255,Golan Cipel,Israel,Male,1,1,59,1
+4267,Gordie Howe,Canada,Male,3,21,67,91
+4269,Gordon Lish,United States,Male,2,2,2,42
+4272,Gordon Parks,United States,Male,4,8,71,335
+4296,Grace Paley,United States,Female,2,2,2,345
+4287,Graciela Daniele,Argentina,Female,4,4,4,342
+4295,Graeme Lloyd,Australia,Male,3,21,32,99
+4292,Grant Hill,United States,Male,3,21,61,279
+4288,Gray Davis,United States,Male,1,1,1,360
+4285,Graydon Carter,Canada,Male,2,2,76,195
+4311,Greg Louganis,United States,Male,3,3,45,29
+4312,Greg Maddux,United States,Male,3,21,32,104
+4315,Greg Norman,Australia,Male,3,3,73,41
+4316,Greg Osby,United States,Male,4,14,30,216
+4318,Greg Rusedski,Canada,Male,3,3,3,249
+4304,Gregg Easterbrook,United States,Male,2,2,76,62
+4302,Gregory B Craig,United States,Male,7,25,53,63
+4308,Gregory Hines,United States,Male,4,27,72,45
+4303,Gretchen Dykstra,United States,Female,2,2,76,235
+4314,Gretchen Morgenson,United States,Female,2,2,76,2
+4324,Grigory A Yavlinsky,RUssia,Male,5,16,20,101
+4337,Guillermo Linares,Dominican Republic,Male,1,1,1,1
+4338,Guillermo Mota,Dominican Republic,Male,3,21,32,206
+4347,Gulbuddin Hekmatyar,Afghanistan,Male,6,15,38,1
+4380,Gus van Sant,United States,Male,4,4,4,206
+4390,Guy J Velella,United States,Male,1,1,1,269
+4387,Guy V Molinari,United States,Male,1,1,1,328
+4392,Gwen Ifill,United States,Female,2,2,76,272
+4394,Gwen Verdon,United States,Female,4,27,72,13
+4396,Gyanendra ,Nepal,Male,1,1,65,188
+4400,H Carl McCall,United States,Male,1,1,1,290
+4408,H Wayne Huizenga,United States,Male,7,17,21,363
+4413,Hafez Al- Assad,Syria,Male,1,1,1,279
+4417,Haim Saban,Israel,Male,7,17,21,289
+4425,Hal Hartley,United States,Male,4,4,4,307
+4432,Hal R Varian,United States,Male,5,16,20,77
+4431,Hal Sutton,United States,Male,3,3,73,118
+4427,Hale Irwin,United States,Male,3,3,73,154
+4422,Haley Barbour,United States,Male,1,1,1,295
+4467,Hanif Kureishi,United Kingdom,Male,2,2,2,339
+4480,Hans Tietmeyer,Germany,Male,5,16,20,230
+4461,Hans Werner Henze,Germany,Male,4,14,30,182
+4486,Harold Bloom,United States,Male,2,2,79,192
+4525,Harold C Simmons,United States,Male,7,17,21,133
+4497,Harold M Ickes,United States,Male,1,1,1,247
+4503,Harold O Levy,United States,Male,#N/A,#N/A,0,349
+4517,Harold Prince,United States,Male,4,4,4,30
+4491,Harold W Jr Gehman,United States,Male,1,22,35,288
+4510,Harriet E Miers,United States,Female,7,25,53,222
+4485,Harry A Blackmun,United States,Male,7,25,53,317
+4494,Harry B Helmsley,United States,Male,7,17,21,63
+4528,Harry C Stonecipher,United States,Male,7,17,21,137
+4487,Harry Caray,United States,Male,3,21,32,60
+4506,Harry Macklowe,United States,Male,7,17,21,1
+4514,Harry Partch,United States,Male,4,14,30,175
+4519,Harry Reid,United States,Male,1,1,1,336
+4522,Harry Shearer,United States,Male,4,4,19,357
+4529,Harry Thomason,United States,Male,6,23,41,1
+4536,Harry Wu,China,Male,6,20,31,1
+4488,Harvey Fierstein,United States,Male,4,4,19,158
+4490,Harvey Gantt,United States,Male,1,1,1,1
+4516,Harvey L Pitt,United States,Male,7,25,53,59
+4534,Harvey Weinstein,United States,Male,7,17,50,79
+4542,Hasim Rahman,United States,Male,3,3,49,312
+4546,Hasina Wazed,Bangladesh,Female,1,1,1,271
+4541,Hassan Mustafa Osama Nasr,Egypt,Male,#N/A,#N/A,0,77
+4561,Hector Camacho,Puerto Rico,Male,3,3,49,144
+4564,Hedda Nussbaum,United States,Female,7,25,53,1
+4568,Heidi Fleiss,United States,Female,6,15,38,364
+4595,Helen Frankenthaler,United States,Female,4,8,23,347
+4594,Helene Cooper,Liberia,Female,2,2,76,112
+4592,Helio Castroneves,Brazil,Male,3,3,58,130
+4601,Helmut Newton,Germany,Male,4,8,71,305
+4643,Henrik Lundqvist,Sweden,Male,3,21,67,61
+4671,Henry A Waxman,United States,Male,1,1,1,255
+4605,Henry Akinwande,United Kingdom,Male,3,3,49,285
+4610,Henry Blodget,United States,Male,2,2,76,1
+4615,Henry G Cisneros,United States,Male,1,1,1,162
+4631,Henry J Hyde,United States,Male,1,1,1,109
+4644,Henry J Lyons,United States,Male,1,12,14,1
+4664,Henry J Stern,United States,Male,#N/A,#N/A,0,121
+4634,Henry Kamm,United States,Male,2,2,76,1
+4627,Henry Louis Jr Gates,United States,Male,2,24,46,259
+4653,Henry M Jr Paulson,United States,Male,1,1,1,87
+4637,Henry R Kravis,United States,Male,7,17,21,6
+4678,Herb Brooks,United States,Male,3,21,40,217
+4686,Herb Gardner,United States,Male,2,2,2,362
+4685,Herbert J Gans,United States,Male,5,16,62,127
+4705,Herbert Muschamp,United States,Male,2,2,79,332
+4709,Heriberto Seda,United States,Male,#N/A,#N/A,0,212
+4675,Herman Badillo,United States,Male,1,1,1,233
+4683,Herman D Jr Farrell,United States,Male,1,1,1,35
+4682,Herman Edwards,United States,Male,3,21,40,117
+4707,Hermann Prey,Germany,Male,4,14,27,192
+4717,Hideki Irabu,Japan,Male,3,21,32,125
+4718,Hideki Matsui,Japan,Male,3,21,32,163
+4720,Hideo Nomo,Japan,Male,3,21,32,244
+4736,Hiram Monserrate,United States,Male,1,1,1,193
+4751,Horton Foote,United States,Male,2,2,2,74
+4757,Hoshyar Zebari,Iraq,Male,1,1,1,1
+4763,Howard Cross,United States,Male,3,21,88,220
+4764,Howard Dean,United States,Male,1,1,1,322
+4765,Howard Eisley,United States,Male,3,21,61,339
+4768,Howard Golden,United States,Male,1,1,1,1
+4760,Howard H Jr Baker,United States,Male,1,1,1,319
+4761,Howard L Berman,United States,Male,1,1,1,105
+4771,Howard Safir,United States,Male,#N/A,#N/A,0,1
+4773,Howard Stern,United States,Male,6,23,63,12
+4774,Howard Stringer,United Kingdom,Male,7,17,21,50
+4781,Hu Jintao ,China,Male,1,1,1,355
+4787,Hubert Vedrine,France,Male,1,1,1,212
+4790,Hugh L Carey,United States,Male,1,1,1,101
+4810,Hume Cronyn,Canada,Male,4,4,19,199
+4812,Hun Sen ,Cambodia,Male,1,1,1,218
+4816,Hussein Chalayan,United Kingdom,Male,4,10,47,224
+4815,Hussein I ,Jordan,Male,1,1,65,318
+4818,I Leo Glasser,United States,Male,1,1,54,97
+4819,I Lewis Jr Libby,United States,Male,1,1,1,234
+4825,Ian Ayres,United States,Male,7,25,53,1
+4826,Ian Bostridge,United Kingdom,Male,4,14,27,360
+4827,Ian Buruma,Netherlands,Male,2,2,2,362
+4839,Ian Rankin,Scotland,Male,2,2,2,119
+4841,Ian Schrager,United States,Male,7,17,21,200
+4845,Ian Wilmut,United Kingdom,Male,#N/A,#N/A,0,189
+4850,Ibrahim Al- Jaafari,Iraq,Male,1,1,1,84
+4856,Idina Menzel,United States,Female,4,4,19,150
+4859,Iftikhar Muhammad Chaudhry,Pakistan,Male,7,25,53,347
+4869,Igor S Ivanov,RUssia,Male,1,1,1,266
+4878,Ike Hilliard,United States,Male,3,21,88,96
+4879,Ike Quartey,Ghana,Male,3,3,49,331
+4917,Ira Berkow,United States,Male,2,2,76,7
+4920,Ira C Magaziner,United States,Male,7,17,21,312
+4918,Ira Glasser,United States,Male,6,20,31,1
+4919,Ira Levin,United States,Male,2,2,2,239
+4923,Irene Worth,United States,Female,4,4,19,175
+4926,Irina Slutskaya,RUssia,Female,3,3,66,40
+4927,Irina Spirlea,Romania,Female,3,3,3,85
+4930,Irving Penn,United States,Male,4,8,71,167
+4932,Irwin Redlener,United States,Male,5,11,13,225
+4949,Isaac Mizrahi,United States,Male,4,10,47,287
+4955,Isaac Stern,United States,Male,4,14,30,203
+4956,Isabel Wilkerson,United States,Female,2,2,2,1
+4939,Isabelle Autissier,France,Female,3,3,42,292
+4951,Isamu Noguchi,United States,Male,4,8,24,322
+4966,Ismail Khan,Afghanistan,Male,1,22,35,1
+4967,Ismail Merchant,India,Male,4,4,4,360
+4970,Israel Horovitz,United States,Male,4,4,4,90
+4972,Israel Perez,Puerto Rico,Male,2,2,2,111
+4973,Issey Miyake,Japan,Male,4,10,47,112
+5000,Iva Majoli,Croatia,Female,3,3,3,224
+5007,Ivan G Seidenberg,United States,Male,7,17,21,344
+5006,Ivan Rodriguez,Puerto Rico,Male,3,21,32,334
+5009,Ivana Trump,United States,Female,7,17,21,51
+5022,J Craig Venter,United States,Male,#N/A,#N/A,0,287
+5024,J Dennis Hastert,United States,Male,1,1,1,2
+5031,J M Coetzee,South African,Male,2,2,2,40
+5035,J R R Tolkien,United Kingdom,Male,2,2,2,3
+5039,Jack Abramoff,United States,Male,1,1,1,59
+5112,Jack B Weinstein,United States,Male,1,1,54,222
+5056,Jack Curry,United States,Male,2,2,76,330
+5070,Jack F Kemp,United States,Male,1,1,1,194
+5054,Jack Kent Cooke,Canada,Male,7,17,21,299
+5082,Jack Miles,United States,Male,2,2,2,211
+5087,Jack Nicklaus,United States,Male,3,3,73,21
+5107,Jack Straw,United Kingdom,Male,1,1,1,215
+5110,Jack Valenti,United States,Male,7,17,21,248
+5060,Jackie Gleason,United States,Male,4,4,19,57
+5081,Jackie Mason,United States,Male,4,4,19,160
+5052,Jacob J Chestnut,United States,Male,#N/A,#N/A,0,119
+5076,Jacob Lawrence,United States,Male,4,8,23,250
+5090,Jacqueline Kennedy Onassis,United States,Female,6,26,60,138
+5084,Jacques A Nasser,Australia,Male,7,17,21,346
+5078,Jacques Lemaire,Canada,Male,3,21,40,250
+5093,Jacques Pepin,France,Male,6,23,85,352
+5120,Jagdish Bhagwati,India,Male,5,16,20,207
+5125,Jaime Laredo,United States,Male,4,14,70,158
+5130,Jake Plummer,United States,Male,3,21,88,353
+5132,Jalen Rose,United States,Male,3,21,61,30
+5210,Jamaica Kincaid,Antigua,Female,2,2,2,145
+5222,Jamal Mashburn,United States,Male,3,21,61,334
+5262,James A Jr Traficant,United States,Male,1,1,1,121
+5209,James A Kelly,United States,Male,1,1,59,1
+5160,James B Comey,United States,Male,#N/A,#N/A,0,349
+5225,James B McDougal,United States,Male,1,1,1,238
+5254,James B Stewart,United States,Male,2,2,76,1
+5173,James C Dobson,United States,Male,5,16,34,112
+5192,James C Greenwood,United States,Male,1,1,1,124
+5153,James Carville,United States,Male,1,1,1,299
+5158,James Chaney,United States,Male,6,20,31,150
+5211,James Charles Kopp,United States,Male,8,18,39,214
+5163,James Conlon,United States,Male,4,14,70,77
+5271,James D Wolfensohn,Australia,Male,5,16,20,335
+5172,James Dimon,United States,Male,7,17,21,73
+5156,James E Cayne,United States,Male,7,17,21,45
+5226,James E McGreevey,United States,Male,1,1,1,218
+5243,James E Rogan,United States,Male,1,1,54,233
+5175,James Ellroy,United States,Male,2,2,2,64
+5177,James Fallows,United States,Male,2,2,76,214
+5182,James Frey,United States,Male,2,2,2,255
+5242,James G Roche,United States,Male,1,22,35,350
+5183,James Galway,Ireland,Male,4,14,30,342
+5188,James Gleick,United States,Male,2,2,76,213
+5189,James Goldsmith,United Kingdom,Male,6,20,31,57
+5190,James Gorman,Australia,Male,7,17,21,195
+5139,James H Billington,United States,Male,2,2,2,152
+5267,James H Jr Webb,United States,Male,1,1,1,40
+5219,James H Maloney,United States,Male,1,1,1,261
+5166,James J Cramer,United States,Male,7,17,21,41
+5273,James J Yee,United States,Male,1,22,35,1
+5184,James K Galbraith,United States,Male,5,16,20,29
+5193,James K Hahn,United States,Male,1,1,1,184
+5137,James L Barksdale,United States,Male,7,17,21,24
+5174,James L Dolan,United States,Male,7,17,21,131
+5206,James L Jones,United States,Male,1,22,35,353
+5213,James Lapine,United States,Male,4,4,4,10
+5148,James Lee Burke,United States,Male,2,2,2,340
+5270,James Lee Witt,United States,Male,1,1,1,6
+5214,James Levine,United States,Male,4,14,70,174
+5202,James M Inhofe,United States,Male,1,1,1,321
+5204,James M Jeffords,United States,Male,1,1,1,131
+5235,James Naughton,United States,Male,4,4,19,340
+5197,James P Hoffa,United States,Male,#N/A,#N/A,0,129
+5246,James P Rubin,United States,Male,1,1,59,1
+5269,James Q Wilson,United States,Male,1,1,1,147
+5249,James R Schlesinger,United States,Male,1,1,1,46
+5241,James Risen,United States,Male,2,2,76,1
+5245,James Rosenquist,United States,Male,4,8,23,333
+5143,James S Brady,United States,Male,1,1,1,242
+5247,James Salter,United States,Male,2,2,2,161
+5227,James T McHugh,United States,Male,1,1,54,3
+5259,James Taylor,United States,Male,4,14,27,72
+5260,James Thurber,United States,Male,4,10,28,342
+5263,James Traub,United States,Male,2,2,76,1
+5264,James Turrell,United States,Male,4,8,9,126
+5248,Jamie Sale,Canada,Female,3,3,66,111
+5258,Jamie Tarses,United States,Female,6,23,63,76
+5218,Jamil Mahuad,Ecuador,Male,1,1,1,210
+5289,Jan Egeland,Norway,Male,1,1,59,255
+5278,Jane Alexander,United States,Female,4,4,19,301
+5285,Jane Campion,New Zealand,Female,4,4,4,120
+5299,Jane Dee Hull,United States,Female,1,1,1,220
+5283,Jane E Brody,United States,Female,2,2,76,139
+5288,Jane Eaglen,United Kingdom,Female,4,14,27,95
+5298,Jane Harman,United States,Female,1,1,1,179
+5300,Jane Jacobs,United States,Female,#N/A,#N/A,0,125
+5328,Jane Smiley,United States,Female,2,2,2,269
+5314,Janet Malcolm,United States,Female,2,2,76,1
+5315,Janet Maslin,United States,Female,2,2,79,224
+5318,Janet Napolitano,United States,Female,1,1,1,333
+5323,Janet Reno,United States,Female,7,25,53,202
+5284,Janice Rogers Brown,United States,Female,1,1,54,131
+5292,Jan-Michael Gambill,United States,Male,3,3,3,154
+5335,Jann Wenner,United States,Male,2,2,2,7
+5338,Jared Bernstein,United States,Male,5,16,20,1
+5351,Jason Alexander,United States,Male,4,4,19,266
+5352,Jason Arnott,Canada,Male,3,21,67,284
+5358,Jason Giambi,United States,Male,3,21,32,8
+5361,Jason Isringhausen,United States,Male,3,21,32,251
+5354,Jason Robert Brown,United States,Male,4,14,16,171
+5370,Jason Sehorn,United States,Male,3,21,88,105
+5372,Jason West,United States,Male,1,1,1,85
+5384,Javier Vazquez,Puerto Rico,Male,3,21,32,207
+5388,Jay Chiat,United States,Male,7,17,21,298
+5390,Jay Fiedler,United States,Male,3,21,88,363
+5391,Jay Garner,United States,Male,1,22,35,105
+5392,Jay Haas,United States,Male,3,3,73,336
+5399,Jay M Pasachoff,United States,Male,5,6,25,1
+5395,Jay McInerney,United States,Male,2,2,2,13
+5398,Jay Parini,United States,Male,2,2,2,93
+5400,Jay Payton,United States,Male,3,21,32,326
+5404,Jayson Williams,United States,Male,3,21,61,53
+5418,Jean Carnahan,United States,Female,1,1,1,354
+5472,Jean Racine,France,Male,2,2,2,263
+5484,Jean Stapleton,United States,Female,4,4,19,19
+5485,Jean Strouse,United States,Female,2,2,2,1
+5447,Jeane J Kirkpatrick,United States,Female,1,1,59,323
+5494,Jean-Georges Vongerichten,France,Male,6,23,85,1
+5469,Jeanine Pirro,United States,Female,1,1,54,153
+5450,Jean-Marie Le Pen,France,Male,#N/A,#N/A,0,172
+5458,Jean-Marie Messier,France,Male,7,17,21,348
+5481,Jeanne Shaheen,United States,Female,1,1,1,28
+5413,Jean-Pierre Bemba,Congo,Male,1,1,1,308
+5486,Jean-Yves Thibaudet,France,Male,4,14,30,250
+5502,Jeff Bingaman,United States,Male,1,1,1,276
+5516,Jeff Hostetler,United States,Male,3,21,88,112
+5520,Jeff Maggert,United States,Male,3,3,73,51
+5524,Jeff Van Gundy,United States,Male,3,21,40,19
+5526,Jeff Zucker,United States,Male,17,7,50,99
+5497,Jeffrey Archer,United Kingdom,Male,2,2,2,106
+5521,Jeffrey D Sachs,United States,Male,5,16,20,309
+5511,Jeffrey E Garten,United States,Male,5,16,20,302
+5509,Jeffrey Eugenides,United States,Male,2,2,2,68
+5522,Jeffrey K Skilling,United States,Male,7,17,21,329
+5518,Jeffrey Katzenberg,United States,Male,7,17,21,355
+5500,Jeffrey L Bewkes,United States,Male,7,17,21,146
+5517,Jeffrey R Immelt,United States,Male,7,17,21,50
+5514,Jeffrey W Greenberg,United States,Male,7,17,21,1
+5525,Jeffrey Wigand,United States,Male,7,17,21,351
+5533,Jenna Bush,United States,Female,6,26,60,329
+5546,Jennifer 8 Lee,United States,Female,2,2,76,75
+5548,Jennifer Jason Leigh,United States,Female,4,4,19,36
+5540,Jennifer M Granholm,Canada,Female,1,1,1,36
+5555,Jenny Thompson,United States,Female,3,3,45,57
+5613,Jeremiah A Jr Wright,United States,Male,1,12,14,265
+5563,Jeremy M Boorda,United States,Male,1,22,35,330
+5598,Jeremy Piven,United States,Male,4,4,19,207
+5603,Jeremy Roenick,United States,Male,3,21,67,17
+5606,Jeremy Shockey,United States,Male,3,21,88,231
+5560,Jerome Bettis,United States,Male,3,21,88,47
+5571,Jerome Charyn,United States,Male,2,2,2,133
+5587,Jerome Kern,United States,Male,4,14,16,27
+5588,Jerome Kerviel,France,Male,7,17,21,11
+5602,Jerome Robbins,United States,Male,4,27,72,284
+5568,Jeromy Burnitz,United States,Male,3,21,32,105
+5580,Jerramiah T Healy,United States,Male,1,1,1,350
+5595,Jerrold Nadler,United States,Male,1,1,1,164
+5558,Jerry Bailey,United States,Male,3,3,42,241
+5566,Jerry Bruckheimer,United States,Male,4,4,4,264
+5573,Jerry Colangelo,United States,Male,7,17,21,324
+5576,Jerry Falwell,United States,Male,1,12,14,223
+5578,Jerry Garcia,United States,Male,4,14,30,213
+5581,Jerry Herman,United States,Male,4,14,16,191
+5607,Jerry I Speyer,United States,Male,7,17,21,175
+5585,Jerry Jones,United States,Male,7,17,21,286
+5593,Jerry Manuel,United States,Male,3,21,32,357
+5596,Jerry Orbach,United States,Male,4,4,19,293
+5599,Jerry Reinsdorf,United States,Male,7,17,21,56
+5601,Jerry Rice,United States,Male,3,21,88,286
+5608,Jerry Springer,United States,Male,6,23,63,226
+5609,Jerry Tarkanian,United States,Male,3,21,40,220
+5615,Jerry Zaks,United States,Male,6,23,41,250
+5622,Jesse Gelsinger,United States,Male,#N/A,#N/A,0,169
+5624,Jesse Helms,United States,Male,1,1,1,291
+5631,Jesse McKinley,United States,Male,2,2,76,1
+5638,Jesse Ventura,United States,Male,1,1,1,196
+5629,Jessica Lynch,United States,Female,1,22,35,116
+5618,Jessie Armstead,United States,Male,3,21,88,299
+5633,Jessye Norman,United States,Female,4,14,27,258
+5643,Jiang Zemin ,China,Male,1,1,1,229
+5646,Jibril Rajoub,Palestine,Male,1,1,1,1
+5652,Jil Sander,Germany,Female,4,10,81,331
+5651,Jill Abramson,United States,Female,2,2,76,78
+5654,Jim Bouton,United States,Male,3,21,32,67
+5658,Jim Bunning,United States,Male,3,21,32,296
+5659,Jim Calhoun,United States,Male,3,21,40,130
+5666,Jim Duquette,United States,Male,7,17,21,1
+5667,Jim Edgar,United States,Male,1,1,1,203
+5668,Jim Fassel,United States,Male,3,21,40,243
+5669,Jim Florio,United States,Male,1,1,1,241
+5670,Jim Furyk,United States,Male,3,3,73,132
+5696,Jim Guy Tucker,United States,Male,1,1,1,164
+5672,Jim Harbaugh,United States,Male,3,21,40,357
+5676,Jim Hodges,United States,Male,1,1,1,324
+5684,Jim Kolbe,United States,Male,1,1,1,179
+5685,Jim Leach,United States,Male,1,1,1,288
+5686,Jim Lehrer,United States,Male,2,2,76,139
+5687,Jim Leyland,United States,Male,3,21,32,350
+5688,Jim Leyritz,United States,Male,3,21,32,361
+5695,Jim Thome,United States,Male,3,21,32,239
+5699,Jim Yardley,United States,Male,2,2,76,170
+5655,Jimmy Breslin,United States,Male,2,2,76,290
+5657,Jimmy Buffett,United States,Male,4,14,27,359
+5681,Jimmy Key,United States,Male,3,21,32,112
+5683,Jimmy Kimmel,United States,Male,4,4,83,317
+5693,Jimmy Smits,United States,Male,4,4,19,190
+5704,Joan Allen,United States,Female,4,4,19,233
+5710,Joan Claybrook,United States,Female,7,25,53,163
+5711,Joan Collins,United Kingdom,Female,4,4,19,143
+5713,Joan Didion,United States,Female,2,2,2,339
+5720,Joan Humphrey Lefkow,United States,Female,1,1,54,9
+5727,Joan Rivers,United States,Female,4,4,83,159
+5706,Joaquin Balaguer,Dominican Republic,Male,1,1,1,244
+5733,Joba Chamberlain,United States,Male,3,21,32,266
+5736,Jodi Kantor,United States,Female,2,2,76,111
+5741,Joe Carollo,United States,Male,1,1,1,70
+5746,Joe Eszterhas,United States,Male,2,2,2,328
+5748,Joe Girardi,United States,Male,3,21,32,288
+5753,Joe Jurevicius,United States,Male,3,21,88,357
+5756,Joe Lockhart,United States,Male,1,1,1,194
+5758,Joe Lovano,United States,Male,4,14,30,364
+5760,Joe Mantello,United States,Male,6,23,41,361
+5762,Joe Mcilvaine,United States,Male,7,17,21,1
+5763,Joe Moakley,United States,Male,1,1,1,117
+5764,Joe Montana,United States,Male,3,21,88,163
+5765,Joe Namath,United States,Male,3,21,88,151
+5766,Joe Orton,United Kingdom,Male,2,2,2,1
+5768,Joe Paterno,United States,Male,3,21,40,355
+5770,Joe Roth,United States,Male,4,4,4,165
+5775,Joe Torre,United States,Male,3,21,32,200
+5773,Joel B Steinberg,United States,Male,6,15,38,145
+5754,Joel I Klein,United States,Male,7,25,53,298
+6050,Johan Santana,Venezuela,Male,3,21,32,72
+5906,Johann Wolfgang von Goethe,Germany,Male,2,2,2,240
+5910,John A Gotti,United States,Male,6,15,52,45
+6082,John A Thain,United States,Male,7,17,21,146
+6007,John Allen Muhammad,United States,Male,6,15,38,366
+6023,John Allen Paulos,United States,Male,5,9,10,185
+5782,John Ashbery,United States,Male,2,2,2,209
+5783,John Ashcroft,United States,Male,1,1,1,129
+5812,John B Breaux,United States,Male,1,1,1,61
+5994,John B McCormack,United States,Male,1,1,1,224
+5794,John Barth,United States,Male,2,2,2,147
+5815,John Bruton,Ireland,Male,1,1,1,138
+6056,John Burnham Schwartz,United States,Male,2,2,2,1
+5805,John C Bogle,United States,Male,7,17,21,128
+5851,John C Danforth,United States,Male,1,1,1,249
+5976,John C Liu,United States,Male,1,1,1,8
+5985,John C Malone,United States,Male,7,17,21,66
+6111,John C Yoo,United States,Male,7,25,53,191
+5823,John Calipari,United States,Male,3,21,40,41
+5836,John Cheever,United States,Male,2,2,2,148
+5846,John Corigliano,United States,Male,4,14,16,47
+5847,John Cornyn,United States,Male,1,1,1,33
+5796,John D Bates,United States,Male,1,1,54,284
+5863,John D Dingell,United States,Male,1,1,1,189
+6013,John D Negroponte,United States,Male,1,1,59,202
+6030,John D Podesta,United States,Male,1,1,1,8
+5852,John Darnton,United States,Male,2,2,76,324
+5869,John E Du Pont,United States,Male,6,15,38,326
+6068,John E Sprizzo,United States,Male,1,1,54,357
+6077,John E Sununu,United States,Male,1,1,1,254
+6106,John Edgar Wideman,United States,Male,2,2,2,165
+5902,John Eliot Gardiner,United Kingdom,Male,4,14,70,110
+5876,John Elway,United States,Male,3,21,88,180
+5878,John Engler,United States,Male,1,1,1,286
+5879,John Ensign,United States,Male,1,1,1,84
+5818,John F Burns,United Kingdom,Male,2,2,76,278
+6102,John F Jr Welch,United States,Male,7,17,21,323
+6075,John F Street,United States,Male,1,1,1,288
+5891,John Franco,United States,Male,3,21,32,261
+5890,John Frankenheimer,United States,Male,4,4,4,50
+5964,John G Koeltl,United States,Male,1,1,54,1
+6046,John G Rowland,United States,Male,1,1,1,144
+5907,John Goodman,United States,Male,4,4,19,171
+5872,John Gregory Dunne,United States,Male,2,2,2,146
+5913,John Gross,United Kingdom,Male,2,2,79,71
+5914,John Guare,United States,Male,2,2,2,36
+5835,John H Chafee,United States,Male,1,1,1,295
+5921,John Harbison,United States,Male,4,14,16,354
+5925,John Hejduk,United States,Male,4,10,11,200
+5930,John Herbers,United States,Male,2,2,76,308
+5889,John Hope Franklin,United States,Male,2,24,46,2
+5909,John J Gotti,United States,Male,6,15,52,301
+5966,John J LaFalce,United States,Male,1,1,1,279
+5982,John J Mack,United States,Male,7,17,21,322
+6040,John J Rigas,United States,Male,7,17,21,329
+5844,John Jr Conyers,United States,Male,1,1,1,136
+5951,John Kander,United States,Male,4,14,16,77
+5960,John Kitzhaber,United States,Male,1,1,1,64
+5968,John Landis,United States,Male,4,4,4,215
+5969,John Le Carre,United Kingdom,Male,2,2,2,292
+5987,John Lee Malvo,United States,Male,6,15,38,49
+5895,John Lewis Gaddis,United States,Male,2,24,46,1
+5975,John Lithgow,United States,Male,4,4,19,292
+5979,John Lukacs,Hungary,Male,2,24,46,31
+5859,John M Deutch,United States,Male,1,1,1,208
+6031,John M Poindexter,United States,Male,1,1,1,225
+6058,John M Shalikashvili,United States,Male,1,22,35,179
+5990,John Markoff,United States,Male,2,2,76,297
+5998,John Mellencamp,United States,Male,4,14,27,280
+6004,John Mortimer,United Kingdom,Male,2,2,2,111
+6006,John Muckler,Canada,Male,3,21,40,103
+6108,John Noble Wilford,United States,Male,2,2,76,277
+5801,John O Bennett,United States,Male,1,1,1,219
+6018,John Olerud,United States,Male,3,21,32,218
+5777,John P Abizaid,United States,Male,1,22,35,94
+6008,John P Murtha,United States,Male,1,1,1,169
+6095,John P Walters,United States,Male,1,1,1,39
+6059,John Patrick Shanley,United States,Male,2,2,2,276
+5776,John Paul II ,Poland,Male,1,12,14,139
+6072,John Paul Stevens,United States,Male,7,25,53,111
+6024,John Pawson,United Kingdom,Male,4,10,11,126
+6029,John Pizzarelli,United States,Male,4,14,30,97
+5806,John R Bolton,United States,Male,1,1,1,325
+5952,John R Kasich,United States,Male,1,1,1,134
+6061,John R Silber,United States,Male,#N/A,#N/A,0,227
+6045,John Rocker,United States,Male,3,21,32,290
+6044,John Rockwell,United States,Male,2,2,79,1
+6047,John Ruiz,United States,Male,3,3,49,4
+5989,John S Jr Martin,United States,Male,2,2,2,1
+6037,John S Reed,United States,Male,7,17,21,1
+6052,John Sayles,United States,Male,4,4,4,271
+6062,John Singleton,United States,Male,4,4,4,6
+6063,John Smoltz,United States,Male,3,21,32,135
+5973,John V Lindsay,United States,Male,1,1,1,328
+6090,John Vanbiesbrouck,United States,Male,3,21,67,247
+5961,John W Kluge,United States,Male,7,17,21,264
+6064,John W Snow,United States,Male,1,1,1,214
+6096,John W Warner,United States,Male,1,1,1,49
+5974,John Walker Lindh,United States,Male,6,15,38,40
+6101,John Weidman,United States,Male,#N/A,#N/A,0,268
+6104,John Wetteland,United States,Male,3,21,32,233
+6113,John Zorn,United States,Male,4,14,16,245
+5840,Johnnie L Jr Cochran,United States,Male,7,25,53,275
+5831,Johnny Cash,United States,Male,4,14,27,57
+5837,Johnny Chung,United States,Male,1,1,1,1
+5945,Johnny Isakson,United States,Male,1,1,1,363
+5999,Johnny Mercer,United States,Male,4,14,27,322
+6119,Jon Bon Jovi,United States,Male,4,14,27,61
+6130,Jon Gruden,United States,Male,3,21,40,229
+6136,Jon Krakauer,United States,Male,2,2,2,102
+6144,Jon O Newman,United States,Male,1,1,54,1
+6145,Jon Pareles,United States,Male,2,2,79,298
+6116,Jon Robin Baitz,United States,Male,2,2,2,308
+6121,Jon S Corzine,United States,Male,1,1,1,1
+6128,Jonathan Franzen,United States,Male,2,2,2,229
+6146,Jonathan J Pollard,United States,Male,#N/A,#N/A,0,219
+6134,Jonathan Kellerman,United States,Male,2,2,2,221
+6135,Jonathan Kozol,United States,Male,2,2,2,249
+6137,Jonathan Larson,United States,Male,4,14,16,35
+6138,Jonathan Lethem,United States,Male,2,2,2,50
+6139,Jonathan Lippman,United States,Male,1,1,54,139
+6147,Jonathan Pryce,Wales,Male,4,4,19,152
+6148,Jonathan Raban,United Kingdom,Male,2,2,2,165
+6127,Jonathan Safran Foer,United States,Male,2,2,2,52
+6170,Jorge Posada,Puerto Rico,Male,3,21,32,229
+6234,Jose Alexandre Gusmao,East Timor,Male,1,1,1,171
+6202,Jose Canseco,United States,Male,3,21,32,184
+6207,Jose Contreras,Cuba,Male,3,21,32,340
+6211,Jose Eduardo Dos Santos,Angola,Male,1,1,1,240
+6285,Jose Francisco Ruiz Massieu,Mexico,Male,1,1,1,203
+6303,Jose Luis Rodriguez Zapatero,Spain,Male,1,1,1,217
+6271,Jose Maria Olazabal,Spain,Male,3,3,73,36
+6177,Josef Ackermann,Germany,Male,7,17,21,38
+6248,Josef Joffe,Germany,Male,2,2,76,75
+6188,Joseph Bastianich,United States,Male,6,23,85,261
+6191,Joseph Bernardin,United States,Male,1,12,14,93
+6300,Joseph C 4TH Wilson,United States,Male,7,17,21,310
+6261,Joseph C Massino,United States,Male,6,15,52,10
+6208,Joseph Cornell,United States,Male,4,8,24,358
+6213,Joseph Durso,United States,Male,2,2,76,174
+6272,Joseph E Persico,United States,Male,2,2,2,200
+6254,Joseph I Lieberman,United States,Male,1,1,1,55
+6209,Joseph J DioGuardi,United States,Male,1,1,1,264
+6215,Joseph J Ellis,United States,Male,2,24,46,199
+6246,Joseph Jett,United States,Male,7,17,21,1
+6200,Joseph L Bruno,United States,Male,1,1,1,98
+6181,Joseph M Arpaio,United States,Male,1,1,1,166
+6298,Joseph Mallord William Turner,United Kingdom,Male,4,8,23,113
+6268,Joseph P Nacchio,United States,Male,7,17,21,173
+6193,Joseph R Jr Biden,United States,Male,1,1,1,324
+6210,Joseph V Jr Doria,United States,Male,1,1,1,179
+6274,Joseph W Prueher,United States,Male,1,22,35,329
+6277,Joseph W Ralston,United States,Male,1,22,35,308
+6195,Joshua B Bolten,United States,Male,1,1,1,228
+6190,Joshua Bell,United States,Male,4,14,30,343
+6279,Joshua Redman,United States,Male,4,14,30,32
+6305,Joyce Maynard,United States,Female,2,2,2,309
+6307,Joyce Wadler,United States,Female,2,2,76,2
+6313,Juan Carlos I ,Spain,Male,1,1,65,5
+6334,Judd Apatow,United States,Male,4,4,4,340
+6343,Judd Gregg,United States,Male,1,1,1,45
+6344,Judd Hirsch,United States,Male,4,4,19,74
+6341,Judith H Dobrzynski,United States,Female,2,2,76,67
+6346,Judith Ivey,United States,Female,4,4,19,247
+6347,Judith Jamison,United States,Female,4,27,72,130
+6350,Judith Nathan,United States,Female,5,11,13,350
+6352,Judith Regan,United States,Female,2,2,2,229
+6348,Judith S Kaye,United States,Female,1,1,54,216
+6339,Judith Steinberg Dean,United States,Female,5,11,13,129
+6335,Judy Blume,United States,Female,2,2,2,43
+6337,Judy Collins,United States,Female,4,14,27,121
+6338,Judy Davis,Australia,Female,4,4,19,113
+6406,Jule Styne,United States,Male,4,14,16,365
+6373,Jules Feiffer,United States,Male,4,10,28,26
+6384,Juli Inkster,United States,Female,3,3,73,176
+6364,Julian Bond,United States,Male,6,20,31,14
+6402,Julian Schnabel,United States,Male,4,8,23,299
+6380,Julie Harris,United States,Female,4,4,19,336
+6387,Julie Krone,United States,Female,3,3,42,205
+6375,Julie L Gerberding,United States,Female,5,11,13,234
+6400,Julie Salamon,United States,Female,2,2,76,191
+6407,Julie Taymor,United States,Female,6,23,41,350
+6363,Julio Bocca,Argentina,Male,4,27,72,65
+6366,Julio Cesar Chavez,Mexico,Male,3,3,49,193
+6399,Julius Rudel,United States,Male,4,14,70,65
+6419,Jurgen E Schrempp,Germany,Male,7,17,21,259
+6425,Justin Gimelstob,United States,Male,3,3,3,26
+6429,Justin Leonard,United States,Male,3,3,73,167
+6432,Justina Morales,United States,Female,2,2,2,50
+6436,Juwan Howard,United States,Male,3,21,61,38
+6439,K D Lang,Canada,Female,4,14,27,306
+6452,Kalpana Chawla,India,Female,8,18,39,76
+6457,Kamal Kharrazi,Iran,Male,1,1,1,336
+6520,Karel van Miert,Belgium,Male,1,1,1,17
+6463,Karen Akers,United States,Female,4,14,27,286
+6477,Karen Finley,United States,Female,4,8,9,1
+6479,Karim Garcia,Mexico,Male,3,21,32,302
+6497,Karita Mattila,Finland,Female,4,14,27,249
+6507,Karl Rove,United States,Male,1,1,1,359
+6514,Karla Faye Tucker,United States,Female,6,15,38,322
+6517,Karrie Webb,Australia,Female,3,3,73,355
+6523,Kasey Keller,United States,Male,3,21,33,333
+6561,Kate Spade,United States,Female,4,10,81,358
+6556,Katha Pollitt,United States,Female,2,2,76,287
+6567,Katharine Weber,United States,Female,2,2,2,316
+6538,Katherine Harris,United States,Female,1,1,1,95
+6536,Kathie Lee Gifford,United States,Female,4,14,27,228
+6529,Kathleen Babineaux Blanco,United States,Female,1,1,1,349
+6526,Kathleen Battle,United States,Female,4,14,27,226
+6534,Kathleen Chalfant,United States,Female,4,4,19,14
+6544,Kathleen Hall Jamieson,United States,Female,1,1,1,1
+6565,Kathleen Kennedy Townsend,United States,Female,1,1,1,185
+6563,Kathleen M Sullivan,United States,Female,7,25,53,232
+6560,Kathleen Sebelius,United States,Female,1,1,1,136
+6539,Kathryn Harrison,United States,Female,2,2,2,79
+6532,Kathy Boudin,United States,Female,8,18,39,139
+6535,Katie Couric,United States,Female,2,2,76,7
+6537,Katie Hafner,United States,Female,2,2,76,1
+6557,Katie Roiphe,United States,Female,2,2,2,195
+6547,Katrina Leung,United States,Female,6,15,38,1
+6570,Kay Bailey Hutchison,United States,Female,1,1,1,203
+6574,Kazuo Matsui,Japan,Male,3,21,32,296
+6578,Keith Hernandez,United States,Male,3,21,32,293
+6582,Keith Lockhart,United States,Male,4,14,70,311
+6585,Keith Olbermann,United States,Male,2,2,76,27
+6586,Keith Reddin,United States,Male,2,2,2,189
+6588,Keith van Horn,United States,Male,3,21,61,296
+6596,Kelefa Sanneh,United States,Male,2,2,79,1
+6597,Kemal Ataturk,Turkey,Male,1,1,1,1
+6602,Ken Burns,United States,Male,4,4,4,210
+6605,Ken Daneyko,Canada,Male,3,21,67,108
+6625,Ken Mehlman,United States,Male,1,1,1,233
+6631,Ken Salazar,United States,Male,1,1,1,61
+6611,Kendall Gill,United States,Male,3,21,61,146
+6618,Kenneth G Langone,United States,Male,7,17,21,259
+6617,Kenneth Kimes,United States,Male,6,15,38,205
+6619,Kenneth L Lay,United States,Male,7,17,21,105
+6623,Kenneth Lonergan,United States,Male,2,2,2,289
+6607,Kenneth R Feinberg,United States,Male,7,25,53,296
+6613,Kenneth T Jackson,United States,Male,2,24,46,1
+6633,Kenneth W Starr,United States,Male,7,25,53,202
+6622,Kenny Lofton,United States,Male,3,21,32,151
+6628,Kenny Perry,United States,Male,3,3,73,223
+6603,Kent Conrad,United States,Male,1,1,1,72
+6612,Kent Graham,United States,Male,3,21,88,306
+6626,Kent Nagano,United States,Male,4,14,70,326
+6624,Kenyon Martin,United States,Male,3,21,61,364
+6639,Kerry Collins,United States,Male,3,21,88,364
+6642,Kerry Kittles,United States,Male,3,21,61,163
+6654,Kevin Harvick,United States,Male,3,3,42,342
+6667,Keyshawn Johnson,United States,Male,3,21,88,204
+6673,Khaled Meshal,Palestine,Male,6,15,38,149
+6677,Khaleda Zia,Bangladesh,Female,1,1,1,227
+6675,Khalid Abdul Muhammad,United States,Male,6,20,31,12
+6672,Khalid Khannouchi,United States,Male,3,3,42,255
+6674,Khalid Shaikh Mohammed,Pakistan,Male,6,15,38,104
+6682,Kiichi Miyazawa,Japan,Male,1,1,1,281
+6683,Kiki Smith,United States,Female,4,8,24,18
+6684,Kim Dae Jung ,South Korea,Male,1,1,1,337
+6686,Kim Jong Il ,North Korea,Male,1,1,1,47
+6685,Kim Young Sam ,South Korea,Male,1,1,1,354
+6712,Kinky Friedman,United States,Male,2,2,2,306
+6726,Kirby Puckett,United States,Male,3,21,32,74
+6718,Kirk Fordice,United States,Male,1,1,1,41
+6724,Kirk Kerkorian,United States,Male,7,17,21,157
+6727,Kirk Varnedoe,United States,Male,2,24,46,18
+6719,Kirsten E Gillibrand,United States,Female,1,1,1,343
+6730,Kitty Carlisle Hart,United States,Female,4,4,19,246
+6731,Kitty Kelley,United States,Female,2,2,76,94
+6773,Kordell Stewart,United States,Male,3,21,88,290
+6774,Korey Stringer,United States,Male,3,21,88,128
+6780,Kristin Chenoweth,United States,Female,4,4,19,206
+6790,Krystian Zimerman,Poland,Male,4,14,30,340
+6797,Kurt Busch,United States,Male,3,3,42,216
+6799,Kurt Eichenwald,United States,Male,2,2,76,179
+6803,Kurt Masur,Germany,Male,4,14,70,199
+6811,Kurt Warner,United States,Male,3,21,88,173
+6815,Kwame M Kilpatrick,United States,Male,1,1,1,157
+6817,Kweisi Mfume,United States,Male,1,1,1,298
+6821,L Dennis Kozlowski,United States,Male,7,17,21,320
+6823,L Jay Oliva,United States,Male,#N/A,#N/A,0,266
+6826,L Paul III Bremer,United States,Male,1,1,1,273
+6830,Lachlan Murdoch,Australia,Male,7,17,21,251
+6831,Laci Peterson,United States,Female,6,15,38,124
+6838,Lakhdar Brahimi,Algeria,Male,1,1,59,1
+6841,Lamar Alexander,United States,Male,1,1,1,185
+6828,LaMont Jordan,United States,Male,3,21,88,315
+6853,Lanford Wilson,United States,Male,2,2,2,103
+6848,Lani Guinier,United States,Female,7,25,53,109
+6846,Lanny J Davis,United States,Male,7,25,53,346
+6873,Lar Lubovitch,United States,Male,4,27,72,99
+6882,Larry A Silverstein,United States,Male,7,17,21,150
+6861,Larry Doby,United States,Male,3,21,32,347
+6859,Larry E Craig,United States,Male,1,1,1,201
+6866,Larry Gelbart,United States,Male,2,2,2,56
+6871,Larry Kramer,United States,Male,6,20,31,176
+6874,Larry McMurtry,United States,Male,2,2,2,155
+6877,Larry Pressler,United States,Male,1,1,1,88
+6879,Larry Robinson,Canada,Male,3,21,67,153
+6880,Larry Rohter,United States,Male,2,2,76,34
+6886,Lars von Trier,Danish,Male,4,4,4,121
+6889,Lasse Hallstrom,Sweden,Male,4,4,4,153
+6895,Latrell Sprewell,United States,Male,3,21,61,251
+6906,Lauch Faircloth,United States,Male,1,1,1,14
+6903,Laura Davies,United Kingdom,Female,3,3,73,278
+6916,Laura Miller,United States,Female,1,1,1,322
+6924,Laura Schlessinger,United States,Female,23,6,63,16
+6922,Laurance S Rockefeller,United States,Male,7,17,21,146
+6902,Laurel Salton Clark,United States,Female,8,18,39,69
+6926,Lauren Slater,United States,Female,2,2,2,80
+6928,Laurence A Tisch,United States,Male,7,17,21,64
+6925,Laurence H Silberman,United States,Male,1,1,54,285
+6929,Laurence H Tribe,United States,Male,7,25,53,283
+6917,Laurent Nkunda,Congo,Male,1,22,35,33
+6896,Laurie Anderson,United States,Female,4,14,16,156
+6931,Laveranues Coles,United States,Male,3,21,88,363
+6937,Lawrence A Bossidy,United States,Male,7,17,21,64
+6946,Lawrence B Lindsey,United States,Male,5,16,20,199
+6936,Lawrence Block,United States,Male,2,2,2,175
+6942,Lawrence Frank,United States,Male,3,21,40,235
+6948,Lawrence H Summers,United States,Male,5,16,20,334
+6941,Lawrence J Ellison,United States,Male,7,17,21,230
+6947,Lawrence Phillips,United States,Male,3,21,88,132
+6940,Lawrence S Eagleburger,United States,Male,1,1,1,213
+6949,Lawrence Taylor,United States,Male,3,21,88,35
+6950,Lawrence van Gelder,United States,Male,2,2,79,1
+6938,Lawton Chiles,United States,Male,1,1,1,93
+6958,Le Corbusier ,Switzerland,Male,4,10,11,279
+6963,Leah Rabin,Israel,Female,6,26,60,99
+6978,Lee A Iacocca,United States,Male,7,17,21,289
+6969,Lee Blessing,United States,Male,2,2,2,277
+6970,Lee C Bollinger,United States,Male,#N/A,#N/A,0,120
+6972,Lee Child,United Kingdom,Male,2,2,2,302
+6976,Lee H Hamilton,United States,Male,1,1,1,110
+6979,Lee Janzen,United States,Male,3,3,73,241
+6982,Lee Krasner,United States,Female,4,8,23,301
+6981,Lee Kuan Yew ,Singapore,Male,1,1,1,259
+6968,Lee Myung-bak ,South Korea,Male,1,1,1,353
+6971,Lee P Brown,United States,Male,1,1,1,277
+6967,Lee Teng-Hui ,Taiwan,Male,1,1,1,15
+6990,Leif Ove Andsnes,Norway,Male,4,14,30,97
+6998,Lena Horne,United States,Female,4,14,27,181
+6996,Lenny Bruce,United States,Male,4,4,83,286
+7006,Lenny Wilkens,United States,Male,3,21,40,301
+7020,Leo Castelli,United States,Male,4,8,9,247
+7015,Leon Botstein,United States,Male,#N/A,#N/A,0,348
+7038,Leon Hess,United States,Male,7,17,21,72
+7044,Leon Klinghoffer,United States,Male,6,15,38,268
+7049,Leon Levy,United States,Male,7,17,21,256
+7043,Leon R Kass,United States,Male,5,11,13,43
+7068,Leon Wieseltier,United States,Male,2,2,79,166
+7037,Leona Helmsley,United States,Female,7,17,21,186
+7060,Leonard B Sand,United States,Male,1,1,54,1
+7035,Leonard Garment,United States,Male,7,25,53,132
+7058,Leonard Riggio,United States,Male,7,17,21,59
+7062,Leonard Slatkin,United States,Male,4,14,70,245
+7018,Leonie M Brinkema,United States,Female,1,1,54,178
+7056,Leontyne Price,United States,Female,4,14,27,41
+7077,Leslie Crocker Snyder,United States,Female,1,1,54,1
+7073,Leslie Moonves,United States,Male,7,17,21,279
+7079,Leslie Uggams,United States,Female,4,4,19,145
+7078,Lester C Thurow,United States,Male,5,16,20,1
+7072,Leszek Miller,Poland,Male,1,1,1,184
+7081,Letitia Baldrige,United States,Female,2,2,2,40
+7082,Letty Cottin Pogrebin,United States,Female,2,2,2,160
+7095,Lewis A Kaplan,United States,Male,1,1,54,358
+7100,Li Ka-Shing ,Honk Kong,Male,7,17,21,211
+7102,Li Peng ,China,Male,1,1,1,294
+7110,Liamine Zeroual,Algeria,Male,1,1,1,184
+7111,Libby Pataki,United States,Female,1,1,1,321
+7116,Lil Wayne ,United States,Male,4,14,30,270
+7121,Lillian Hellman,United States,Female,2,2,2,171
+7123,Lillian Roberts,United States,Female,6,20,31,2
+7132,Lincoln Chafee,United States,Male,1,1,1,85
+7131,Linda Chavez,United States,Female,1,1,1,168
+7136,Linda Fairstein,United States,Female,2,2,2,125
+7138,Linda Greenhouse,United States,Female,2,2,76,9
+7140,Linda Lavin,United States,Female,4,4,19,288
+7148,Linda R Tripp,United States,Female,1,1,1,328
+7146,Linda Ronstadt,United States,Female,4,14,27,196
+7137,Lindsey Graham,United States,Male,1,1,1,190
+7133,Linford Christie,United Kingdom,Male,3,3,42,93
+7152,Lionel Hampton,United States,Male,4,14,30,111
+7156,Lionel Tate,United States,Male,#N/A,#N/A,0,30
+7160,Lisa Leslie,United States,Female,3,21,61,189
+7163,Lisa Marie Nowak,United States,Female,8,18,39,130
+7165,Lisa Raymond,United States,Female,3,3,3,222
+7171,Livan Hernandez,Cuba,Male,3,21,32,51
+7177,Lloyd C Blankfein,United States,Male,7,17,21,263
+7178,Lloyd N Cutler,United States,Male,7,25,53,1
+7193,Loretta A Preska,United States,Female,1,1,54,7
+7194,Loretta Sanchez,United States,Female,1,1,1,7
+7186,Lori Helene Berenson,United States,Female,1,1,1,317
+7188,Lorin Maazel,United States,Male,4,14,70,65
+7190,Lorne Michaels,Canada,Male,6,23,41,322
+7187,Lorraine Bracco,United States,Female,4,4,19,275
+7191,Lorrie Moore,United States,Female,2,2,2,13
+7217,Lou Dobbs,United States,Male,2,2,76,267
+7224,Lou Gehrig,United States,Male,3,21,32,170
+7225,Lou Holtz,United States,Male,3,21,88,6
+7228,Lou Lamoriello,United States,Male,3,21,67,294
+7235,Lou Piniella,United States,Male,3,21,32,240
+7240,Lou Savarese,United States,Male,3,3,49,195
+7203,Louis Armstrong,United States,Male,4,14,30,185
+7206,Louis Begley,United States,Male,2,2,2,279
+7245,Louis Comfort Tiffany,United States,Male,4,10,47,49
+7219,Louis Farrakhan,United States,Male,12,1,14,131
+7221,Louis J Freeh,United States,Male,7,25,53,6
+7230,Louis Malle,France,Male,4,4,4,304
+7232,Louis Menand,United States,Male,2,2,2,21
+7246,Louis Uchitelle,United States,Male,2,2,76,81
+7202,Louise Arbour,Canada,Female,7,25,53,41
+7218,Louise Erdrich,United States,Female,2,2,2,158
+7241,Louise M Slaughter,United States,Female,1,1,1,226
+7249,Louise Woodward,United Kingdom,Female,7,25,53,59
+7281,Luc Sante,United States,Male,2,2,2,145
+7260,Lucien Bouchard,Canada,Male,1,1,1,356
+7273,Lucille Lortel,United States,Female,4,4,19,350
+7285,Lucinda Williams,United States,Female,4,14,30,26
+7269,Lucio Gutierrez,Ecuador,Male,1,1,1,82
+7310,Luis Donaldo Colosio,Mexico,Male,1,1,1,41
+7314,Luis Echeverria,Mexico,Male,1,1,1,17
+7325,Luis Posada Carriles,Cuba,Male,1,1,1,46
+7329,Luis Sojo,Venezuela,Male,3,21,32,3
+7311,Luiz Inacio Lula Da Silva,Brazil,Male,1,1,1,300
+7333,Lukas Foss,United States,Male,4,14,30,227
+7338,Lydia Polgreen,United States,Female,2,2,76,1
+7339,Lyle Lovett,United States,Male,4,14,30,305
+7340,Lyle Menendez,United States,Male,#N/A,#N/A,0,10
+7341,Lynn Ahrens,United States,Female,4,4,19,275
+7347,Lynn Sherr,United States,Female,2,2,76,63
+7343,Lynndie R England,United States,Female,1,22,35,312
+7348,Lynne F Stewart,United States,Female,7,25,53,281
+7342,Lynne V Cheney,United States,Female,1,1,1,226
+7354,M Jodi Rell,United States,Female,1,1,1,167
+7357,Ma Ying-jeou ,Taiwan,Male,1,1,1,194
+7378,Magnus Norman,Sweden,Male,3,3,3,151
+7384,Maher Arar,Canada,Male,6,20,31,1
+7382,Mahmoud Abdul-Rauf,United States,Male,3,21,61,68
+7398,Major R Owens,United States,Male,1,1,1,180
+7404,Malcolm Forbes,United States,Male,7,17,21,231
+7406,Malcolm Glazer,United States,Male,7,17,21,228
+7405,Malcolm S Jr Forbes,United States,Male,7,17,21,199
+7402,Malcolm X ,United States,Male,6,20,31,139
+7409,MaliVai Washington,United States,Male,3,3,3,171
+7415,Mamdouh Mahmud Salim,Sudan,Male,6,15,38,1
+7435,Mandy Patinkin,United States,Male,4,4,19,335
+7438,Manny Ramirez,United States,Male,3,21,32,151
+7423,Manohla Dargis,United States,Female,2,2,79,1
+7420,Manolo Blahnik,Spain,Male,4,10,47,331
+7445,Mao Zedong ,China,Male,1,1,1,360
+7536,Marc Dutroux,Belgium,Male,6,15,38,311
+7586,Marc Jacobs,United States,Male,4,10,81,99
+7677,Marc Racicot,United States,Male,1,1,1,206
+7683,Marc Rich,United States,Male,7,17,21,352
+7459,Marcia Angell,United States,Female,2,2,76,110
+7503,Marcus Camby,United States,Male,3,21,61,81
+7696,Marcus Samuelsson,Ethiopia,Male,6,23,85,25
+7575,Margaret A Hamburg,United States,Female,5,11,13,193
+7748,Margaret C Whitman,United States,Female,7,17,21,217
+7516,Margaret Cho,United States,Female,4,4,83,340
+7721,Margaret Spellings,United States,Female,1,1,1,334
+7746,Margaret Whiting,United States,Female,4,14,27,204
+7690,Marge Roukema,United States,Female,1,1,1,262
+7700,Marge Schott,United States,Female,7,17,21,231
+7590,Margo Jefferson,United States,Female,2,2,79,290
+7463,Maria Aspan,United States,Female,2,2,76,1
+7505,Maria Cantwell,United States,Female,1,1,1,286
+7714,Maria Shriver,United States,Female,2,2,76,310
+7507,Mariah Carey,United States,Female,4,14,27,86
+7635,Marian Mcpartland,United Kingdom,Female,4,14,30,79
+7707,Marian Seldes,United States,Female,4,4,19,236
+7539,Marian Wright Edelman,United States,Female,6,20,31,157
+7542,Marianne Faithfull,United Kingdom,Female,4,14,27,363
+7685,Mariano Rivera,Panama,Male,3,21,32,333
+7606,Marie Reine Le Gougne,France,Female,3,3,66,1
+7663,Marilyn Hall Patel,United States,Female,1,1,54,1
+7583,Marilyn Horne,United States,Female,4,14,27,16
+7454,Marin Alsop,United States,Female,4,14,70,290
+7476,Mario Batali,United States,Male,6,23,85,263
+7518,Mario Cipollini,Italy,Male,3,3,82,81
+7609,Mario Lemieux,Canada,Male,3,21,67,278
+7525,Mario M Cuomo,United States,Male,1,1,1,167
+7471,Marion S Jr Barry,United States,Male,1,1,1,66
+7587,Mariss Jansons,Latvia,Male,4,14,70,14
+7547,Mark A Foley,United States,Male,1,1,1,251
+7628,Mark B McClellan,United States,Male,5,11,13,177
+7481,Mark Bittman,United States,Male,2,2,2,1
+7493,Mark Brunell,United States,Male,3,21,88,260
+7497,Mark Burnett,United Kingdom,Male,6,23,41,199
+7501,Mark Calcavecchia,United States,Male,3,3,73,164
+7643,Mark Crispin Miller,United States,Male,2,2,2,310
+7524,Mark Cuban,United States,Male,7,17,21,212
+7553,Mark Fuhrman,United States,Male,#N/A,#N/A,0,36
+7558,Mark Gastineau,United States,Male,3,21,88,325
+7570,Mark Green,United States,Male,1,1,1,74
+7601,Mark Lamos,United States,Male,4,4,19,69
+7604,Mark Landler,United States,Male,2,2,76,299
+7632,Mark McGwire,United States,Male,3,21,32,274
+7641,Mark Messier,Canada,Male,3,21,67,18
+7664,Mark Penn,United States,Male,1,1,1,15
+7669,Mark Philippoussis,Australia,Male,3,3,3,312
+7741,Mark R Warner,United States,Male,1,1,1,349
+7698,Mark Sanchez,United States,Male,3,21,88,315
+7697,Mark Sanford,United States,Male,1,1,1,149
+7728,Mark Teixeira,United States,Male,3,21,32,102
+7541,Mark W Everson,United States,Male,1,1,1,253
+7752,Mark Woodforde,Australia,Male,3,3,3,266
+7543,Marshall Faulk,United States,Male,3,21,88,57
+7496,Martha Burk,United States,Female,6,20,31,291
+7655,Martha C Nussbaum,United States,Female,2,5,5,126
+7571,Martha Grimes,United States,Female,2,2,2,122
+7723,Martha Stewart,United States,Female,7,17,21,215
+7492,Martin Brodeur,Canada,Male,3,21,67,127
+7552,Martin Frost,United States,Male,1,1,1,1
+7557,Martin Garbus,United States,Male,7,25,53,1
+7579,Martin Heidegger,Germany,Male,2,5,5,269
+7620,Martin Margiela,Belgium,Male,4,10,81,99
+7630,Martin McDonagh,Ireland,Male,2,2,2,85
+7631,Martin McGuinness,Ireland,Male,1,1,1,143
+7675,Martin Puryear,United States,Male,4,8,24,143
+7713,Martin Short,Canada,Male,4,4,19,85
+7720,Martin Sorrell,United Kingdom,Male,7,17,21,45
+7638,Martin T Meehan,United States,Male,1,1,1,365
+7726,Martin Tankleff,United States,Male,7,25,53,241
+7563,Marty Glickman,United States,Male,3,3,42,226
+7619,Marty Markowitz,United States,Male,1,1,1,45
+7634,Marty McSorley,Canada,Male,3,21,67,138
+7701,Marty Schottenheimer,United States,Male,3,21,40,266
+7451,Marv Albert,United States,Male,3,3,42,163
+7528,Marvin Davis,United States,Male,7,17,21,240
+7573,Marvin Hamlisch,United States,Male,4,14,16,154
+7642,Marvin Miller,United States,Male,3,3,42,104
+7472,Marwan Barghouti,Palestine,Male,1,1,1,157
+7562,Mary Ann Glendon,United States,Female,7,25,53,280
+7504,Mary Cantwell,United States,Female,2,2,76,1
+7718,Mary Decker Slaney,United States,Female,3,3,42,216
+7520,Mary Ellen Clark,United States,Female,3,3,45,359
+7479,Mary Frances Berry,United States,Female,6,20,31,48
+7519,Mary Higgins Clark,United States,Female,2,2,2,358
+7623,Mary Matalin,United States,Female,1,1,1,231
+7650,Mary Tyler Moore,United States,Female,4,4,19,364
+7755,Mary Zimmerman,United States,Female,4,4,4,236
+7747,Marylou Whitney,United States,Female,3,3,42,358
+7662,Mary-Louise Parker,United States,Female,4,4,19,215
+7763,Masaru Hayami,Japan,Male,7,17,21,83
+7772,Masato Yoshii,Japan,Male,3,21,32,110
+7775,Matt Bai,United States,Male,2,2,76,253
+7786,Matt Drudge,United States,Male,2,2,76,300
+7795,Matt Kenseth,United States,Male,3,3,58,70
+7800,Matt Leinart,United States,Male,3,21,88,131
+7810,Matt Richtel,United States,Male,2,2,76,275
+7776,Matthew Barney,United States,Male,4,8,9,84
+7779,Matthew Bourne,United Kingdom,Male,4,27,72,13
+7798,Matthew Klam,United States,Male,2,2,2,1
+7814,Matthew Shepard,United States,Male,6,20,31,336
+7820,Matthew Warchus,United Kingdom,Male,4,4,4,297
+7827,Maureen Dowd,United States,Female,2,2,76,14
+7826,Maurice Clarett,United States,Male,3,21,88,302
+7835,Maurice D Hinchey,United States,Male,1,1,1,300
+7842,Maurice Papon,France,Male,1,1,1,246
+7833,Maurice R Greenberg,United States,Male,7,17,21,124
+7843,Maurizio Pollini,Italy,Male,4,14,30,5
+7851,Max Baucus,United States,Male,1,1,1,345
+7853,Max Boot,United States,Male,2,2,76,255
+7857,Max Cleland,United States,Male,1,1,1,236
+7861,Max Frankel,United States,Male,2,2,76,1
+7876,Max Roach,United States,Male,4,14,30,10
+7885,Maxine Waters,United States,Female,1,1,1,227
+7891,Maya Lin,United States,Female,4,10,11,278
+7894,Medgar Evers,United States,Male,6,20,31,183
+7897,Megan Kanka,United States,Female,7,25,53,341
+7895,Meghan Daum,United States,Female,2,2,2,1
+7908,Meir Kahane,United States,Male,1,1,1,214
+7913,Mel Carnahan,United States,Male,1,1,1,42
+7920,Mel Karmazin,United States,Male,7,17,21,236
+7925,Mel Stottlemyre,United States,Male,3,21,40,317
+7916,Melissa Errico,United States,Female,4,4,19,82
+7911,Melky Cabrera,Dominican Republic,Male,3,21,32,224
+7926,Melvyn I Weiss,United States,Male,7,25,53,213
+7930,Menachem Mendel Schneerson,Ukraine,Male,1,12,14,95
+7932,Merce Cunningham,United States,Male,4,27,72,106
+7936,Meredith Monk,United States,Female,4,14,16,324
+7942,Meredith Vieira,United States,Female,2,2,76,364
+7934,Meriwether Lewis,United States,Male,8,18,22,230
+7937,Merlene Ottey,Jamaica,Female,3,3,42,131
+7933,Merv Griffin,United States,Male,6,23,63,187
+8053,Michael A Newdow,United States,Male,7,25,53,175
+7953,Michael Apted,United Kingdom,Male,4,4,4,41
+7954,Michael Arad,United States,Male,4,10,11,1
+8051,Michael B Mukasey,United States,Male,7,25,53,209
+8055,Michael B Nifong,United States,Male,7,25,53,257
+7979,Michael Chabon,United States,Male,2,2,2,144
+7982,Michael Chertoff,United States,Male,7,25,53,332
+7986,Michael Connelly,United States,Male,2,2,2,203
+7988,Michael Cunningham,United States,Male,2,2,2,311
+7975,Michael D Capellas,United States,Male,7,17,21,231
+7997,Michael D Eisner,United States,Male,7,17,21,66
+7991,Michael E DeBakey,United States,Male,5,11,13,251
+8003,Michael Feinstein,United States,Male,4,14,27,251
+8008,Michael Frayn,United Kingdom,Male,2,2,2,251
+8052,Michael G Mullen,United States,Male,1,22,35,277
+8061,Michael G Oxley,United States,Male,1,1,1,42
+8011,Michael Graves,United States,Male,4,10,11,190
+8012,Michael Greif,United States,Male,4,4,4,1
+8093,Michael H Steinhardt,United States,Male,7,17,21,342
+8020,Michael Irvin,United States,Male,3,21,88,64
+7965,Michael J Bragman,United States,Male,1,1,1,224
+8036,Michael John LaChiusa,United States,Male,4,14,16,205
+8031,Michael Kinsley,United States,Male,2,2,76,68
+8032,Michael Korda,United Kingdom,Male,2,2,2,281
+8033,Michael Kors,United States,Male,4,10,81,221
+8040,Michael Lind,United States,Male,2,2,76,113
+8045,Michael Mandelbaum,United States,Male,1,1,1,1
+8050,Michael Moorer,United States,Male,3,3,49,316
+7977,Michael N Castle,United States,Male,1,1,1,183
+8056,Michael Novak,United States,Male,5,2,5,252
+8039,Michael O Leavitt,United States,Male,1,1,1,42
+8059,Michael Ovitz,United States,Male,7,17,21,348
+7951,Michael P Anderson,United States,Male,8,18,39,359
+8005,Michael P Forbes,United States,Male,1,1,1,198
+8063,Michael Peca,Canada,Male,3,21,67,85
+8068,Michael Pollan,United States,Male,2,2,76,37
+7961,Michael R Beschloss,United States,Male,2,24,46,334
+8046,Michael R Milken,United States,Male,7,17,21,185
+8071,Michael Ratner,United States,Male,7,25,53,1
+7995,Michael S Dukakis,United States,Male,1,1,1,307
+8083,Michael Schiavo,United States,Male,7,25,53,337
+8082,Michael Schwerner,United States,Male,6,20,31,310
+8092,Michael Specter,United States,Male,2,2,76,1
+8096,Michael Strahan,United States,Male,6,23,63,325
+8099,Michael Tilson Thomas,United States,Male,4,14,70,356
+8103,Michael Vick,United States,Male,3,21,88,178
+8105,Michael Weller,United States,Male,2,2,2,1
+8108,Michael Wines,United States,Male,2,2,76,154
+8109,Michael Winterbottom,United Kingdom,Male,4,4,4,88
+7974,Michel Camdessus,France,Male,5,16,20,121
+8035,Michelle Kwan,United States,Female,3,3,66,189
+8089,Michelle Slatalla,United States,Female,2,2,76,1
+8106,Michelle Wie,United States,Female,3,3,73,284
+8028,Michiko Kakutani,United States,Female,2,2,79,9
+8029,Mickey Kantor,United States,Male,7,25,53,219
+8043,Mickey Mantle,United States,Male,3,21,32,293
+8116,Miguel Estrada,Honduras,Male,7,25,53,268
+8132,Mike Barnicle,United States,Male,2,2,76,286
+8136,Mike Cameron,United States,Male,3,21,32,8
+8139,Mike DeWine,United States,Male,1,1,1,5
+8141,Mike Ditka,United States,Male,3,21,40,291
+8144,Mike Espy,United States,Male,1,1,1,334
+8146,Mike Figgis,United Kingdom,Male,4,4,4,59
+8152,Mike Hampton,United States,Male,3,21,32,253
+8154,Mike Hargrove,United States,Male,3,21,32,299
+8156,Mike Holmgren,United States,Male,3,21,40,167
+8159,Mike Jarvis,United States,Male,3,21,40,102
+8160,Mike Johanns,United States,Male,1,1,1,169
+8165,Mike Krzyzewski,United States,Male,3,21,40,44
+8167,Mike Leigh,United Kingdom,Male,4,4,4,51
+8170,Mike Milbury,United States,Male,3,21,40,169
+8172,Mike Mussina,United States,Male,3,21,32,343
+8177,Mike Piazza,United States,Male,3,21,32,248
+8181,Mike Richter,United States,Male,3,21,67,265
+8184,Mike Shanahan,United States,Male,3,21,40,237
+8193,Mike Weir,Canada,Male,3,3,73,132
+8199,Milt Bearden,United States,Male,1,22,35,1
+8210,Milt Hinton,United States,Male,4,14,30,174
+8195,Milton Avery,United States,Male,4,8,23,66
+8196,Milton Babbitt,United States,Male,4,14,16,131
+8200,Milton Berle,United States,Male,4,4,83,194
+8222,Milton Pollack,United States,Male,1,1,54,1
+8240,Mira Nair,India,Female,4,4,4,288
+8232,Mirella Freni,Italy,Female,4,14,27,58
+8228,Miriam Goldman Cedarbaum,United States,Female,1,1,54,259
+8241,Mirta Ojito,Cuba,Female,2,2,76,1
+8251,Mitch McConnell,United States,Male,1,1,1,51
+8250,Mitchell E Jr Daniels,United States,Male,1,1,1,97
+8255,Mitsuko Uchida,Japan,Female,4,14,30,355
+8256,Miuccia Prada,Italy,Female,4,10,81,130
+8259,Mo Vaughn,United States,Male,3,21,32,349
+8261,Mobutu Sese Seko ,Congo,Male,1,1,1,287
+8270,Mohamed al- Fayed,Egypt,Male,7,17,21,27
+8280,Mohammed Saddiq Odeh,Palestine,Male,6,15,38,1
+8287,Mohammed Zahir Shah,Afghanistan,Male,1,1,65,288
+8271,Mohandas K Gandhi,India,Male,1,1,1,275
+8290,Moises Alou,Dominican Republic,Male,3,21,32,184
+8291,Moises Kaufman,Venezuela,Male,4,4,4,325
+8292,Moktada Al- Sadr,Iraq,Male,1,1,1,224
+8294,Molly Ivins,United States,Female,2,2,76,243
+8298,Monica Goodling,United States,Female,7,25,53,218
+8303,Mookie Wilson,United States,Male,3,21,32,40
+8318,Mortimer B Zuckerman,Canada,Male,7,17,21,155
+8308,Morton Feldman,United States,Male,4,14,16,12
+8324,Moses Pendleton,United States,Male,4,27,72,87
+8321,Moss Hart,United States,Male,2,2,2,298
+8328,Mousa Mohammed Abu Marzook,Palestine,Male,6,15,38,9
+8333,Muammar el- Qaddafi,Libya,Male,1,1,1,1
+8340,Muhammad Dahlan,Palestine,Male,1,1,1,1
+8341,Muhammad Fahim,Afghanistan,Male,1,22,35,1
+8345,Muhammad Omar,Afghanistan,Male,6,15,38,1
+8350,Mumia Abu-Jamal,United States,Male,2,2,76,114
+8363,Muriel Spark,United Kingdom,Female,2,2,2,32
+8356,Murray Chass,United States,Male,2,2,76,285
+8360,Murray Perahia,United States,Male,4,14,30,109
+8362,Murray Sabrin,United States,Male,5,16,20,355
+8374,Myles Brand,United States,Male,#N/A,#N/A,0,137
+8377,N Gregory Mankiw,United States,Male,5,16,20,34
+8383,Nadine Lockwood,United States,Female,2,2,2,1
+8385,Nadja Salerno-Sonnenberg,Italy,Female,4,14,30,10
+8398,Nan Robertson,United States,Female,2,2,76,192
+8393,Nancy Kerrigan,United States,Female,3,3,66,286
+8405,Naomi Wolf,United States,Female,2,2,2,316
+8406,Napoleon I ,France,Male,1,1,1,227
+8409,Narciso Rodriguez,United States,Male,4,10,81,27
+8412,Natalie Angier,United States,Female,2,2,76,47
+8415,Natalie Coughlin,United States,Female,3,3,45,235
+8428,Natan Sharansky,Israel,Male,1,1,1,20
+8430,Nathalie Tauziat,France,Female,3,3,3,290
+8419,Nathan Glazer,United States,Male,5,16,62,56
+8440,Ned Lamont,United States,Male,1,1,1,3
+8441,Ned Rorem,United States,Male,4,14,16,296
+8442,Neeme Jarvi,Estonia,Male,4,14,30,158
+8444,Neil Bush,United States,Male,7,17,21,22
+8448,Neil Jordan,Ireland,Male,4,4,4,56
+8450,Neil L Rudenstine,United States,Male,#N/A,#N/A,0,21
+8449,Neil LaBute,United States,Male,4,4,4,78
+8451,Neil Simon,United States,Male,2,2,2,185
+8452,Neil Strauss,United States,Male,2,2,76,68
+8458,Nelson Peltz,United States,Male,7,17,21,175
+8482,Niall Ferguson,United Kingdom,Male,2,24,46,109
+8546,Nicholas A Spano,United States,Male,1,1,1,1
+8503,Nicholas Christopher,United States,Male,2,2,2,1
+8520,Nicholas D Kristof,United States,Male,2,2,76,117
+8536,Nicholas H Politan,United States,Male,7,25,53,1
+8515,Nicholas Hytner,United Kingdom,Male,4,4,4,128
+8484,"Nicholas II, Czar of Russia ",RUssia,Male,1,1,65,139
+8521,Nicholas Kulish,United States,Male,2,2,76,1
+8528,Nicholas Negroponte,United States,Male,7,17,21,335
+8544,Nicholas Scoppetta,United States,Male,#N/A,#N/A,0,1
+8522,Nicholas W Leeson,United Kingdom,Male,7,17,21,56
+8553,Nicholas Wade,United States,Male,2,2,76,137
+8492,Nicholson Baker,United States,Male,2,2,2,7
+8507,Nick Faldo,United Kingdom,Male,3,3,73,199
+8512,Nick Hornby,United Kingdom,Male,2,2,2,107
+8516,Nick Johnson,United States,Male,3,21,61,262
+8538,Nick Price,Zimbabwe,Male,3,3,73,28
+8554,Nick Zito,United States,Male,3,3,42,37
+8533,Nicolai Ouroussoff,United States,Male,2,2,79,276
+8519,Nicolas Kiefer,Germany,Male,3,3,3,186
+8545,Nicole Brown Simpson,United States,Female,#N/A,#N/A,0,139
+8573,Nikolaus Harnoncourt,Austria,Male,4,14,70,340
+8607,Nina Ananiashvili,Georgia,Female,4,27,72,87
+8613,Nita M Lowey,United States,Female,1,1,1,186
+8614,Nizar Hamdoon,Iraq,Male,1,1,59,139
+8618,Noach Dear,United States,Male,1,1,54,1
+8620,Nobuyuki Idei,Japan,Male,7,17,21,326
+8625,Nolan Richardson,United States,Male,3,21,40,361
+8626,Nolan Ryan,United States,Male,3,21,32,31
+8627,Nomar Garciaparra,United States,Male,3,21,32,204
+8631,Norm Coleman,United States,Male,1,1,1,229
+8636,Norma Holloway Johnson,United States,Female,1,1,54,210
+8635,Norman Hsu,United States,Male,6,15,38,1
+8639,Norman Lear,United States,Male,6,23,41,208
+8642,Norman Pearlstine,United States,Male,2,2,76,277
+8643,Norman Podhoretz,United States,Male,2,2,2,16
+8646,Norman Siegel,United States,Male,7,25,53,1
+8641,Norman Y Mineta,United States,Male,1,1,1,316
+8656,Nuri Kamal al- Maliki,Iraq,Male,1,1,1,171
+8661,Nydia M Velazquez,United States,Female,1,1,1,87
+8662,Nykesha Sales,United States,Female,3,21,61,131
+8675,Oksana Baiul,Ukraine,Female,3,3,66,320
+8677,Olafur Eliasson,Iceland,Male,4,8,9,1
+8687,Olga Borodina,RUssia,Female,4,14,27,210
+8703,Oliver L North,United States,Male,1,22,35,280
+8705,Oliver Platt,Canada,Male,4,4,19,12
+8707,Oliver Sacks,United Kingdom,Male,5,11,13,190
+8695,Olivia Goldsmith,United States,Female,2,2,2,1
+8690,Olivier Assayas,France,Male,4,4,4,25
+8717,Olympia Dukakis,United States,Female,4,4,19,171
+8719,Olympia J Snowe,United States,Female,1,1,1,52
+8720,Omar Abdel Rahman,Egypt,Male,6,15,38,123
+8721,Omar Hassan Al- Bashir,Sudan,Male,1,1,1,1
+8725,Omar Minaya,Dominican Republic,Male,7,17,21,314
+8732,Orel Hershiser,United States,Male,3,21,40,259
+8738,Orlando Patterson,Jamaica,Male,5,16,62,157
+8741,Orrin G Hatch,United States,Male,1,1,1,81
+8744,Orville Schell,United States,Male,2,2,76,141
+8745,Osama Bin Laden,Saudi Arabia,Male,6,15,38,69
+8752,Oscar B Goodman,United States,Male,1,1,1,207
+8751,Oscar De La Hoya,United States,Male,3,3,49,35
+8761,Oscar de la Renta,Dominican Republic,Male,4,10,81,203
+8768,Osmo Vanska,Finland,Male,4,14,30,59
+8769,Ossie Davis,United States,Male,4,4,19,352
+8791,Otto Schily,Germany,Male,1,1,1,202
+8798,Ousmane Zongo,Burkino Faso,Male,#N/A,#N/A,0,1
+8804,Ozzie Smith,United States,Male,3,21,32,360
+8805,P D James,United Kingdom,Female,2,2,2,216
+8807,P J Carlesimo,United States,Male,3,21,61,150
+8811,P V Narasimha Rao,India,Male,1,1,1,179
+8824,Padraig Harrington,Ireland,Male,3,3,73,243
+8829,Pamela Frank,United States,Female,4,14,30,171
+8830,Pamela Harriman,United Kingdom,Female,1,1,59,80
+8844,Parris N Glendening,United States,Male,1,1,1,162
+8852,Pascal Lamy,France,Male,1,1,1,98
+8861,Pat Choate,United States,Male,5,16,20,117
+8863,Pat Conroy,United States,Male,2,2,2,299
+8874,Pat Hurst,United States,Female,3,3,73,143
+8879,Pat LaFontaine,United States,Male,3,21,67,53
+8895,Pat Riley,United States,Male,3,21,40,79
+8897,Pat Roberts,United States,Male,1,1,1,111
+8896,Pat Robertson,United States,Male,1,12,14,81
+8903,Pat Summerall,United States,Male,3,21,88,130
+8906,Pat Tillman,United States,Male,3,21,88,311
+8867,Patricia C Dunn,United States,Female,7,17,21,86
+8864,Patricia Cornwell,United States,Female,2,2,2,161
+8866,Patricia Duff,United States,Female,1,1,1,102
+8899,Patricia F Russo,United States,Female,7,17,21,164
+8875,Patricia Ireland,United States,Female,6,20,31,292
+8898,Patricia Rowland,United States,Female,1,1,1,144
+8907,Patrick E Tyler,United States,Male,2,2,76,310
+8859,Patrick J Buchanan,United States,Male,2,2,76,306
+8871,Patrick J Fitzgerald,United States,Male,7,25,53,357
+8877,Patrick J Kennedy,United States,Male,1,1,1,195
+8880,Patrick J Leahy,United States,Male,1,1,1,91
+8883,Patrick McEnroe,United States,Male,3,21,40,182
+8868,Patrik Elias,Czechia,Male,3,21,67,104
+8894,Patsy Ramsey,United States,Female,#N/A,#N/A,0,364
+8881,Patti LuPone,United States,Female,4,4,19,111
+8888,Patty Murray,United States,Female,1,1,1,284
+9017,Paul A Volcker,United States,Male,5,16,20,248
+8915,Paul Azinger,United States,Male,3,3,73,6
+8916,Paul Begala,United States,Male,1,1,1,132
+8918,Paul Berman,United States,Male,2,2,2,1
+8923,Paul Cayard,United States,Male,3,3,42,139
+8925,Paul Cellucci,United States,Male,1,1,1,115
+8984,Paul E Patton,United States,Male,1,1,1,146
+9012,Paul E Tsongas,United States,Male,1,1,1,45
+8939,Paul Feiner,United States,Male,1,1,1,45
+8951,Paul Goldberger,United States,Male,2,2,79,338
+8954,Paul Hamm,United States,Male,3,3,78,267
+8964,Paul Kariya,Canada,Male,3,21,67,289
+8968,Paul Klebnikov,United States,Male,2,2,76,154
+8945,Paul L Friedman,United States,Male,7,25,53,51
+8978,Paul Mellon,United States,Male,7,17,21,162
+8969,Paul Oskar Kristeller,Germany,Male,2,24,46,142
+9002,Paul R Shanley,United States,Male,#N/A,#N/A,0,25
+8994,Paul Rudnick,United States,Male,2,2,2,363
+8998,Paul S Sarbanes,United States,Male,1,1,1,34
+8999,Paul Schrader,United States,Male,4,4,4,203
+9007,Paul Tergat,Kenya,Male,3,3,42,168
+9008,Paul Theroux,United States,Male,2,2,2,100
+9011,Paul Tracy,Canada,Male,3,3,58,352
+9020,Paul Wellstone,United States,Male,1,1,1,203
+8960,Paula Corbin Jones,United States,Female,7,25,53,260
+8986,Paula Radcliffe,United Kingdom,Female,3,3,42,351
+9016,Paula Vogel,United States,Female,2,2,2,320
+9024,Paula Zahn,United States,Female,2,2,76,55
+8961,Pauline Kael,United States,Female,2,2,79,170
+9026,Pavel Bure,RUssia,Male,3,21,67,90
+9025,Pavel P Borodin,RUssia,Male,1,1,1,298
+9031,Payne Stewart,United States,Male,3,3,73,30
+9040,Pedro J Rossello,Puerto Rico,Male,1,1,1,96
+9036,Pedro Jr Espada,United States,Male,1,1,1,293
+9038,Pedro Martinez,Dominican Republic,Male,3,21,32,298
+9044,Peggy Noonan,United States,Female,2,2,76,250
+9045,Peggy Orenstein,United States,Female,2,2,76,1
+9049,Penelope Fitzgerald,United Kingdom,Female,2,2,2,352
+9095,Pete Hamill,United States,Male,2,2,76,175
+9097,Pete Harnisch,United States,Male,3,21,32,266
+9129,Pete Rose,United States,Male,3,21,32,104
+9078,Pete V Domenici,United States,Male,1,1,1,128
+9153,Pete Wilson,United States,Male,1,1,1,235
+9057,Peter Ackroyd,United Kingdom,Male,2,2,2,278
+9059,Peter Arnett,United States,Male,2,2,76,317
+9060,Peter Bart,United States,Male,2,2,76,206
+9064,Peter Boal,United States,Male,4,27,72,1
+9065,Peter Bogdanovich,United States,Male,4,4,4,211
+9066,Peter Braunstein,United States,Male,6,15,38,26
+9067,Peter Brook,United Kingdom,Male,4,4,4,80
+9070,Peter Chernin,United States,Male,7,17,21,149
+9104,Peter D Kramer,United States,Male,5,16,34,296
+9080,Peter Eisenman,United States,Male,4,10,11,224
+9126,Peter G Peterson,United States,Male,7,17,21,156
+9151,Peter G Verniero,United States,Male,7,25,53,120
+9087,Peter Gatien,Canada,Male,7,17,21,221
+9088,Peter Gay,United States,Male,2,24,46,171
+9089,Peter Gelb,United States,Male,4,14,30,1
+9090,Peter Gotti,United States,Male,6,15,52,288
+9094,Peter Guber,United States,Male,7,17,21,60
+9147,Peter Ilyich Tchaikovsky,RUssia,Male,4,14,16,128
+9100,Peter Jennings,Canada,Male,2,2,76,210
+9107,Peter Laviolette,United States,Male,3,21,40,342
+9110,Peter Maas,United States,Male,2,2,2,178
+9114,Peter Martins,Danish,Male,4,27,72,300
+9115,Peter Matthiessen,United States,Male,2,2,2,142
+9116,Peter Max,Germany,Male,4,8,9,292
+9122,Peter Nichols,United Kingdom,Male,2,2,2,212
+9124,Peter Pace,United States,Male,1,22,35,309
+9127,Peter Piot,Belgium,Male,5,11,13,1
+9102,Peter S Kalikow,United States,Male,7,17,21,335
+9132,Peter Schickele,United States,Male,4,14,16,198
+9136,Peter Sellars,United States,Male,4,4,4,270
+9137,Peter Serkin,United States,Male,4,14,30,205
+9140,Peter Sis,Czechia,Male,2,2,2,131
+9142,Peter Steinfels,United States,Male,2,2,76,1
+9143,Peter Stone,United States,Male,2,2,2,58
+9103,Petr Korda,Czechia,Male,3,3,3,23
+9146,Petr Sykora,Czechia,Male,3,21,67,293
+9156,Peyton Manning,United States,Male,3,21,88,84
+9165,Phil Donahue,United States,Male,6,23,63,355
+9171,Phil Gramm,United States,Male,1,1,1,189
+9176,Phil Hughes,Australia,Male,3,21,75,173
+9177,Phil Jackson,United States,Male,3,21,40,260
+9189,Phil Mickelson,United States,Male,3,3,73,167
+9197,Phil Rizzuto,United States,Male,3,21,32,268
+9203,Phil Simms,United States,Male,3,21,88,307
+9205,Phil Spector,United States,Male,4,14,30,360
+9169,Philip A Giordano,United States,Male,1,1,1,84
+9159,Philip Bosco,United States,Male,4,4,19,269
+9160,Philip Caputo,United States,Male,2,2,2,161
+9172,Philip Guston,United States,Male,4,8,23,178
+9166,Philip H Dougherty,United States,Male,2,2,76,355
+9196,Philip J Purcell,United States,Male,7,17,21,1
+9163,Philip M Condit,United States,Male,7,17,21,214
+9209,Philippe de Montebello,France,Male,4,8,9,137
+9207,Philippe Starck,France,Male,4,10,47,18
+9186,Phillip Lopate,United States,Male,2,2,2,1
+9204,Phillippi Sparks,United States,Male,3,21,88,105
+9213,Picabo Street,United States,Female,3,3,84,93
+9212,Pico Iyer,United Kingdom,Male,2,2,2,42
+9224,Pierre Buyoya,Burundi,Male,1,1,1,328
+9231,Pierre Franey,France,Male,6,23,85,13
+9248,Pierre Salinger,United States,Male,2,2,76,165
+9214,Pierre-Laurent Aimard,France,Male,4,14,30,252
+9251,Pim Fortuyn,Netherlands,Male,1,1,1,50
+9254,Pinchas Zukerman,Israel,Male,4,14,70,198
+9261,Plaxico Burress,United States,Male,3,21,88,224
+9264,Pol Pot ,Cambodia,Male,1,1,1,139
+9309,Porter J Goss,United States,Male,1,1,1,330
+9320,Preston Sturges,United States,Male,4,4,4,241
+9324,Prince Naseem Hamed,United Kingdom,Male,3,3,49,43
+9336,Queen Latifah ,United States,Female,4,4,19,77
+9342,Quincy Carter,United States,Male,3,21,88,286
+9344,Qusay Hussein,Iraq,Male,6,15,38,137
+9353,Rachel Robinson,United States,Female,6,20,31,200
+9355,Rachel Whiteread,United Kingdom,Female,4,8,24,110
+9359,Rae Carruth,United States,Male,6,15,38,20
+9368,Raf Simons,Belgium,Male,4,10,81,12
+9370,Rafael Vinoly,Uruguay,Male,4,10,11,1
+9382,Ralph Branca,United States,Male,3,21,32,6
+9400,Ramiro Mendoza,Panama,Male,3,21,32,167
+9405,Ramzi Ahmed Yousef,Kuwait,Male,6,15,38,140
+9406,Ramzi bin al-Shibh,Yemen,Male,6,15,38,122
+9415,Randi Weingarten,United States,Female,6,20,31,352
+9407,Randy Cunningham,United States,Male,1,1,1,342
+9408,Randy Johnson,United States,Male,3,21,32,253
+9409,Randy L Levine,United States,Male,7,25,53,53
+9410,Randy Moss,United States,Male,3,21,88,44
+9412,Randy Newman,United States,Male,4,14,27,332
+9416,Ranil Wickremesinghe,Sri Lanka,Male,1,1,1,83
+9419,Raoul Wallenberg,Sweden,Male,1,1,59,216
+9431,Raul Julia,Puerto Rico,Male,4,4,19,69
+9433,Raul Mondesi,Dominican Republic,Male,1,1,1,71
+9434,Raul Salinas de Gortari,Mexico,Male,1,1,1,1
+9437,Ravi Shankar,India,Male,4,14,30,297
+9442,Ray Bourque,Canada,Male,3,21,67,363
+9454,Ray Lucas,United States,Male,3,21,88,219
+9455,Ray Mabus,United States,Male,1,1,1,285
+9457,Ray Mercer,United States,Male,3,3,49,94
+9441,Raymond Bonner,United States,Male,2,2,76,1
+9459,Raymond T Odierno,United States,Male,1,22,35,251
+9450,Raymond W Kelly,United States,Male,#N/A,#N/A,0,247
+9465,Rebecca Lobo,United States,Female,3,21,61,276
+9470,Red Grooms,United States,Male,4,8,23,158
+9471,Reed E Hundt,United States,Male,1,1,1,63
+9472,Reena Raggi,United States,Female,1,1,54,131
+9474,Reggie Jackson,United States,Male,3,21,32,138
+9479,Reggie White,United States,Male,3,21,88,353
+9475,Regina Jacobs,United States,Female,3,3,42,240
+9477,Regis Philbin,United States,Male,6,23,63,237
+9482,Rei Kawakubo,Japan,Female,4,10,81,284
+9487,Rembert G Weakland,United States,Male,1,12,14,92
+9493,Renee Fleming,United States,Female,4,14,30,45
+9507,Retief Goosen,South African,Male,3,3,73,34
+9510,Rex Ryan,United States,Male,3,21,40,347
+9512,Rey Ordonez,Cuba,Male,3,21,32,315
+9513,Reynolds Price,United States,Male,2,2,2,32
+9532,Ric Burns,United States,Male,4,4,4,1
+9592,Ricardo Mayorga,Nicaragua,Male,3,3,49,276
+9538,Riccardo Chailly,Italy,Male,4,14,70,51
+9598,Riccardo Muti,Italy,Male,4,14,70,209
+9577,Rich Kotite,United States,Male,3,21,40,286
+9536,Richard A Causey,United States,Male,7,17,21,9
+9539,Richard A Clarke,United States,Male,1,1,1,300
+9559,Richard A Gephardt,United States,Male,1,1,1,31
+9565,Richard A Grasso,United States,Male,7,17,21,207
+9609,Richard A Posner,United States,Male,7,25,53,11
+9521,Richard Avedon,United States,Male,4,8,71,135
+9599,Richard B Myers,United States,Male,1,22,35,60
+9524,Richard Bernstein,United States,Male,2,2,76,126
+9525,Richard Blumenthal,United States,Male,1,1,1,44
+9526,Richard Branson,United Kingdom,Male,7,17,21,199
+9529,Richard Brookhiser,United States,Male,2,2,76,54
+9527,Richard C Breeden,United States,Male,7,17,21,340
+9586,Richard C Levin,United States,Male,#N/A,#N/A,0,97
+9601,Richard C Notebaert,United States,Male,7,17,21,1
+9634,Richard C Shelby,United States,Male,1,1,1,126
+9583,Richard D Lamm,United States,Male,1,1,1,255
+9544,Richard Danielpour,United States,Male,4,14,16,28
+9547,Richard Diebenkorn,United States,Male,4,8,23,112
+9549,Richard Dooling,United States,Male,2,2,2,1
+9612,Richard E Rainwater,United States,Male,7,17,21,1
+9554,Richard Eyre,United Kingdom,Male,6,23,41,87
+9557,Richard Ford,United States,Male,2,2,2,47
+9588,Richard G Lugar,United States,Male,1,1,1,95
+9563,Richard Goode,United States,Male,4,14,30,152
+9566,Richard Greenberg,United States,Male,2,2,2,53
+9541,Richard J Codey,United States,Male,1,1,1,331
+9552,Richard J Durbin,United States,Male,1,1,1,326
+9617,Richard J Riordan,United States,Male,1,1,1,121
+9574,Richard Jefferson,United States,Male,3,21,61,173
+9528,Richard L Brodsky,United States,Male,7,25,53,322
+9631,Richard L Scott,United States,Male,1,1,1,336
+9587,Richard Li,Honk Kong,Male,7,17,21,312
+9632,Richard M Scrushy,United States,Male,7,17,21,1
+9564,Richard N Gottfried,United States,Male,1,1,1,136
+9567,Richard N Haass,United States,Male,1,1,1,209
+9603,Richard N Perle,United States,Male,1,1,1,259
+9637,Richard Norton Smith,United States,Male,2,24,46,1
+9591,Richard P Matsch,United States,Male,7,25,53,1
+9594,Richard P Mills,United States,Male,#N/A,#N/A,0,333
+9607,Richard Pipes,United States,Male,2,24,46,192
+9613,Richard Ravitch,United States,Male,1,1,1,188
+9614,Richard Rayner,United Kingdom,Male,2,2,76,1
+9615,Richard Rhodes,United States,Male,2,2,2,185
+9629,Richard Schickel,United States,Male,2,2,79,41
+9633,Richard Serra,United States,Male,4,8,24,306
+9641,Richard Stoltzman,United States,Male,4,14,30,193
+9643,Richard Taruskin,United States,Male,4,14,30,1
+9616,Richard W Riley,United States,Male,1,1,1,2
+9606,Richie Phillips,United States,Male,7,25,53,1
+9584,Rick A Lazio,United States,Male,1,1,1,72
+9573,Rick D Husband,United States,Male,3,21,33,193
+9548,Rick Dipietro,United States,Male,3,21,67,262
+9595,Rick Mirer,United States,Male,3,21,88,78
+9597,Rick Moody,United States,Male,2,2,2,291
+9608,Rick Pitino,United States,Male,3,21,40,262
+9647,Rick Warren,United States,Male,1,12,14,28
+9571,Rickey Henderson,United States,Male,3,21,32,359
+9585,Ricky Ledee,Puerto Rico,Male,3,21,32,326
+9626,Ricky Rudd,United States,Male,3,3,58,256
+9650,Ricky Williams,United States,Male,3,21,88,141
+9654,Riddick Bowe,United States,Male,3,3,49,222
+9664,Rip Torn,United States,Male,4,4,19,37
+9793,Rob Marshall,United States,Male,4,4,4,291
+9833,Rob Portman,United States,Male,1,1,1,353
+9838,Rob Reiner,United States,Male,4,4,19,65
+9707,Robert A Caro,United States,Male,2,2,2,303
+9722,Robert A Durst,United States,Male,#N/A,#N/A,0,1
+9760,Robert A Iger,United States,Male,7,17,21,41
+9860,Robert A M Stern,United States,Male,4,10,11,143
+9809,Robert A Mosbacher,United States,Male,1,1,1,70
+9680,Robert Abrams,United States,Male,1,1,1,185
+9858,Robert Allen Stanford,United States,Male,6,15,38,83
+9822,Robert B Parker,United States,Male,2,2,2,261
+9837,Robert B Reich,United States,Male,5,16,20,175
+9885,Robert B Zoellick,United States,Male,1,1,59,206
+9701,Robert Brustein,United States,Male,6,23,41,111
+9881,Robert C Wright,United States,Male,7,17,21,1
+9709,Robert Coles,United States,Male,5,11,13,285
+9711,Robert Coover,United States,Male,2,2,2,35
+9766,Robert D Kaplan,United States,Male,2,2,76,175
+9795,Robert D McFadden,United States,Male,2,2,76,1
+9714,Robert Dallek,United States,Male,2,24,46,136
+9716,Robert De Niro,United States,Male,4,4,19,229
+9682,Robert E Allen,United States,Male,7,17,21,1
+9685,Robert E Andrews,United States,Male,1,1,1,216
+9698,Robert E Brennan,United States,Male,7,17,21,1
+9845,Robert E Rubin,United States,Male,5,16,20,241
+9864,Robert G Torricelli,United States,Male,1,1,1,239
+9742,Robert Giroux,United States,Male,2,2,2,98
+9743,Robert Gober,United States,Male,4,8,24,255
+9746,Robert Gottlieb,United States,Male,2,2,2,119
+9751,Robert Guei,Ivory Coast,Male,1,1,1,75
+9694,Robert H Bork,United States,Male,7,25,53,60
+9735,Robert H Frank,United States,Male,5,16,20,2
+9724,Robert J Eaton,United States,Male,7,17,21,1
+9851,Robert J Shiller,United States,Male,5,16,20,88
+9861,Robert J Sternberg,United States,Male,5,16,34,342
+9787,Robert Jay Lifton,United States,Male,5,16,34,136
+9721,Robert K Dornan,United States,Male,1,1,1,93
+9777,Robert K Kraft,United States,Male,7,17,21,156
+9765,Robert Kagan,United States,Male,1,1,1,269
+9726,Robert L Jr Ehrlich,United States,Male,1,1,1,329
+9789,Robert L Livingston,United States,Male,1,1,1,120
+9815,Robert L Nardelli,United States,Male,7,17,21,138
+9869,Robert L Vesco,United States,Male,#N/A,#N/A,0,338
+9784,Robert Lepage,Canada,Male,4,4,4,346
+9788,Robert Lipsyte,United States,Male,2,2,76,16
+9807,Robert M Morgenthau,United States,Male,7,25,53,212
+9798,Robert Menendez,United States,Male,1,1,1,1
+9805,Robert Mondavi,United States,Male,7,17,21,169
+9808,Robert Moses,United States,Male,1,1,1,353
+9875,Robert N Wilentz,United States,Male,7,25,53,48
+9817,Robert Novak,United States,Male,2,2,76,57
+9828,Robert Pinsky,United States,Male,2,2,2,294
+9770,Robert R Kiley,United States,Male,#N/A,#N/A,0,259
+9691,Robert S Bennett,United States,Male,1,1,1,1
+9810,Robert S III Mueller,United States,Male,7,25,53,220
+9857,Robert Spano,United States,Male,4,14,70,127
+9830,Robert W Pittman,United States,Male,7,17,21,362
+9862,Robert W Sweet,United States,Male,7,25,53,288
+9884,Robert Zemeckis,United States,Male,4,4,4,135
+9681,Roberto Alagna,France,Male,4,14,27,158
+9683,Roberto Alomar,Puerto Rico,Male,3,21,32,36
+9745,Roberto C Goizueta,Cuba,Male,7,17,21,322
+9768,Roberto Kelly,Panama,Male,3,21,32,275
+9780,Roberto Lavagna,Argentina,Male,5,16,20,83
+9802,Roberto Micheletti,Honduras,Male,1,1,1,225
+9832,Robin Pogrebin,United States,Female,2,2,76,137
+9863,Robin Toner,United States,Female,2,2,76,142
+9868,Robin Ventura,United States,Male,3,21,32,195
+9705,Robinson Cano,Dominican Republic,Male,3,21,32,295
+9888,Rocco Landesman,United States,Male,4,4,4,201
+9890,Rocco Mediate,United States,Male,3,3,73,351
+9891,Rod R Blagojevich,United States,Male,1,1,1,345
+9905,Rod Thorn,United States,Male,7,17,21,143
+9897,Roderick R Paige,United States,Male,#N/A,#N/A,0,168
+9901,Rodney E Slater,United States,Male,1,1,1,54
+9893,Rodney Glen King,United States,Male,#N/A,#N/A,0,92
+9892,Rodney Hampton,United States,Male,3,21,88,93
+9907,Roger C Altman,United States,Male,7,17,21,92
+9909,Roger Cedeno,Venezuela,Male,3,21,32,228
+9911,Roger Clemens,United States,Male,3,21,32,216
+9912,Roger Cohen,United States,Male,2,2,76,214
+9906,Roger E Ailes,United States,Male,#N/A,#N/A,0,136
+9917,Roger Goodell,United States,Male,3,3,42,50
+9921,Roger M Mahony,United States,Male,1,12,14,58
+9922,Roger Maris,United States,Male,3,21,32,253
+9926,Roger Norrington,United Kingdom,Male,4,14,70,75
+9928,Roger Rees,Wales,Male,4,4,19,126
+9931,Roger Toussaint,United States,Male,6,20,31,1
+9936,Roh Moo Hyun ,South Korea,Male,1,1,1,244
+9941,Roland Dumas,France,Male,1,1,1,235
+9940,Roland W Burris,United States,Male,1,1,1,215
+9942,Rolf Ekeus,Sweden,Male,1,1,59,188
+9950,Romare Bearden,United States,Male,4,8,9,245
+9966,Ron Artest,United States,Male,3,21,61,317
+9968,Ron Chernow,United States,Male,2,24,46,62
+9970,Ron Dayne,United States,Male,3,21,88,73
+9979,Ron Low,Canada,Male,3,21,40,172
+9989,Ron Silver,United States,Male,4,4,19,183
+9991,Ron Suskind,United States,Male,2,2,76,324
+9996,Ron Wyden,United States,Male,1,1,1,123
+9976,Ronald L Kuby,United States,Male,7,25,53,213
+9983,Ronald O Perelman,United States,Male,7,17,21,1
+9985,Ronald Radosh,United States,Male,2,24,46,1
+9978,Ronald S Lauder,United States,Male,7,17,21,57
+9990,Ronald Steel,United States,Male,2,24,46,84
+9993,Rondell White,United States,Male,3,21,32,54
+9994,Ronell Wilson,United States,Male,6,15,38,124
+9980,Ronnie Musgrove,United States,Male,1,1,1,211
+9988,Rony Seikaly,Lebanon,Male,3,21,61,130
+9998,Roone Arledge,United States,Male,7,17,21,189
+10001,Rory Sabbatini,South African,Male,3,3,73,93
+10006,Rosemary Clooney,United States,Female,4,14,27,144
+10017,Rosie Perez,United States,Female,4,4,19,250
+10012,Roslynn R Mauskopf,United States,Female,7,25,53,38
+10016,Ross Perot,United States,Male,1,1,1,178
+10023,Rowan Williams,United Kingdom,Male,1,12,14,165
+10025,Roxana Robinson,United States,Female,2,2,2,334
+10026,Roy E Barnes,United States,Male,1,1,1,71
+10027,Roy E Disney,United States,Male,7,17,21,10
+10032,Roy Halladay,United States,Male,3,21,32,134
+10031,Roy M Goodman,United States,Male,1,1,1,64
+10040,Roy Rogers,United States,Male,4,14,27,309
+10041,Roy Romer,United States,Male,1,1,1,305
+10038,Roy S Moore,United States,Male,1,1,1,42
+10035,Royce C Lamberth,United States,Male,7,25,53,197
+10049,Ruben Sierra,Puerto Rico,Male,3,21,32,279
+10048,Ruben Sr Diaz,United States,Male,1,1,1,112
+10045,Rubin Carter,United States,Male,3,3,49,126
+10047,Ruby Dee,United States,Female,4,4,19,300
+10050,Rudolf Bing,Austria,Male,4,14,30,9
+10054,Rudolph F Crew,United States,Male,#N/A,#N/A,0,253
+10066,Rudy Tomjanovich,United States,Male,3,21,40,329
+10073,Ruhollah Khomeini,Iran,Male,1,1,1,267
+10077,Rulon Gardner,United States,Male,3,3,26,228
+10084,Russell Banks,United States,Male,2,2,2,88
+10086,Russell Coutts,New Zealand,Male,3,3,42,60
+10088,Russell D Feingold,United States,Male,1,1,1,61
+10096,Russell Simmons,United States,Male,7,17,21,277
+10089,Rusty Hardin,United States,Male,7,25,53,279
+10097,Rusty Wallace,United States,Male,3,3,58,227
+10108,Ruth Ann Swenson,United States,Female,4,14,27,237
+10100,Ruth Bader Ginsburg,United States,Female,7,25,53,74
+10103,Ruth Laredo,United States,Female,4,14,30,324
+10106,Ruth Reichl,United States,Female,2,2,79,16
+10107,Ruth Rendell,United Kingdom,Female,2,2,2,48
+10105,Ruth W Messinger,United States,Female,1,1,1,311
+10109,Ruth Wedgwood,United States,Female,7,25,53,1
+10110,Ruth Westheimer,United States,Female,5,16,34,156
+10116,Ryan C Crocker,United States,Male,1,1,59,170
+10119,Ryan Leaf,United States,Male,3,21,88,136
+10122,Ryan Newman,United States,Male,3,3,58,342
+10134,Saad Eddin Ibrahim,Egypt,Male,1,1,1,337
+10137,Sabrina Tavernise,United States,Female,2,2,76,55
+10143,Sadako Ogata,Japan,Female,1,1,59,259
+10145,Saeb Erekat,Palestine,Male,1,1,1,118
+10161,Salam Fayyad,Palestine,Male,1,1,1,93
+10164,Salim Ahmed Hamdan,Yemen,Male,7,25,53,1
+10166,Sally Hemings,United States,Female,2,24,46,1
+10171,Sally Mann,United States,Female,4,8,71,1
+10163,Salvatore Gravano,United States,Male,6,15,52,71
+10184,Sam Brownback,United States,Male,1,1,1,256
+10185,Sam Cassell,United States,Male,3,21,61,322
+10193,Sam Donaldson,United States,Male,2,2,76,70
+10196,Sam Gejdenson,United States,Male,1,1,1,80
+10216,Sam Nunn,United States,Male,1,1,1,251
+10225,Sam Rockwell,United States,Male,4,4,19,309
+10228,Sam Shepard,United States,Male,2,2,2,16
+10235,Sam Waterston,United States,Male,4,4,19,320
+10237,Sam Wyly,United States,Male,7,17,21,277
+10178,Samak Sundaravej ,Thailand,Male,1,1,1,164
+10220,Samantha Power,Ireland,Female,1,1,1,264
+10230,Sammy Sosa,Dominican Republic,Male,3,21,32,317
+10180,Samuel A Jr Alito,United States,Male,7,25,53,91
+10191,Samuel Dash,United States,Male,7,25,53,58
+10195,Samuel G Freedman,United States,Male,2,2,76,1
+10203,Samuel III Israel,United States,Male,#N/A,#N/A,0,201
+10209,Samuel J LeFrak,United States,Male,7,17,21,43
+10217,Samuel J Palmisano,United States,Male,7,17,21,210
+10187,Samuel Langhorne Clemens,United States,Male,2,2,2,334
+10183,Samuel R Berger,United States,Male,1,1,59,301
+10223,Samuel Ramey,United States,Male,4,14,27,87
+10233,Samuel Waksal,United States,Male,7,17,21,251
+10238,Samuel Zell,United States,Male,7,17,21,271
+10241,Sandra Bernhard,United States,Female,4,4,19,157
+10249,Sandra Feldman,United States,Female,6,20,31,286
+10251,Sandy Koufax,United States,Male,3,21,32,364
+10258,Sanford I Weill,United States,Male,7,17,21,75
+10254,Santana Moss,United States,Male,3,21,88,152
+10271,Sara Jane Olson,United States,Female,8,18,39,16
+10268,Sarah Hughes,United States,Female,3,3,66,122
+10277,Sarah Silverman,United States,Female,4,4,19,335
+10270,Sari Nusseibeh,Palestine,Male,1,1,1,1
+10287,Saul Hansell,United States,Male,2,2,76,103
+10291,Savion Glover,United States,Male,4,27,72,323
+10293,Saxby Chambliss,United States,Male,1,1,1,314
+10298,Scott Boras,United States,Male,7,17,21,307
+10300,Scott Brosius,United States,Male,3,21,32,227
+10302,Scott Harshbarger,United States,Male,7,25,53,335
+10303,Scott Hoch,United States,Male,3,3,73,328
+10305,Scott Layden,United States,Male,7,17,21,1
+10316,Scott M Stringer,United States,Male,1,1,1,120
+10306,Scott McClellan,United States,Male,1,1,1,45
+10307,Scott Niedermayer,Canada,Male,3,21,67,243
+10309,Scott Peterson,United States,Male,6,15,38,298
+10311,Scott Ritter,United States,Male,1,22,35,196
+10312,Scott Rudin,United States,Male,4,4,4,195
+10315,Scott Stevens,Canada,Male,3,21,67,92
+10317,Scott Turow,United States,Male,2,2,2,102
+10318,Scott Verplank,United States,Male,3,3,73,191
+10299,Scotty Bowman,Canada,Male,3,21,40,261
+10319,Se Ri Pak,South Korea,Female,3,3,73,271
+10322,Sean Avery,Canada,Male,3,21,67,101
+10333,Sean Payton,United States,Male,3,21,40,363
+10336,Sean Taylor,United States,Male,3,21,88,91
+10337,Sean Wilentz,United States,Male,2,24,46,51
+10344,Sebastian Junger,United States,Male,2,2,76,17
+10352,Sebastian Telfair,United States,Male,3,21,61,160
+10343,Sebastien Grosjean,France,Male,3,3,3,149
+10355,Seiji Ozawa,Japan,Male,4,14,70,244
+10402,Serge Schmemann,France,Male,2,2,76,102
+10406,Sergei V Stepashin,RUssia,Male,1,1,1,62
+10373,Sergi Bruguera,Spain,Male,3,3,3,16
+10383,Sergio Garcia,Spain,Male,3,3,73,9
+10409,Sergio Vieira de Mello,Brazil,Male,1,1,59,75
+10419,Sewell Chan,United States,Male,2,2,76,1
+10420,Seymour M Hersh,United States,Male,2,2,76,98
+10443,Shane Mosley,United States,Male,3,3,49,250
+10448,Shane Spencer,United States,Male,3,21,32,51
+10430,Shannon Briggs,United States,Male,3,3,49,338
+10438,Sharon Lafraniere,United States,Female,2,2,76,166
+10436,Sharpe James,United States,Male,1,1,1,51
+10451,Shashi Tharoor,India,Male,1,1,59,68
+10442,Shaul Mofaz,Israel,Male,1,1,1,309
+10433,Shaun Ellis,United Kingdom,Male,3,21,88,175
+10460,Sheldon Harnick,United States,Male,4,14,30,121
+10466,Sheldon Silver,United States,Male,1,1,1,44
+10454,Sherman Alexie,Native American,Male,2,2,2,280
+10467,Sherron S Watkins,United States,Female,7,17,21,240
+10462,Sherry Lansing,United States,Female,4,4,4,213
+10463,Sherwin B Nuland,United States,Male,5,11,13,342
+10478,Shigeki Maruyama,Japan,Male,3,3,73,255
+10471,Shigeru Ban,Japan,Male,4,10,11,217
+10482,Shira A Scheindlin,United States,Female,7,25,53,1
+10485,Shirley M Tilghman,United States,Female,#N/A,#N/A,0,260
+10490,Shoko Asahara,Japan,Male,8,18,39,61
+10493,Shug McGaughey,United States,Male,3,3,42,6
+10500,Sid Caesar,United States,Male,4,4,83,251
+10499,Sidney Blumenthal,United States,Male,1,1,1,311
+10528,Simon Doonan,United Kingdom,Male,4,10,81,1
+10538,Simon Rattle,United Kingdom,Male,4,14,70,19
+10542,Simon Schama,United Kingdom,Male,2,24,46,44
+10549,Simon Winchester,United Kingdom,Male,2,2,2,272
+10557,Sirio Maccioni,Italy,Male,6,23,85,1
+10564,Skitch Henderson,United States,Male,4,14,70,27
+10568,Slade Gorton,United States,Male,1,1,1,8
+10582,Sol LeWitt,United States,Male,4,8,24,253
+10584,Sol Wachtler,United States,Male,1,1,54,119
+10586,Sonny Bono,United States,Male,1,1,1,47
+10589,Sonny Perdue,United States,Male,1,1,1,354
+10606,Souad Mekhennet,Germany,Female,2,2,76,1
+10607,Spalding Gray,United States,Male,4,4,19,156
+10608,Spencer Abraham,United States,Male,1,1,1,164
+10620,Stacy Dragila,United States,Female,3,3,42,84
+10631,Stan Mack,United States,Male,4,10,28,1
+10645,Stanford White,United States,Male,4,10,11,313
+10633,Stanley A McChrystal,United States,Male,1,22,35,226
+10619,Stanley Crouch,United States,Male,2,2,79,348
+10621,Stanley Elkin,United States,Male,2,2,2,131
+10623,Stanley Fischer,Israel,Male,5,16,20,288
+10622,Stanley Fish,United States,Male,2,2,2,109
+10632,Stanley Marcus,United States,Male,7,17,21,110
+10718,Stella McCartney,United Kingdom,Female,4,10,81,256
+10696,Steny H Hoyer,United States,Male,1,1,1,165
+10670,Stephan Eberharter,Austria,Male,3,3,84,83
+10676,Stephanie Flanders,United Kingdom,Female,2,2,76,218
+10734,Stephen A Schwarzman,United States,Male,7,17,21,45
+10668,Stephen Daldry,United Kingdom,Male,4,4,4,123
+10647,Stephen E Ambrose,United States,Male,2,24,46,10
+10679,Stephen Frears,United Kingdom,Male,4,4,4,171
+10658,Stephen G Breyer,United States,Male,7,25,53,227
+10693,Stephen Holden,United States,Male,2,2,79,199
+10686,Stephen J Hadley,United States,Male,1,1,1,44
+10705,Stephen Kinzer,United States,Male,2,2,76,216
+10660,Stephen L Carter,United States,Male,7,25,53,299
+10700,Stephen L Johnson,United States,Male,1,1,1,80
+10662,Stephen M Case,United States,Male,7,17,21,233
+10751,Stephen M Wolf,United States,Male,7,17,21,1
+10733,Stephen S Roach,United States,Male,5,16,20,259
+10740,Stephen Sondheim,United States,Male,4,14,16,81
+10716,Stephon Marbury,United States,Male,3,21,61,51
+10692,Sterling Hitchcock,United States,Male,3,21,32,119
+10654,Steve Bechler,United States,Male,3,21,32,322
+10702,Steve Karsay,United States,Male,3,21,32,84
+10710,Steve Largent,United States,Male,1,1,1,271
+10715,Steve Mariucci,United States,Male,3,21,40,308
+10720,Steve McNair,United States,Male,3,21,88,45
+10725,Steve Phillips,United States,Male,3,21,32,138
+10742,Steve Spurrier,United States,Male,3,21,40,110
+10743,Steve Strunsky,United States,Male,2,2,76,1
+10744,Steve Trachsel,United States,Male,3,21,32,304
+10755,Steve Yzerman,Canada,Male,3,21,67,129
+10655,Steven Berkoff,United Kingdom,Male,4,4,19,215
+10657,Steven Bochco,United States,Male,6,23,41,350
+10673,Steven Erlanger,United States,Male,2,2,76,1
+10694,Steven Holl,United States,Male,4,10,11,343
+10689,Steven J Hatfill,United States,Male,#N/A,#N/A,0,297
+10677,Steven T Florio,United States,Male,7,17,21,109
+10665,Stewart Cink,United States,Male,3,3,73,141
+10766,Stockard Channing,United States,Female,4,4,19,44
+10767,Stockwell Day,Canada,Male,1,1,1,228
+10769,Strobe Talbott,United States,Male,1,1,59,115
+10770,Strom Thurmond,United States,Male,1,1,1,339
+10771,Stuart Appleby,Australia,Male,3,3,73,121
+10772,Stuart E Eizenstat,United States,Male,1,1,1,15
+10774,Studs Terkel,United States,Male,2,2,76,137
+10780,Sue Miller,United States,Female,2,2,2,333
+10779,Sue W Kelly,United States,Female,1,1,1,270
+10781,Sugar Ray Leonard,United States,Male,3,3,49,138
+10783,Suha Arafat,Palestine,Female,6,26,60,198
+10790,Sumner M Redstone,United States,Male,7,17,21,147
+10800,Susan Cheever,United States,Female,2,2,2,212
+10801,Susan Faludi,United States,Female,2,2,76,108
+10803,Susan Jacoby,United States,Female,2,2,76,155
+10804,Susan McDougal,United States,Female,1,1,1,1
+10805,Susan Molinari,United States,Female,1,1,1,86
+10808,Susan Stroman,United States,Female,6,23,41,290
+10810,Susan Webber Wright,United States,Female,1,1,54,1
+10816,Suzan-Lori Parks,United States,Female,2,2,2,130
+10813,Suzanne Daley,United States,Female,2,2,76,1
+10814,Suzanne Farrell,United States,Female,4,27,72,228
+10815,Suzy Menkes,United Kingdom,Female,2,2,79,358
+10834,Sylvia Nasar,Germany,Female,2,2,76,229
+10842,T Boone Jr Pickens,United States,Male,7,17,21,143
+10843,T Coraghessan Boyle,United States,Male,2,2,2,337
+10846,T J Rodgers,United States,Male,7,17,21,75
+10849,Tab Ramos,United States,Male,3,21,33,264
+10858,Taha Yassin Ramadan,Iraq,Male,1,1,1,53
+10862,Takashi Murakami,Japan,Male,4,8,9,1
+10869,Tan Dun ,China,Male,4,14,30,227
+10879,Tara Lipinski,United States,Female,3,3,66,161
+10888,Tawana Brawley,United States,Female,6,15,38,1
+10898,Ted Cottrell,United States,Male,3,21,40,164
+10902,Ted Koppel,United States,Male,2,2,76,39
+10904,Ted Stevens,United States,Male,1,1,1,322
+10906,Ted Williams,United States,Male,3,21,32,242
+10907,Tegla Loroupe,Kenya,Female,3,3,42,129
+10914,Teresa (Mother) ,India,Female,12,1,14,239
+10921,Teresa Heinz Kerry,United States,Female,6,20,31,278
+10917,Terrell Davis,United States,Male,3,21,88,302
+10930,Terrell Owens,United States,Male,3,21,88,341
+10927,Terrence McNally,United States,Male,2,2,2,307
+10934,Terri Schiavo,United States,Female,7,25,53,337
+10928,Terry Lynn Nichols,United States,Male,6,15,38,91
+10926,Terry McAuliffe,United States,Male,1,1,1,40
+10937,Terry Teachout,United States,Male,2,2,79,37
+10942,Thad Cochran,United States,Male,1,1,1,341
+10940,Thaksin Shinawatra ,Thailand,Male,1,1,1,207
+10944,Thane Rosenbaum,United States,Male,7,25,53,1
+10955,Theo Fleury,Canada,Male,3,21,67,181
+10959,Theodor Seuss Geisel,United States,Male,2,2,2,62
+10974,Theodore B Olson,United States,Male,7,25,53,255
+10984,Theodore C Sorensen,United States,Male,1,1,1,129
+10971,Theodore E McCarrick,United States,Male,1,12,14,188
+10957,Theodore J Forstmann,United States,Male,7,17,21,44
+10975,Theresa Rebeck,United States,Female,2,2,2,50
+10966,Thereza Imanishi-Kari,United States,Female,#N/A,#N/A,0,1
+10993,Thomas Ades,United Kingdom,Male,4,14,30,60
+11065,Thomas E White,United States,Male,1,22,35,348
+11009,Thomas Enqvist,Sweden,Male,3,3,3,72
+11022,Thomas F Hogan,United States,Male,7,25,53,1
+11030,Thomas H Kean,United States,Male,1,1,1,111
+11039,Thomas J Manton,United States,Male,1,1,1,308
+11005,Thomas K Duane,United States,Male,1,1,1,30
+11031,Thomas Keller,United States,Male,6,23,85,287
+11034,Thomas Krens,United States,Male,4,8,9,360
+11042,Thomas M Menino,United States,Male,1,1,1,361
+11037,Thomas Mallon,United States,Male,2,2,2,306
+11043,Thomas Middelhoff,Germany,Male,7,17,21,131
+11004,Thomas P DiNapoli,United States,Male,1,1,1,41
+11015,Thomas P Griesa,United States,Male,7,25,53,284
+11025,Thomas Penfield Jackson,United States,Male,7,25,53,10
+11051,Thomas Powers,United States,Male,2,2,2,347
+11053,Thomas Quasthoff,Germany,Male,4,14,30,313
+11001,Thomas R Carper,United States,Male,1,1,1,23
+11012,Thomas R Frieden,United States,Male,5,11,13,1
+11050,Thomas R Pickering,United States,Male,1,1,1,309
+11060,Thomas R Suozzi,United States,Male,1,1,1,243
+11016,Thomas S Gulotta,United States,Male,7,25,53,118
+11008,Thomas Stearns Eliot,United Kingdom,Male,2,2,2,270
+11003,Thomas V Daily,United States,Male,1,1,1,266
+11069,Thomas von Essen,United States,Male,1,1,1,1
+11070,Thurgood Marshall,United States,Male,7,25,53,184
+11073,Tibor Kalman,United States,Male,4,10,47,187
+11076,Tie Domi,Canada,Male,3,21,67,305
+11080,Tiki Barber,United States,Male,3,21,88,97
+11091,Tim Couch,United States,Male,3,21,88,212
+11094,Tim Donaghy,United States,Male,3,21,61,7
+11099,Tim Hardaway,United States,Male,3,21,61,244
+11104,Tim Hutchinson,United States,Male,1,1,1,223
+11108,Tim McCarver,United States,Male,3,21,32,289
+11111,Tim Montgomery,United States,Male,3,3,42,25
+11112,Tim Pawlenty,United States,Male,1,1,1,332
+11113,Tim Raines,United States,Male,3,21,32,259
+11117,Tim Russert,United States,Male,2,2,76,127
+11118,Tim Tebow,United States,Male,3,21,88,226
+11119,Tim Wakefield,United States,Male,3,21,32,214
+11120,Tim Weiner,United States,Male,2,2,76,172
+11096,Timothy Egan,United States,Male,2,2,76,312
+11097,Timothy F Geithner,United States,Male,5,16,20,230
+11110,Timothy James Mcveigh,United States,Male,6,15,38,114
+11093,Timothy M Dolan,United States,Male,1,12,14,37
+11105,Timothy M Kaine,United States,Male,1,1,1,57
+11123,Tina Brown,United Kingdom,Female,2,2,76,325
+11125,Tina Howe,United States,Female,2,2,2,325
+11126,Tino Martinez,United States,Male,3,21,32,341
+11128,Tipper Gore,United States,Female,6,20,31,232
+11133,Tito Puente,United States,Male,4,14,30,110
+11137,Tobias Picker,United States,Male,4,14,30,199
+11138,Tobias Wolff,United States,Male,2,2,2,170
+11139,Todd Bertuzzi,Canada,Male,3,21,67,33
+11140,Todd Eldredge,United States,Male,3,3,66,240
+11141,Todd Gitlin,United States,Male,2,2,76,1
+11142,Todd Haynes,United States,Male,4,4,4,2
+11143,Todd Hundley,United States,Male,3,21,32,147
+11144,Todd Martin,United States,Male,3,3,3,189
+11145,Todd Oldham,United States,Male,4,10,81,295
+11146,Todd S Purdum,United States,Male,2,2,76,347
+11147,Todd Solondz,United States,Male,4,4,4,288
+11148,Todd Zeile,United States,Male,3,21,32,252
+11157,Tom Brady,United States,Male,3,21,88,215
+11158,Tom Brokaw,United States,Male,2,2,76,37
+11162,Tom Coburn,United States,Male,1,1,1,74
+11163,Tom Colicchio,United States,Male,6,23,85,227
+11164,Tom Coughlin,United States,Male,3,21,88,243
+11166,Tom Daschle,United States,Male,1,1,1,343
+11168,Tom Delay,United States,Male,1,1,1,98
+11170,Tom Ford,United States,Male,4,10,81,239
+11172,Tom Freston,United States,Male,7,17,21,326
+11173,Tom Glavine,United States,Male,3,21,32,84
+11174,Tom Golisano,United States,Male,7,17,21,318
+11177,Tom Harkin,United States,Male,1,1,1,323
+11179,Tom Hayden,United States,Male,1,1,1,345
+11188,Tom Kite,United States,Male,3,3,73,343
+11190,Tom Lantos,United States,Male,1,1,1,32
+11192,Tom Lehman,United States,Male,3,3,73,66
+11199,Tom Perrotta,United States,Male,2,2,2,225
+11201,Tom Ridge,United States,Male,1,1,1,238
+11204,Tom Seaver,United States,Male,3,21,32,322
+11208,Tom Tancredo,United States,Male,1,1,1,354
+11212,Tom Vilsack,United States,Male,1,1,1,346
+11209,Tommy G Thompson,United States,Male,1,1,1,323
+11181,Tommy Hilfiger,United States,Male,4,10,81,83
+11191,Tommy Lasorda,United States,Male,3,21,32,265
+11193,Tommy Maddox,United States,Male,3,21,88,245
+11196,Tommy Morrison,United States,Male,3,3,49,2
+11171,Tommy R Franks,United States,Male,1,22,35,168
+11219,Tony Blair,United Kingdom,Male,1,1,1,126
+11221,Tony Coelho,United States,Male,1,1,1,166
+11224,Tony Dungy,United States,Male,3,21,88,279
+11225,Tony Gwynn,United States,Male,3,21,32,130
+11229,Tony Hillerman,United States,Male,2,2,2,147
+11234,Tony Kushner,United States,Male,2,2,2,198
+11246,Tony la Russa,United States,Male,3,21,32,278
+11238,Tony Phillips,United States,Male,3,21,32,115
+11239,Tony Randall,United States,Male,4,4,19,57
+11243,Tony Snow,United States,Male,2,2,76,152
+11244,Tony Stewart,United States,Male,3,3,58,140
+11245,Tony Walton,United Kingdom,Male,#N/A,#N/A,0,297
+11226,Tonya Harding,United States,Female,3,3,66,316
+11260,Tovah Feldshuh,United States,Female,4,4,19,362
+11271,Tracey Ullman,United Kingdom,Female,4,4,19,364
+11268,Tracy Letts,United States,Male,2,2,2,185
+11273,Trent Lott,United States,Male,1,1,1,282
+11274,Trevor Nunn,United Kingdom,Male,#N/A,#N/A,0,14
+11278,Trip Gabriel,United States,Male,2,2,76,1
+11277,Trisha Brown,United States,Female,4,27,72,330
+11281,Troy Aikman,United States,Male,3,21,88,325
+11290,Tsuyoshi Shinjo,Japan,Male,3,21,32,28
+11293,Tubby Smith,United States,Male,3,21,61,181
+11294,Tucker Carlson,United States,Male,2,2,76,136
+11301,Turk Wendell,United States,Male,3,21,32,139
+11303,Twyla Tharp,United States,Female,4,27,72,182
+11304,Ty Cobb,United States,Male,3,21,32,352
+11306,Tyler Perry,United States,Male,4,4,4,256
+11309,Tyrone Wheatley,United States,Male,3,21,88,19
+11310,Tyrone Willingham,United States,Male,3,21,88,364
+11316,Uday Hussein,Iraq,Male,1,1,1,170
+11324,Umar Farouk Abdulmutallab,Nigeria,Male,6,15,38,356
+11328,Umberto Bossi,Italy,Male,1,1,1,262
+11339,Ursula Oppens,United States,Female,4,14,30,33
+11343,Uta Hagen,Germany,Female,#N/A,#N/A,0,163
+11346,Ute Lemper,Germany,Female,4,14,30,185
+11348,V Gene Robinson,United States,Male,1,12,14,149
+11369,Valerie Plame,United States,Female,1,1,1,225
+11378,Van Cliburn,United States,Male,4,14,30,193
+11385,Vartan Gregorian,Armenia,Male,#N/A,#N/A,0,98
+11391,Vaslav Nijinsky,RUssia,Male,4,27,72,71
+11401,Vaughn R Walker,United States,Male,7,25,53,1
+11416,Verlyn Klinkenborg,United States,Male,2,2,76,1
+11415,Vernon E Jr Jordan,United States,Male,1,1,1,227
+11413,Vernon Forrest,United States,Male,3,3,49,12
+11432,Vic Fazio,United States,Male,1,1,1,284
+11430,Victor Borge,Danish,Male,4,4,83,3
+11438,Victor Davis Hanson,United States,Male,2,2,76,248
+11436,Victoria Gotti,United States,Female,#N/A,#N/A,0,331
+11458,Vijay Singh,Fiji,Male,3,3,73,53
+11467,Vikram S Pandit,India,Male,7,17,21,14
+11477,Vin Baker,United States,Male,3,21,61,327
+11486,Vincent Gigante,United States,Male,6,15,52,89
+11483,Vincent Jr Cianci,United States,Male,1,1,1,120
+11500,Vincent van Gogh,Netherlands,Male,4,8,9,89
+11485,Vincent W Jr Foster,United States,Male,1,1,1,15
+11497,Vinny Testaverde,United States,Male,3,21,88,317
+11509,Virgil Thomson,United States,Male,4,14,30,330
+11506,Virginia Heffernan,United States,Female,2,2,76,220
+11508,Virginia Postrel,United States,Female,2,2,76,14
+11516,Vito J Jr Fossella,United States,Male,1,1,1,68
+11535,Vladimir A Gusinsky,RUssia,Male,7,17,21,280
+11532,Vladimir Feltsman,RUssia,Male,4,14,30,8
+11534,Vladimir Guerrero,Dominican Republic,Male,3,21,32,40
+11538,Vladimir Konstantinov,RUssia,Male,3,21,67,78
+11542,Vladimiro Montesinos,Peru,Male,1,1,1,140
+11566,W Ann Reynolds,United States,Female,#N/A,#N/A,0,1
+11567,W D Wetherell,United States,Male,2,2,2,1
+11572,Wade Boggs,United States,Male,3,21,32,166
+11573,Wadih El-Hage,Lebanon,Male,6,15,38,207
+11576,Walid Bin Talal ,#N/A,#N/A,#N/A,#N/A,#N/A,66
+11587,Walker Evans,United States,Male,4,8,71,307
+11580,Walt Bogdanich,United States,Male,2,2,76,283
+11588,Walt Frazier,United States,Male,3,21,61,88
+11577,Walter H Annenberg,United States,Male,2,2,2,73
+11595,Walter Isaacson,United States,Male,2,2,76,80
+11601,Walter Mosley,United States,Male,2,2,2,12
+11603,Walter Payton,United States,Male,3,21,88,206
+11598,Walter Russell Mead,United States,Male,2,2,76,164
+11620,Ward Connerly,United States,Male,1,1,1,166
+11626,Ward Just,United States,Male,2,2,2,248
+11628,Warner Leroy,United States,Male,6,23,85,62
+11624,Warren Hoge,United States,Male,2,2,76,1
+11627,Warren Leight,United States,Male,#N/A,#N/A,0,17
+11619,Warren M Christopher,United States,Male,1,1,1,300
+11629,Warren Moon,United States,Male,3,21,88,323
+11625,Warren S Jeffs,United States,Male,1,12,14,337
+11630,Warren Sapp,United States,Male,3,21,88,354
+11635,Wayne Chrebet,United States,Male,3,21,88,226
+11636,Wayne Ferreira,South African,Male,3,3,3,258
+11638,Wayne LaPierre,United States,Male,6,20,31,313
+11640,Wayne Shorter,United States,Male,4,14,30,237
+11641,Wayne Wang,United States,Male,4,4,4,12
+11642,Webster L Hubbell,United States,Male,7,25,53,1
+11643,Wei Jingsheng ,#N/A,#N/A,#N/A,#N/A,#N/A,140
+11645,Wellington Mara,United States,Male,3,21,88,227
+11649,Wen Ho Lee,United States,Male,#N/A,#N/A,0,355
+11646,Wen Jiabao ,#N/A,#N/A,#N/A,#N/A,#N/A,262
+11648,Wendy Kaminer,United States,Female,7,25,53,1
+11652,Wendy Wasserstein,United States,Female,2,2,2,291
+11663,Wesley K Clark,United States,Male,1,22,35,358
+11800,Wilbert Rideau,United States,Male,2,2,76,44
+11802,Wilbur L Jr Ross,United States,Male,7,17,21,332
+11814,Will Shortz,United States,Male,7,5,8,239
+11696,Willa Cather,United States,Female,2,2,2,341
+11843,Willem de Kooning,Netherlands,Male,4,8,9,115
+11674,William Baldwin,United States,Male,4,4,19,52
+11681,William Bolcom,United States,Male,4,14,30,146
+11778,William C McCool,United States,Male,8,18,39,266
+11799,William C Rhoden,United States,Male,2,2,76,1
+11701,William E Colby,United States,Male,1,1,1,4
+11754,William E Kennard,United States,Male,1,1,1,1
+11721,William F Galvin,United States,Male,1,1,1,260
+11830,William F Weld,United States,Male,1,1,1,212
+11685,William G Bowen,United States,Male,#N/A,#N/A,0,279
+11709,William H Donaldson,United States,Male,7,17,21,153
+11727,William H Ginsburg,United States,Male,7,25,53,84
+11772,William H Macy,United States,Male,4,4,19,72
+11797,William H Rehnquist,United States,Male,7,25,53,275
+11829,William H Webster,United States,Male,7,25,53,66
+11733,William Hague,United Kingdom,Male,1,1,1,85
+11677,William J Bennett,United States,Male,1,1,1,212
+11690,William J Bratton,United States,Male,#N/A,#N/A,0,279
+11691,William J Broad,United States,Male,2,2,76,66
+11749,William J Jefferson,United States,Male,1,1,1,73
+11789,William J Jr Pascrell,United States,Male,1,1,1,25
+11779,William J McDonough,United States,Male,7,17,21,111
+11791,William J Perry,United States,Male,1,1,1,284
+11752,William Joppy,United States,Male,3,3,49,254
+11836,William Julius Wilson,United States,Male,5,16,62,354
+11760,William Kristol,United States,Male,2,2,76,358
+11763,William Langewiesche,United States,Male,2,2,76,163
+11706,William M Daley,United States,Male,1,1,1,222
+11774,William Manchester,United States,Male,2,24,46,91
+11699,William S Cohen,United States,Male,1,1,1,241
+11726,William S Gilbert,United States,Male,4,14,30,323
+11766,William S Lerach,United States,Male,7,25,53,73
+11804,William Safire,United States,Male,2,2,76,351
+11713,William T Esrey,United States,Male,7,17,21,1
+11826,William Trevor,Ireland,Male,2,2,2,145
+11837,Willie L Williams,United States,Male,#N/A,#N/A,0,274
+11777,Willie Mays,United States,Male,3,21,32,126
+11796,Willie Randolph,United States,Male,3,21,32,187
+11731,Wilton D Gregory,United States,Male,1,12,14,341
+11849,Winnie Mandela,South African,Female,1,1,1,270
+11848,Winslow Homer,United States,Male,4,8,9,55
+11853,Wiranto ,#N/A,#N/A,#N/A,#N/A,#N/A,94
+11857,Witold Rybczynski,Canada,Male,4,10,11,60
+11873,Wolfgang Puck,Austria,Male,6,23,85,189
+11875,Wolfgang Sawallisch,Germany,Male,4,14,30,238
+11880,Wolfgang Wagner,Germany,Male,4,14,30,1
+11881,Wong Kar-Wai ,#N/A,#N/A,#N/A,#N/A,#N/A,198
+11892,Wystan Hugh Auden,United Kingdom,Male,2,2,2,52
+11912,Yao Ming ,#N/A,#N/A,#N/A,#N/A,#N/A,256
+11924,Yasmina Reza,France,Female,#N/A,#N/A,0,121
+11919,Yasser Esam Hamdi,United States,Male,7,25,53,270
+11918,Yasuo Hamanaka,Japan,Male,7,17,21,1
+11929,Yefim Bronfman,RUssia,Male,4,14,30,100
+11932,Yelena Berezhnaya,RUssia,Female,3,3,66,284
+11939,Yevgeny Plushenko,RUssia,Male,3,3,66,307
+11945,Yigal Amir,Israel,Male,6,15,38,143
+11950,Yitzhak Mordechai,Israel,Male,1,22,35,327
+11959,Yogi Berra,United States,Male,3,21,32,132
+11962,Yohji Yamamoto,Japan,Male,4,10,81,276
+11966,Yossi Beilin,Israel,Male,1,1,1,164
+11955,Yo-Yo Ma,United States,Male,4,14,30,280
+11989,Yuri Temirkanov,RUssia,Male,4,14,30,344
+12000,Zab Judah,United States,Male,3,3,49,300
+12004,Zacarias Moussaoui,France,Male,6,15,38,151
+12011,Zalmay Khalilzad,Afghanistan,Male,1,1,59,81
+12013,Zarin Mehta,India,Male,4,14,30,301
+12023,Zell Miller,United States,Male,1,1,1,56
+12028,Zhang Yimou ,#N/A,#N/A,#N/A,#N/A,#N/A,318
+12029,Zhao Yan ,#N/A,#N/A,#N/A,#N/A,#N/A,73
+12027,Zhao Ziyang ,#N/A,#N/A,#N/A,#N/A,#N/A,290
+12037,Zhu Rongji ,#N/A,#N/A,#N/A,#N/A,#N/A,275
+12039,Zigmund Palffy,Slovakia,Male,3,21,67,126
+12054,Zora Neale Hurston,United States,Female,2,2,2,7
