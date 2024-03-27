@@ -29,10 +29,10 @@ I created a custom field in both my main data sets (Famous_Birthdates.txt and Pa
 * I wrote to SQL tables via Python
 * I read in data from SQL tables via Python
 * I updated SQL tables via python
-## Visual/Present Data - 
-## Best Practices - 
-I created a custom data dictionary for this project, which can be found in the repo as Zodiac_Analysis_Data_Dictionary.pdf.  
-I utilized a Virtual Environment
+## Visual/Present Data
+## Best Practices
+* I created a custom data dictionary for this project, which can be found in the repo as Zodiac_Analysis_Data_Dictionary.pdf.  
+* I utilized a Virtual Environment.  Details on how to run can be found below.
 ## Interpretation of Data
 I have annotated and commented my code in a Jupyter notebook so that it should be easy to follow and understand the steps being taken in each cell. 
 GitHub Repository - My GitHub repository has 24 commits as of 3/26/24.
