@@ -35,7 +35,8 @@ I created a custom field in both my main data sets (Famous_Birthdates.txt and Pa
 * I utilized a Virtual Environment.  Details on how to run can be found below.
 ## Interpretation of Data
 I have annotated and commented my code in a Jupyter notebook so that it should be easy to follow and understand the steps being taken in each cell. 
-GitHub Repository - My GitHub repository has 24 commits as of 3/26/24.
+
+My GitHub repository has 24 commits as of 3/26/24.
 
 # How to Run
 1. Clone the repo to your local machine. 
