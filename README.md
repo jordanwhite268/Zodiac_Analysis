@@ -5,9 +5,11 @@ One thing that has always intrigued me is the idea of different Zodiac signs hav
 In researching topics and datasets for this project, I came across a source that was produced by Harvard University's Pantheon Data Project that really fascinated me.  Compiled in 2016, this project represents a  "manually verified dataset of individuals that have transcended linguistic, temporal, and geographic boundaries'' and classifies them categorically by domain of accomplishment (e.g. Sports, the Arts, Science and Technology), Industry (e.g. Team Sports, Music, Medicine), and Occupation (e.g. Baseball Player, Composer, Psychologist).  The two above thoughts collided, and made me wonder:  if certain signs are predisposed to certain personality traits, does that mean that certain signs naturally gravitate to certain career paths?  And if so, is there a correlation between people who have excelled in certain areas and their Zodiac?  
 
 # Features
-## Loading Data - This project includes 4 CSV datasets and 1 txt file that were cleaned and and processed within a Pandas dataframe and then loaded into a SQLite database.  
-## Clean and Operate on data while combining them - 
-### Data Cleaning:  I used a number of different methods to clean my data once the files were loaded into a Pandas Dataframe, including:
+## Loading Data 
+This project includes 4 CSV datasets and 1 txt file that were cleaned and and processed within a Pandas dataframe and then loaded into a SQLite database.  
+## Clean and Operate on data while combining them 
+I used both Python and SQL to clean, transform, and join my data.
+### Python Operations:  I used a number of different methods to clean my data once the files were loaded into a Pandas Dataframe, including:
 Converting a date to date/time
 Converting date to the day of the year
 Dropping NAs
