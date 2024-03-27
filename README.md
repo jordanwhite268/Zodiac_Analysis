@@ -5,36 +5,40 @@ One thing that has always intrigued me is the idea of different Zodiac signs hav
 In researching topics and datasets for this project, I came across a source that was produced by Harvard University's Pantheon Data Project that really fascinated me.  Compiled in 2016, this project represents a  "manually verified dataset of individuals that have transcended linguistic, temporal, and geographic boundaries'' and classifies them categorically by domain of accomplishment (e.g. Sports, the Arts, Science and Technology), Industry (e.g. Team Sports, Music, Medicine), and Occupation (e.g. Baseball Player, Composer, Psychologist).  The two above thoughts collided, and made me wonder:  if certain signs are predisposed to certain personality traits, does that mean that certain signs naturally gravitate to certain career paths?  And if so, is there a correlation between people who have excelled in certain areas and their Zodiac?  
 
 # Features
-##Loading Data - This project includes 4 CSV datasets and 1 txt file that were cleaned and and processed within a Pandas dataframe and then loaded into a SQLite database.  
-## Clean and Operate on data while combining them - 
-### Data Cleaning:  I used a number of different methods to clean my data once the files were loaded into a Pandas Dataframe, including:
-Converting a date to date/time
-Converting date to the day of the year
-Dropping NAs
-Dropping unnecessary columns
-Df.loc[] and iloc[]
-String replacements
-Renaming columns
-Functions
-Concatenating
-Changing capitalization
-Forcing non-English characters into English characters
-Setting Indices
-Cast to numeric
-### SQL operating
+## Loading Data 
+This project includes 4 CSV datasets and 1 txt file that were cleaned and and processed within a Pandas dataframe and then loaded into a SQLite database.  
+## Clean and Operate on data while combining them 
+I used both Python and SQL to clean, transform, and join my data.
+### Python Operations:  
+I used a number of different methods to clean my data once the files were loaded into a Pandas Dataframe, including:
+* Converting a date to date/time
+* Converting date to the day of the year
+* Dropping NAs
+* Dropping unnecessary columns
+* Df.loc[] and iloc[]
+* String replacements
+* Renaming columns
+* Functions
+* Concatenating
+* Changing capitalization
+* Forcing non-English characters into English characters
+* Setting Indices
+* Cast to numeric
+### SQL operating and join
 I created a custom field in both my main data sets (Famous_Birthdates.txt and Pantheon_People.csv) that combined the first three characters of a person’s first name with the first three characters of a person’s last name and birth year (e.g. JorWhi1989) to create a unique identifier from values in both datasets.  I then performed a SQL join and wrote this data to its own People table. 
-I wrote to SQL tables via Python
-I read in data from SQL tables via Python
-I updated SQL tables via python
-## Visual/Present Data - 
-## Best Practices - 
-I created a custom data dictionary for this project, which can be found in the repo as Zodiac_Analysis_Data_Dictionary.pdf.  
-I utilized a Virtual Environment
+* I wrote to SQL tables via Python
+* I read in data from SQL tables via Python
+* I updated SQL tables via python
+## Visual/Present Data
+## Best Practices
+* I created a custom data dictionary for this project, which can be found in the repo as Zodiac_Analysis_Data_Dictionary.pdf.  
+* I utilized a Virtual Environment.  Details on how to run can be found below.
 ## Interpretation of Data
 I have annotated and commented my code in a Jupyter notebook so that it should be easy to follow and understand the steps being taken in each cell. 
-GitHub Repository - My GitHub repository has 24 commits as of 3/26/24.
 
-#How to Run
+My GitHub repository has 24 commits as of 3/26/24.
+
+# How to Run
 1. Clone the repo to your local machine. 
 2. Create a virtual environment and install the packages listed in the requirements.txt file
    - Navigate to the folder in GitBash
@@ -58,7 +62,7 @@ In my dataset of over 10,000 people, there was a fairly equal distribution of th
 > Add something about breakdown of signs here. 
 
 
-In order to determine what combinations of sign and area might have a correlation, I calculated the percentage of people in the area with that zodiac sign, and subtracted the percentage of the zodiac sign of the total population.  With this calculation, I found the following to differ 1% or greater from the distribution in the total population: 
+In order to analyze my data, I used a proportional analysis to determine which combinations of signs and career paths were more prevelant. To do this, I calculated the percentage of people in the area with that zodiac sign, and subtracted the percentage of the zodiac sign of the total population.  With this calculation, I found the following to differ 2% or greater from the distribution in the total population: 
 
 
 > [!WARNING]
