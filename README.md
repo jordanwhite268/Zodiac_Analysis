@@ -1,6 +1,7 @@
 
-# Introduction
+![Jordan WHite Code Ky Capstone Project](https://github.com/jordanwhite268/Zodiac_Analysis/assets/66019293/3b6a34c8-b25f-476c-9fa1-712bbb75c918)
 
+# Introduction
 One thing that has always intrigued me is the idea of different Zodiac signs having specific personality traits. While I can't say I put a lot of stock into horoscopes, I can't help but notice that there does seem to be some correlation between the personalities of people in my life and their signs.  Admittedly, the zodiac is not the most scientific of topics, but it is fun to think about, and worthy of some data analysis practice.  
 
 In researching topics and datasets for this project, I came across a source that was produced by Harvard University's Pantheon Data Project that really fascinated me.  Compiled in 2016, this project represents a  "manually verified dataset of individuals that have transcended linguistic, temporal, and geographic boundaries'' and classifies them categorically by domain of accomplishment (e.g. Sports, the Arts, Science and Technology), Industry (e.g. Team Sports, Music, Medicine), and Occupation (e.g. Baseball Player, Composer, Psychologist).  The two above thoughts collided, and made me wonder:  if certain signs are predisposed to certain personality traits, does that mean that certain signs naturally gravitate to certain career paths?  And if so, is there a correlation between people who have excelled in certain areas and their Zodiac?  
