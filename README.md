@@ -58,17 +58,29 @@ Once you have finished, enter `deactivate` in GitBash to deactivate the virtual 
 # Interpretation
 In my dataset of over 10,000 people, there was a fairly equal distribution of the Zodiac signs, with the exception of Capricorns:
 
-> [!WARNING]
-> Add something about breakdown of signs here. 
+![Zod Pie Chart](https://github.com/jordanwhite268/Zodiac_Analysis/assets/66019293/77cde574-fd99-47f3-b231-20f6507ade28)
 
+In order to analyze my data, I used a proportional analysis to determine which combinations of signs and career paths were more prevelant. To do this, I calculated the percentage of people in the area with that zodiac sign, and subtracted the percentage of the zodiac sign of the total population.  
 
-In order to analyze my data, I used a proportional analysis to determine which combinations of signs and career paths were more prevelant. To do this, I calculated the percentage of people in the area with that zodiac sign, and subtracted the percentage of the zodiac sign of the total population.  With this calculation, I found the following to differ 2% or greater from the distribution in the total population: 
+## Prevalent Area/Zodiac Pairings - >= 2% Prevalence
+### Business & Law
+- Occupations Included: Lawyer, Business Person
+- ***Leo*** - 3.2% greater prevalence than general population
+-    Noteable people:  Mark Cuban, George Soros
+- ***Capricorn*** - 8.4% greater prevalence than general population
+-    Noteable people:  Jeff Bezos, Howard Hughes
+### Humanities 
+- Occupations Included:  Critic, Historian, Journalist, Philosopher, Writer  
+- ***Capricorn*** - 3.6% greater prevalence than general population
+-    Noteable people:  Edgar Allen Poe, Emily Bronte, Katie Couric
+### Public Figures 
+- Occupations Included:  Celebrity, Chef, Presenter/Host, Activist, Extremist
+- ***Taurus*** - 3% greater prevalence than general population
+-    Noteable People:  Jay Leno, Malcolm X, Jim Jones
+ - ***Capricorn*** - 4.6% greater prevalence than general population
+-    Noteable People:  Howard Stern, Frederick Douglass, Michelle Obama 
 
-
-> [!WARNING]
-> Add table here of signs that were prominent.
-
-I excluded Exploration from my calculations due to a small sample size.  
+Exploration was excluded from calculations due to a small sample size.  
 
 Industries
 Looking at the above areas and most prominent signs, I then dug further into the specific industries within the area with a larger proportion of people.  Because there were not equal numbers for each industry per area…. 
