@@ -42,6 +42,8 @@ I have annotated and commented my code in a Jupyter notebook so that it should b
 My GitHub repository has 24 commits as of 3/26/24.
 
 # How to Run
+
+***You will need the ability to run Python code and review Jupyter notebooks to review this project.***
 1. Clone the repo to your local machine. 
 2. Create a virtual environment and install the packages listed in the requirements.txt file
    - Navigate to the folder in GitBash
