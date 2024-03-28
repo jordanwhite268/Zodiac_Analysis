@@ -1,5 +1,3 @@
-<p><img src="[/url](https://www.canva.com/design/DAGA05DQJS8/0K_csTAPN4Wm4Lb_vupSeQ/view?utm_content=DAGA05DQJS8&utm_campaign=designshare&utm_medium=link&utm_source=editor)" alt="project logo" title="Zodiac Analysis - Jordan White Code KY Capstone Project" /></p>
-
 
 # Introduction
 
