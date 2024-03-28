@@ -32,6 +32,7 @@ I created a custom field in both my main data sets (Famous_Birthdates.txt and Pa
 * I read in data from SQL tables via Python
 * I updated SQL tables via python
 ## Visual/Present Data
+A Tableau story has been created and can be found here:  ***Need to insert link***
 ## Best Practices
 * I created a custom data dictionary for this project, which can be found in the repo as Zodiac_Analysis_Data_Dictionary.pdf.  
 * I utilized a Virtual Environment.  Details on how to run can be found below.
@@ -62,6 +63,25 @@ In my dataset of over 10,000 people, there was a fairly equal distribution of th
 
 ![Zod Pie Chart](https://github.com/jordanwhite268/Zodiac_Analysis/assets/66019293/77cde574-fd99-47f3-b231-20f6507ade28)
 
+## Definitions of the Zodiac
+According to one source on the Zodiac (see data dictionary for more information), the signs have the following traits:
+
+| Sign | Dates | Traits | 
+| --- | --- | --- |
+| Aries | March 21-April 19 | Competitive, Warm, Bold, Lively |
+| Taurus | April 20-May 20 | Stubborn, Resolute, Grounded, Resilient |
+| Gemini | May 21-June 20 | Curious, Witty, Communicative, Youthful |
+| Cancer | June 21-July 22 | Emotional, Sentimental, Passionate, Loyal |
+| Leo | July 23-August 22 | Dramatic, Courageous, Passionate, Charismatic |
+| Virgo | August 23-September 22 | Practical, Analytical, Detail-focused, Desire to be helpful |
+| Libra | September 23-October 22 | Artistic, Indecisive, Desire to maintain harmony and peace |
+| Scorpio | October 23-November 21 | Mysterious, Intense, Passionate, Independent |
+| Sagittarius | November 22-December 21 | Adventurous, Free-Spirited, Playful, Constantly seeking new wisdom and experiences |
+| Capricorn | December 22-January 19 | Disciplined, Dedicated, Patient, Hardworking |
+| Aquarius | January 20-February 18 | Truthful, Intelligent, Creative, Forward-Thinking |
+| Pisces | February 19-March 20 | Empathetic, Intuitive, Understanding, Sensitive |
+
+
 In order to analyze my data, I used a proportional analysis to determine which combinations of signs and career paths were more prevelant. To do this, I calculated the percentage of people in the area with that zodiac sign, and subtracted the percentage of the zodiac sign of the total population.  
 
 These visualizations can be found here: 
@@ -87,7 +107,7 @@ These visualizations can be found here:
 Exploration was excluded from calculations due to a small sample size.  
 
 ## Prevalent Occupation/Zodiac Pairings - >= 5% Prevalence
-This analysis reviewed occupations with a total of 100 or more people and used the same calculations as above 
+This analysis reviewed occupations with a total of 100 or more people and used the same calculations as above: 
 
 | Area | Occupation | Zodiac Sign | Prevalence | Notable People |
 | --- | --- | --- | --- | --- |
@@ -102,5 +122,7 @@ This analysis reviewed occupations with a total of 100 or more people and used t
 | Sports | Tennis | Gemini | 5.1% | Venus Williams, Rafael Nadal |
 
 ## Conclusion
-One sign that is prominent through all these results is Capricorn.  Per the definitions in the data dictionary, Capricorns are disciplined, dedicated, patient, and hardworking, which are necessary traits to excel in any career path, but certainly also for Journalism, and the areas of Business and Law, etc.  Sagittariuses, prominent in Military Personnel and Composers, are adventurous, free-spirited, playful, and constantly seeking new wisdom and experiences. While one can make deductions from these correlations, there is certainly more nuance to one's personality and career path than can be captured in a Zodiac sign.  In addition, being a pseudoscience, there is no one single definition of a given Zodiac sign. 
+One sign that is prominent through all these results is Capricorn.  Per the definitions in the data dictionary, Capricorns are disciplined, dedicated, patient, and hardworking, which are necessary traits to excel in any career path, but certainly also for Journalism, and the areas of Business and Law, etc.  Members of the military can be adventurous, and composers can be keen on seeking new experices, like their Sagittarius sign suggests. Biologists and Gemini are perhaps both curious and witty. But are basketball players (prominently Pisces) more empathetic and sensitive than football players (Scorpios)?  While one can make deductions from these correlations, there is certainly more nuance to one's personality and career path than can be captured in a few adjectives associated with a Zodiac sign.  Plus, being a pseudoscience, there is no one single definition of traits attributed to a sign; each source varies and there's no true authority on the matter.  So, interesting to think about, fun to discuss, of course. Annecdotally supported? Ok, sure.  But proven empirically? Maybe not...  
 
+## Future Expansion
+This project was a lot of fun to think about, and I think even without the Zodiac aspect, the People dataset that I created is functional and potentially has greater use.  I'd love to continue to add to it and bring in other demographics - birthplace, gender, etc., and I set up my database in such a way as to potentially add additional entries at a later date. I had also intitially intended to look more at Zodiac Elements (fire, earth, water, air) and things like moon signs and sun signs and all the different things one can explore within the Zodiac, but decided to leave them out due to time constraints. Maybe one of those will better unlock all the secrets of the Zodiac... 
