@@ -32,7 +32,7 @@ I created a custom field in both my main data sets (Famous_Birthdates.txt and Pa
 * I read in data from SQL tables via Python
 * I updated SQL tables via python
 ## Visual/Present Data
-A Tableau story has been created and can be found here:  ***Need to insert link***
+A Tableau story has been created and can be found here: [ Tableau ](https://public.tableau.com/views/ZodiacAnalysis/ZodiacSignandCareerExpertise?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 ## Best Practices
 * I created a custom data dictionary for this project, which can be found in the repo as Zodiac_Analysis_Data_Dictionary.pdf.  
 * I utilized a Virtual Environment.  Details on how to run can be found below.
