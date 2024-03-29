@@ -85,7 +85,7 @@ According to one source on the Zodiac (see data dictionary for more information)
 
 In order to analyze my data, I used a proportional analysis to determine which combinations of signs and career paths were more prevelant. To do this, I calculated the percentage of people in the area with that zodiac sign, and subtracted the percentage of the zodiac sign of the total population.  
 
-These visualizations can be found here: 
+These visualizations can be found here: https://public.tableau.com/shared/PM4HMMNP9?:display_count=n&:origin=viz_share_link
 
 ## Prevalent Area/Zodiac Pairings - >= 2% Prevalence
 ### Business & Law
