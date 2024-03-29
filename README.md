@@ -51,8 +51,7 @@ My GitHub repository has 24 commits as of 3/26/24.
       - For windows:  `python -m venv myvenv`
       - For Mac - `python3 -m venv myvenv`
 3. Activate the virtual environment:
-      `Cd myenv/scripts`
-      `Source activate`
+      - `source myvenv/Scripts/activate`
 4. Install the required packages: `pip install -r requirements.txt`
 5. Open the Jupyter notebook.  Click Run to run the code in each cell.  
    - There are several cells which read in data from the files in the repo.  If needed, change the file path to the    location of the repository on your local machine. 
